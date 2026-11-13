@@ -24,7 +24,7 @@ vegan::diversity() — calcula os índices de diversidade de Shannon e Simpson. 
 vegan::vegdist() — calcula a dissimilaridade de Bray-Curtis. <br>
 vegan::wcmdscale() — realiza a Análise de Coordenadas Principais (PCoA).
 
-#### AGRUPAMENTO — stats
+### AGRUPAMENTO — stats
 stats::hclust() — realiza o agrupamento hierárquico (UPGMA).<br>
 stats::as.dist() — converte uma matriz em um objeto de distâncias.
 
