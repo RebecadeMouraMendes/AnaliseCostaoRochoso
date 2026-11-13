@@ -1,0 +1,2107 @@
+"grupo","transecto","quadrado","taxon","cobertura_pct","Q_anterior","Q_seguinte","cobertura_seguinte","diferenca"
+"A","A T1",1,"Asteronema breviarticulatum",0,1,2,0,0
+"A","A T1",2,"Asteronema breviarticulatum",0,2,3,0,0
+"A","A T1",3,"Asteronema breviarticulatum",0,3,4,0,0
+"A","A T1",4,"Asteronema breviarticulatum",0,4,5,12.5,-12.5
+"A","A T1",1,"Bunodossoma caissarum",0,1,2,0,0
+"A","A T1",2,"Bunodossoma caissarum",0,2,3,0,0
+"A","A T1",3,"Bunodossoma caissarum",0,3,4,0,0
+"A","A T1",4,"Bunodossoma caissarum",0,4,5,0,0
+"A","A T1",1,"CCA (Algas calcárias incrustantes)",0,1,2,0,0
+"A","A T1",2,"CCA (Algas calcárias incrustantes)",0,2,3,0,0
+"A","A T1",3,"CCA (Algas calcárias incrustantes)",0,3,4,0,0
+"A","A T1",4,"CCA (Algas calcárias incrustantes)",0,4,5,0,0
+"A","A T1",1,"Chaetomorpha anteninna",0,1,2,0,0
+"A","A T1",2,"Chaetomorpha anteninna",0,2,3,0,0
+"A","A T1",3,"Chaetomorpha anteninna",0,3,4,0.3125,-0.3125
+"A","A T1",4,"Chaetomorpha anteninna",0.3125,4,5,20.3125,-20
+"A","A T1",1,"Chthamalus bisinuatus",34.375,1,2,15.625,18.75
+"A","A T1",2,"Chthamalus bisinuatus",15.625,2,3,0,15.625
+"A","A T1",3,"Chthamalus bisinuatus",0,3,4,0,0
+"A","A T1",4,"Chthamalus bisinuatus",0,4,5,0,0
+"A","A T1",1,"Colpomenia sinuosa",0,1,2,0,0
+"A","A T1",2,"Colpomenia sinuosa",0,2,3,0,0
+"A","A T1",3,"Colpomenia sinuosa",0,3,4,0,0
+"A","A T1",4,"Colpomenia sinuosa",0,4,5,0,0
+"A","A T1",1,"Crassostrea rhizophorae",0,1,2,0,0
+"A","A T1",2,"Crassostrea rhizophorae",0,2,3,0,0
+"A","A T1",3,"Crassostrea rhizophorae",0,3,4,3.125,-3.125
+"A","A T1",4,"Crassostrea rhizophorae",3.125,4,5,1.5625,1.5625
+"A","A T1",1,"Echinolittorina lineolata",0,1,2,0,0
+"A","A T1",2,"Echinolittorina lineolata",0,2,3,0.15625,-0.15625
+"A","A T1",3,"Echinolittorina lineolata",0.15625,3,4,0.15625,0
+"A","A T1",4,"Echinolittorina lineolata",0.15625,4,5,0,0.15625
+"A","A T1",1,"Fissurella sp",0,1,2,0,0
+"A","A T1",2,"Fissurella sp",0,2,3,0,0
+"A","A T1",3,"Fissurella sp",0,3,4,0,0
+"A","A T1",4,"Fissurella sp",0,4,5,0,0
+"A","A T1",1,"Gelidiella acerosa",0,1,2,0,0
+"A","A T1",2,"Gelidiella acerosa",0,2,3,0,0
+"A","A T1",3,"Gelidiella acerosa",0,3,4,0,0
+"A","A T1",4,"Gelidiella acerosa",0,4,5,0,0
+"A","A T1",1,"Hypnea musciformis",0,1,2,0,0
+"A","A T1",2,"Hypnea musciformis",0,2,3,0,0
+"A","A T1",3,"Hypnea musciformis",0,3,4,0,0
+"A","A T1",4,"Hypnea musciformis",0,4,5,0,0
+"A","A T1",1,"Isognomon bicolor",0,1,2,0,0
+"A","A T1",2,"Isognomon bicolor",0,2,3,0,0
+"A","A T1",3,"Isognomon bicolor",0,3,4,0,0
+"A","A T1",4,"Isognomon bicolor",0,4,5,0,0
+"A","A T1",1,"Jania adhaerens",0,1,2,0,0
+"A","A T1",2,"Jania adhaerens",0,2,3,0,0
+"A","A T1",3,"Jania adhaerens",0,3,4,0,0
+"A","A T1",4,"Jania adhaerens",0,4,5,0,0
+"A","A T1",1,"Littoraria flava",0,1,2,0,0
+"A","A T1",2,"Littoraria flava",0,2,3,0,0
+"A","A T1",3,"Littoraria flava",0,3,4,0,0
+"A","A T1",4,"Littoraria flava",0,4,5,0,0
+"A","A T1",1,"Lottia subrugosa",0,1,2,0.15625,-0.15625
+"A","A T1",2,"Lottia subrugosa",0.15625,2,3,0.625,-0.46875
+"A","A T1",3,"Lottia subrugosa",0.625,3,4,0.3125,0.3125
+"A","A T1",4,"Lottia subrugosa",0.3125,4,5,0,0.3125
+"A","A T1",1,"Mytilaster solisianus",1.5625,1,2,7.8125,-6.25
+"A","A T1",2,"Mytilaster solisianus",7.8125,2,3,20.3125,-12.5
+"A","A T1",3,"Mytilaster solisianus",20.3125,3,4,46.875,-26.5625
+"A","A T1",4,"Mytilaster solisianus",46.875,4,5,31.25,15.625
+"A","A T1",1,"Perna perna",0,1,2,0,0
+"A","A T1",2,"Perna perna",0,2,3,0,0
+"A","A T1",3,"Perna perna",0,3,4,0,0
+"A","A T1",4,"Perna perna",0,4,5,0,0
+"A","A T1",1,"Phragmatopoma lapidosa",0,1,2,0,0
+"A","A T1",2,"Phragmatopoma lapidosa",0,2,3,0,0
+"A","A T1",3,"Phragmatopoma lapidosa",0,3,4,0,0
+"A","A T1",4,"Phragmatopoma lapidosa",0,4,5,0,0
+"A","A T1",1,"Polyplacophora",0,1,2,0,0
+"A","A T1",2,"Polyplacophora",0,2,3,0,0
+"A","A T1",3,"Polyplacophora",0,3,4,0,0
+"A","A T1",4,"Polyplacophora",0,4,5,0,0
+"A","A T1",1,"Porphyra sp",0.625,1,2,0.15625,0.46875
+"A","A T1",2,"Porphyra sp",0.15625,2,3,0.15625,0
+"A","A T1",3,"Porphyra sp",0.15625,3,4,0.3125,-0.15625
+"A","A T1",4,"Porphyra sp",0.3125,4,5,0,0.3125
+"A","A T1",1,"Serpulidae",0,1,2,0,0
+"A","A T1",2,"Serpulidae",0,2,3,0,0
+"A","A T1",3,"Serpulidae",0,3,4,0,0
+"A","A T1",4,"Serpulidae",0,4,5,0,0
+"A","A T1",1,"Tedania ignis (Esponja laranja)",0,1,2,0,0
+"A","A T1",2,"Tedania ignis (Esponja laranja)",0,2,3,0,0
+"A","A T1",3,"Tedania ignis (Esponja laranja)",0,3,4,0,0
+"A","A T1",4,"Tedania ignis (Esponja laranja)",0,4,5,0,0
+"A","A T1",1,"Tetraclita stalactifera",20.3125,1,2,0,20.3125
+"A","A T1",2,"Tetraclita stalactifera",0,2,3,0,0
+"A","A T1",3,"Tetraclita stalactifera",0,3,4,0,0
+"A","A T1",4,"Tetraclita stalactifera",0,4,5,0,0
+"A","A T1",1,"Turf de Bostrychia",0,1,2,0,0
+"A","A T1",2,"Turf de Bostrychia",0,2,3,0,0
+"A","A T1",3,"Turf de Bostrychia",0,3,4,0,0
+"A","A T1",4,"Turf de Bostrychia",0,4,5,0,0
+"A","A T1",1,"Ulva lactuca",0,1,2,0,0
+"A","A T1",2,"Ulva lactuca",0,2,3,0,0
+"A","A T1",3,"Ulva lactuca",0,3,4,0.15625,-0.15625
+"A","A T1",4,"Ulva lactuca",0.15625,4,5,20.3125,-20.15625
+"A","A T1",1,"Vermetidae",0,1,2,0,0
+"A","A T1",2,"Vermetidae",0,2,3,0,0
+"A","A T1",3,"Vermetidae",0,3,4,0,0
+"A","A T1",4,"Vermetidae",0,4,5,0,0
+"A","A T2",1,"Asteronema breviarticulatum",0,1,2,0,0
+"A","A T2",2,"Asteronema breviarticulatum",0,2,3,0,0
+"A","A T2",3,"Asteronema breviarticulatum",0,3,4,0,0
+"A","A T2",4,"Asteronema breviarticulatum",0,4,5,7.03125,-7.03125
+"A","A T2",1,"Bunodossoma caissarum",0,1,2,0,0
+"A","A T2",2,"Bunodossoma caissarum",0,2,3,0,0
+"A","A T2",3,"Bunodossoma caissarum",0,3,4,0,0
+"A","A T2",4,"Bunodossoma caissarum",0,4,5,0,0
+"A","A T2",1,"CCA (Algas calcárias incrustantes)",0,1,2,0,0
+"A","A T2",2,"CCA (Algas calcárias incrustantes)",0,2,3,0,0
+"A","A T2",3,"CCA (Algas calcárias incrustantes)",0,3,4,0,0
+"A","A T2",4,"CCA (Algas calcárias incrustantes)",0,4,5,0,0
+"A","A T2",1,"Chaetomorpha anteninna",0,1,2,14.0625,-14.0625
+"A","A T2",2,"Chaetomorpha anteninna",14.0625,2,3,23.4375,-9.375
+"A","A T2",3,"Chaetomorpha anteninna",23.4375,3,4,12.5,10.9375
+"A","A T2",4,"Chaetomorpha anteninna",12.5,4,5,7.03125,5.46875
+"A","A T2",1,"Chthamalus bisinuatus",31.25,1,2,0.15625,31.09375
+"A","A T2",2,"Chthamalus bisinuatus",0.15625,2,3,0,0.15625
+"A","A T2",3,"Chthamalus bisinuatus",0,3,4,0.15625,-0.15625
+"A","A T2",4,"Chthamalus bisinuatus",0.15625,4,5,0,0.15625
+"A","A T2",1,"Colpomenia sinuosa",0,1,2,0,0
+"A","A T2",2,"Colpomenia sinuosa",0,2,3,0,0
+"A","A T2",3,"Colpomenia sinuosa",0,3,4,0,0
+"A","A T2",4,"Colpomenia sinuosa",0,4,5,0,0
+"A","A T2",1,"Crassostrea rhizophorae",0.46875,1,2,0.78125,-0.3125
+"A","A T2",2,"Crassostrea rhizophorae",0.78125,2,3,0,0.78125
+"A","A T2",3,"Crassostrea rhizophorae",0,3,4,1.5625,-1.5625
+"A","A T2",4,"Crassostrea rhizophorae",1.5625,4,5,3.125,-1.5625
+"A","A T2",1,"Echinolittorina lineolata",0.15625,1,2,0.3125,-0.15625
+"A","A T2",2,"Echinolittorina lineolata",0.3125,2,3,0.015625,0.296875
+"A","A T2",3,"Echinolittorina lineolata",0.015625,3,4,0,0.015625
+"A","A T2",4,"Echinolittorina lineolata",0,4,5,0,0
+"A","A T2",1,"Fissurella sp",0,1,2,0,0
+"A","A T2",2,"Fissurella sp",0,2,3,0,0
+"A","A T2",3,"Fissurella sp",0,3,4,0,0
+"A","A T2",4,"Fissurella sp",0,4,5,0,0
+"A","A T2",1,"Gelidiella acerosa",0,1,2,0,0
+"A","A T2",2,"Gelidiella acerosa",0,2,3,0,0
+"A","A T2",3,"Gelidiella acerosa",0,3,4,0,0
+"A","A T2",4,"Gelidiella acerosa",0,4,5,0,0
+"A","A T2",1,"Hypnea musciformis",0,1,2,0,0
+"A","A T2",2,"Hypnea musciformis",0,2,3,0,0
+"A","A T2",3,"Hypnea musciformis",0,3,4,0,0
+"A","A T2",4,"Hypnea musciformis",0,4,5,0,0
+"A","A T2",1,"Isognomon bicolor",0,1,2,0,0
+"A","A T2",2,"Isognomon bicolor",0,2,3,0,0
+"A","A T2",3,"Isognomon bicolor",0,3,4,0,0
+"A","A T2",4,"Isognomon bicolor",0,4,5,0,0
+"A","A T2",1,"Jania adhaerens",0,1,2,0,0
+"A","A T2",2,"Jania adhaerens",0,2,3,0.15625,-0.15625
+"A","A T2",3,"Jania adhaerens",0.15625,3,4,0,0.15625
+"A","A T2",4,"Jania adhaerens",0,4,5,1.5625,-1.5625
+"A","A T2",1,"Littoraria flava",0,1,2,0.15625,-0.15625
+"A","A T2",2,"Littoraria flava",0.15625,2,3,0,0.15625
+"A","A T2",3,"Littoraria flava",0,3,4,0,0
+"A","A T2",4,"Littoraria flava",0,4,5,0,0
+"A","A T2",1,"Lottia subrugosa",0.15625,1,2,0.625,-0.46875
+"A","A T2",2,"Lottia subrugosa",0.625,2,3,0.9375,-0.3125
+"A","A T2",3,"Lottia subrugosa",0.9375,3,4,0.3125,0.625
+"A","A T2",4,"Lottia subrugosa",0.3125,4,5,0.3125,0
+"A","A T2",1,"Mytilaster solisianus",0.15625,1,2,54.6875,-54.53125
+"A","A T2",2,"Mytilaster solisianus",54.6875,2,3,37.5,17.1875
+"A","A T2",3,"Mytilaster solisianus",37.5,3,4,40.625,-3.125
+"A","A T2",4,"Mytilaster solisianus",40.625,4,5,20.3125,20.3125
+"A","A T2",1,"Perna perna",0,1,2,0,0
+"A","A T2",2,"Perna perna",0,2,3,0,0
+"A","A T2",3,"Perna perna",0,3,4,0,0
+"A","A T2",4,"Perna perna",0,4,5,0.46875,-0.46875
+"A","A T2",1,"Phragmatopoma lapidosa",0,1,2,0,0
+"A","A T2",2,"Phragmatopoma lapidosa",0,2,3,0,0
+"A","A T2",3,"Phragmatopoma lapidosa",0,3,4,0,0
+"A","A T2",4,"Phragmatopoma lapidosa",0,4,5,0,0
+"A","A T2",1,"Polyplacophora",0,1,2,0,0
+"A","A T2",2,"Polyplacophora",0,2,3,0,0
+"A","A T2",3,"Polyplacophora",0,3,4,0,0
+"A","A T2",4,"Polyplacophora",0,4,5,0,0
+"A","A T2",1,"Porphyra sp",1.5625,1,2,2.34375,-0.78125
+"A","A T2",2,"Porphyra sp",2.34375,2,3,0.15625,2.1875
+"A","A T2",3,"Porphyra sp",0.15625,3,4,0.15625,0
+"A","A T2",4,"Porphyra sp",0.15625,4,5,0,0.15625
+"A","A T2",1,"Serpulidae",0,1,2,0,0
+"A","A T2",2,"Serpulidae",0,2,3,0,0
+"A","A T2",3,"Serpulidae",0,3,4,0,0
+"A","A T2",4,"Serpulidae",0,4,5,0,0
+"A","A T2",1,"Tedania ignis (Esponja laranja)",0,1,2,0,0
+"A","A T2",2,"Tedania ignis (Esponja laranja)",0,2,3,0,0
+"A","A T2",3,"Tedania ignis (Esponja laranja)",0,3,4,0,0
+"A","A T2",4,"Tedania ignis (Esponja laranja)",0,4,5,0,0
+"A","A T2",1,"Tetraclita stalactifera",0.15625,1,2,0,0.15625
+"A","A T2",2,"Tetraclita stalactifera",0,2,3,0,0
+"A","A T2",3,"Tetraclita stalactifera",0,3,4,0,0
+"A","A T2",4,"Tetraclita stalactifera",0,4,5,0,0
+"A","A T2",1,"Turf de Bostrychia",0,1,2,0,0
+"A","A T2",2,"Turf de Bostrychia",0,2,3,0,0
+"A","A T2",3,"Turf de Bostrychia",0,3,4,0,0
+"A","A T2",4,"Turf de Bostrychia",0,4,5,0,0
+"A","A T2",1,"Ulva lactuca",0,1,2,0.515625,-0.515625
+"A","A T2",2,"Ulva lactuca",0.515625,2,3,1.5625,-1.046875
+"A","A T2",3,"Ulva lactuca",1.5625,3,4,3.125,-1.5625
+"A","A T2",4,"Ulva lactuca",3.125,4,5,18.75,-15.625
+"A","A T2",1,"Vermetidae",0,1,2,0,0
+"A","A T2",2,"Vermetidae",0,2,3,0,0
+"A","A T2",3,"Vermetidae",0,3,4,0,0
+"A","A T2",4,"Vermetidae",0,4,5,0,0
+"A","A T3",1,"Asteronema breviarticulatum",0,1,2,0,0
+"A","A T3",2,"Asteronema breviarticulatum",0,2,3,0,0
+"A","A T3",3,"Asteronema breviarticulatum",0,3,4,0,0
+"A","A T3",4,"Asteronema breviarticulatum",0,4,5,31.25,-31.25
+"A","A T3",1,"Bunodossoma caissarum",0,1,2,0,0
+"A","A T3",2,"Bunodossoma caissarum",0,2,3,0,0
+"A","A T3",3,"Bunodossoma caissarum",0,3,4,0,0
+"A","A T3",4,"Bunodossoma caissarum",0,4,5,0,0
+"A","A T3",1,"CCA (Algas calcárias incrustantes)",0,1,2,1.5625,-1.5625
+"A","A T3",2,"CCA (Algas calcárias incrustantes)",1.5625,2,3,0,1.5625
+"A","A T3",3,"CCA (Algas calcárias incrustantes)",0,3,4,0,0
+"A","A T3",4,"CCA (Algas calcárias incrustantes)",0,4,5,0,0
+"A","A T3",1,"Chaetomorpha anteninna",0,1,2,10.9375,-10.9375
+"A","A T3",2,"Chaetomorpha anteninna",10.9375,2,3,9.375,1.5625
+"A","A T3",3,"Chaetomorpha anteninna",9.375,3,4,0,9.375
+"A","A T3",4,"Chaetomorpha anteninna",0,4,5,0,0
+"A","A T3",1,"Chthamalus bisinuatus",46.875,1,2,0.15625,46.71875
+"A","A T3",2,"Chthamalus bisinuatus",0.15625,2,3,0,0.15625
+"A","A T3",3,"Chthamalus bisinuatus",0,3,4,0,0
+"A","A T3",4,"Chthamalus bisinuatus",0,4,5,0,0
+"A","A T3",1,"Colpomenia sinuosa",0,1,2,0,0
+"A","A T3",2,"Colpomenia sinuosa",0,2,3,0,0
+"A","A T3",3,"Colpomenia sinuosa",0,3,4,0,0
+"A","A T3",4,"Colpomenia sinuosa",0,4,5,0,0
+"A","A T3",1,"Crassostrea rhizophorae",0,1,2,9.375,-9.375
+"A","A T3",2,"Crassostrea rhizophorae",9.375,2,3,3.125,6.25
+"A","A T3",3,"Crassostrea rhizophorae",3.125,3,4,4.6875,-1.5625
+"A","A T3",4,"Crassostrea rhizophorae",4.6875,4,5,0.78125,3.90625
+"A","A T3",1,"Echinolittorina lineolata",0.15625,1,2,0.15625,0
+"A","A T3",2,"Echinolittorina lineolata",0.15625,2,3,0,0.15625
+"A","A T3",3,"Echinolittorina lineolata",0,3,4,0,0
+"A","A T3",4,"Echinolittorina lineolata",0,4,5,0,0
+"A","A T3",1,"Fissurella sp",0,1,2,0,0
+"A","A T3",2,"Fissurella sp",0,2,3,0,0
+"A","A T3",3,"Fissurella sp",0,3,4,0.015625,-0.015625
+"A","A T3",4,"Fissurella sp",0.015625,4,5,0.3125,-0.296875
+"A","A T3",1,"Gelidiella acerosa",0,1,2,0,0
+"A","A T3",2,"Gelidiella acerosa",0,2,3,0,0
+"A","A T3",3,"Gelidiella acerosa",0,3,4,0,0
+"A","A T3",4,"Gelidiella acerosa",0,4,5,0,0
+"A","A T3",1,"Hypnea musciformis",0,1,2,0,0
+"A","A T3",2,"Hypnea musciformis",0,2,3,0,0
+"A","A T3",3,"Hypnea musciformis",0,3,4,0,0
+"A","A T3",4,"Hypnea musciformis",0,4,5,0,0
+"A","A T3",1,"Isognomon bicolor",0,1,2,0,0
+"A","A T3",2,"Isognomon bicolor",0,2,3,0,0
+"A","A T3",3,"Isognomon bicolor",0,3,4,0,0
+"A","A T3",4,"Isognomon bicolor",0,4,5,0,0
+"A","A T3",1,"Jania adhaerens",0,1,2,0,0
+"A","A T3",2,"Jania adhaerens",0,2,3,0,0
+"A","A T3",3,"Jania adhaerens",0,3,4,1.5625,-1.5625
+"A","A T3",4,"Jania adhaerens",1.5625,4,5,7.8125,-6.25
+"A","A T3",1,"Littoraria flava",0,1,2,0,0
+"A","A T3",2,"Littoraria flava",0,2,3,0,0
+"A","A T3",3,"Littoraria flava",0,3,4,0,0
+"A","A T3",4,"Littoraria flava",0,4,5,0,0
+"A","A T3",1,"Lottia subrugosa",0,1,2,2.34375,-2.34375
+"A","A T3",2,"Lottia subrugosa",2.34375,2,3,2.34375,0
+"A","A T3",3,"Lottia subrugosa",2.34375,3,4,0.78125,1.5625
+"A","A T3",4,"Lottia subrugosa",0.78125,4,5,0,0.78125
+"A","A T3",1,"Mytilaster solisianus",6.25,1,2,51.5625,-45.3125
+"A","A T3",2,"Mytilaster solisianus",51.5625,2,3,37.5,14.0625
+"A","A T3",3,"Mytilaster solisianus",37.5,3,4,54.6875,-17.1875
+"A","A T3",4,"Mytilaster solisianus",54.6875,4,5,15.625,39.0625
+"A","A T3",1,"Perna perna",0,1,2,0,0
+"A","A T3",2,"Perna perna",0,2,3,0,0
+"A","A T3",3,"Perna perna",0,3,4,0.515625,-0.515625
+"A","A T3",4,"Perna perna",0.515625,4,5,0.625,-0.109375
+"A","A T3",1,"Phragmatopoma lapidosa",0,1,2,0,0
+"A","A T3",2,"Phragmatopoma lapidosa",0,2,3,0,0
+"A","A T3",3,"Phragmatopoma lapidosa",0,3,4,0,0
+"A","A T3",4,"Phragmatopoma lapidosa",0,4,5,0,0
+"A","A T3",1,"Polyplacophora",0,1,2,0,0
+"A","A T3",2,"Polyplacophora",0,2,3,0,0
+"A","A T3",3,"Polyplacophora",0,3,4,0,0
+"A","A T3",4,"Polyplacophora",0,4,5,0,0
+"A","A T3",1,"Porphyra sp",0.390625,1,2,2.34375,-1.953125
+"A","A T3",2,"Porphyra sp",2.34375,2,3,1.5625,0.78125
+"A","A T3",3,"Porphyra sp",1.5625,3,4,0.15625,1.40625
+"A","A T3",4,"Porphyra sp",0.15625,4,5,0,0.15625
+"A","A T3",1,"Serpulidae",0,1,2,0,0
+"A","A T3",2,"Serpulidae",0,2,3,0,0
+"A","A T3",3,"Serpulidae",0,3,4,0,0
+"A","A T3",4,"Serpulidae",0,4,5,0,0
+"A","A T3",1,"Tedania ignis (Esponja laranja)",0,1,2,0,0
+"A","A T3",2,"Tedania ignis (Esponja laranja)",0,2,3,0,0
+"A","A T3",3,"Tedania ignis (Esponja laranja)",0,3,4,0,0
+"A","A T3",4,"Tedania ignis (Esponja laranja)",0,4,5,0,0
+"A","A T3",1,"Tetraclita stalactifera",6.25,1,2,0,6.25
+"A","A T3",2,"Tetraclita stalactifera",0,2,3,0,0
+"A","A T3",3,"Tetraclita stalactifera",0,3,4,0,0
+"A","A T3",4,"Tetraclita stalactifera",0,4,5,0,0
+"A","A T3",1,"Turf de Bostrychia",0,1,2,0,0
+"A","A T3",2,"Turf de Bostrychia",0,2,3,0,0
+"A","A T3",3,"Turf de Bostrychia",0,3,4,0,0
+"A","A T3",4,"Turf de Bostrychia",0,4,5,0,0
+"A","A T3",1,"Ulva lactuca",0,1,2,1.5625,-1.5625
+"A","A T3",2,"Ulva lactuca",1.5625,2,3,1.5625,0
+"A","A T3",3,"Ulva lactuca",1.5625,3,4,6.25,-4.6875
+"A","A T3",4,"Ulva lactuca",6.25,4,5,9.375,-3.125
+"A","A T3",1,"Vermetidae",0,1,2,0,0
+"A","A T3",2,"Vermetidae",0,2,3,0,0
+"A","A T3",3,"Vermetidae",0,3,4,0,0
+"A","A T3",4,"Vermetidae",0,4,5,0,0
+"B","B T4",1,"Asteronema breviarticulatum",0,1,2,0,0
+"B","B T4",2,"Asteronema breviarticulatum",0,2,3,0,0
+"B","B T4",3,"Asteronema breviarticulatum",0,3,4,0,0
+"B","B T4",1,"Bunodossoma caissarum",0,1,2,0,0
+"B","B T4",2,"Bunodossoma caissarum",0,2,3,0,0
+"B","B T4",3,"Bunodossoma caissarum",0,3,4,0,0
+"B","B T4",1,"CCA (Algas calcárias incrustantes)",0,1,2,0,0
+"B","B T4",2,"CCA (Algas calcárias incrustantes)",0,2,3,0,0
+"B","B T4",3,"CCA (Algas calcárias incrustantes)",0,3,4,0,0
+"B","B T4",1,"Chaetomorpha anteninna",0,1,2,0,0
+"B","B T4",2,"Chaetomorpha anteninna",0,2,3,0,0
+"B","B T4",3,"Chaetomorpha anteninna",0,3,4,0,0
+"B","B T4",1,"Chthamalus bisinuatus",30,1,2,0,30
+"B","B T4",2,"Chthamalus bisinuatus",0,2,3,0,0
+"B","B T4",3,"Chthamalus bisinuatus",0,3,4,0,0
+"B","B T4",1,"Colpomenia sinuosa",0,1,2,0,0
+"B","B T4",2,"Colpomenia sinuosa",0,2,3,0,0
+"B","B T4",3,"Colpomenia sinuosa",0,3,4,0,0
+"B","B T4",1,"Crassostrea rhizophorae",0,1,2,0,0
+"B","B T4",2,"Crassostrea rhizophorae",0,2,3,0,0
+"B","B T4",3,"Crassostrea rhizophorae",0,3,4,0,0
+"B","B T4",1,"Echinolittorina lineolata",0,1,2,0,0
+"B","B T4",2,"Echinolittorina lineolata",0,2,3,0,0
+"B","B T4",3,"Echinolittorina lineolata",0,3,4,0,0
+"B","B T4",1,"Fissurella sp",0,1,2,0,0
+"B","B T4",2,"Fissurella sp",0,2,3,0,0
+"B","B T4",3,"Fissurella sp",0,3,4,0,0
+"B","B T4",1,"Gelidiella acerosa",0,1,2,0,0
+"B","B T4",2,"Gelidiella acerosa",0,2,3,0,0
+"B","B T4",3,"Gelidiella acerosa",0,3,4,0,0
+"B","B T4",1,"Hypnea musciformis",0,1,2,0,0
+"B","B T4",2,"Hypnea musciformis",0,2,3,0,0
+"B","B T4",3,"Hypnea musciformis",0,3,4,0,0
+"B","B T4",1,"Isognomon bicolor",0,1,2,0.390625,-0.390625
+"B","B T4",2,"Isognomon bicolor",0.390625,2,3,5,-4.609375
+"B","B T4",3,"Isognomon bicolor",5,3,4,5,0
+"B","B T4",1,"Jania adhaerens",0,1,2,0,0
+"B","B T4",2,"Jania adhaerens",0,2,3,0,0
+"B","B T4",3,"Jania adhaerens",0,3,4,0,0
+"B","B T4",1,"Littoraria flava",0,1,2,0,0
+"B","B T4",2,"Littoraria flava",0,2,3,0,0
+"B","B T4",3,"Littoraria flava",0,3,4,0,0
+"B","B T4",1,"Lottia subrugosa",0,1,2,3.125,-3.125
+"B","B T4",2,"Lottia subrugosa",3.125,2,3,0.390625,2.734375
+"B","B T4",3,"Lottia subrugosa",0.390625,3,4,0.390625,0
+"B","B T4",1,"Mytilaster solisianus",0,1,2,40,-40
+"B","B T4",2,"Mytilaster solisianus",40,2,3,75,-35
+"B","B T4",3,"Mytilaster solisianus",75,3,4,25,50
+"B","B T4",1,"Perna perna",0,1,2,0,0
+"B","B T4",2,"Perna perna",0,2,3,0,0
+"B","B T4",3,"Perna perna",0,3,4,0.390625,-0.390625
+"B","B T4",1,"Phragmatopoma lapidosa",0,1,2,0,0
+"B","B T4",2,"Phragmatopoma lapidosa",0,2,3,0,0
+"B","B T4",3,"Phragmatopoma lapidosa",0,3,4,0,0
+"B","B T4",1,"Polyplacophora",0,1,2,0,0
+"B","B T4",2,"Polyplacophora",0,2,3,0,0
+"B","B T4",3,"Polyplacophora",0,3,4,0,0
+"B","B T4",1,"Porphyra sp",0,1,2,0,0
+"B","B T4",2,"Porphyra sp",0,2,3,0.390625,-0.390625
+"B","B T4",3,"Porphyra sp",0.390625,3,4,0,0.390625
+"B","B T4",1,"Serpulidae",0,1,2,0,0
+"B","B T4",2,"Serpulidae",0,2,3,0,0
+"B","B T4",3,"Serpulidae",0,3,4,0,0
+"B","B T4",1,"Tedania ignis (Esponja laranja)",0,1,2,0,0
+"B","B T4",2,"Tedania ignis (Esponja laranja)",0,2,3,0,0
+"B","B T4",3,"Tedania ignis (Esponja laranja)",0,3,4,0,0
+"B","B T4",1,"Tetraclita stalactifera",0,1,2,0,0
+"B","B T4",2,"Tetraclita stalactifera",0,2,3,0,0
+"B","B T4",3,"Tetraclita stalactifera",0,3,4,0,0
+"B","B T4",1,"Turf de Bostrychia",0,1,2,0,0
+"B","B T4",2,"Turf de Bostrychia",0,2,3,0.390625,-0.390625
+"B","B T4",3,"Turf de Bostrychia",0.390625,3,4,20,-19.609375
+"B","B T4",1,"Ulva lactuca",0,1,2,0,0
+"B","B T4",2,"Ulva lactuca",0,2,3,1.5625,-1.5625
+"B","B T4",3,"Ulva lactuca",1.5625,3,4,1.5625,0
+"B","B T4",1,"Vermetidae",0,1,2,0,0
+"B","B T4",2,"Vermetidae",0,2,3,0,0
+"B","B T4",3,"Vermetidae",0,3,4,0,0
+"B","B T5",1,"Asteronema breviarticulatum",0,1,2,0,0
+"B","B T5",2,"Asteronema breviarticulatum",0,2,3,0,0
+"B","B T5",3,"Asteronema breviarticulatum",0,3,4,0,0
+"B","B T5",1,"Bunodossoma caissarum",0,1,2,0,0
+"B","B T5",2,"Bunodossoma caissarum",0,2,3,0,0
+"B","B T5",3,"Bunodossoma caissarum",0,3,4,0,0
+"B","B T5",1,"CCA (Algas calcárias incrustantes)",0,1,2,0,0
+"B","B T5",2,"CCA (Algas calcárias incrustantes)",0,2,3,0,0
+"B","B T5",3,"CCA (Algas calcárias incrustantes)",0,3,4,0,0
+"B","B T5",1,"Chaetomorpha anteninna",0,1,2,0,0
+"B","B T5",2,"Chaetomorpha anteninna",0,2,3,0,0
+"B","B T5",3,"Chaetomorpha anteninna",0,3,4,0,0
+"B","B T5",1,"Chthamalus bisinuatus",0,1,2,0,0
+"B","B T5",2,"Chthamalus bisinuatus",0,2,3,0,0
+"B","B T5",3,"Chthamalus bisinuatus",0,3,4,0,0
+"B","B T5",1,"Colpomenia sinuosa",0,1,2,0,0
+"B","B T5",2,"Colpomenia sinuosa",0,2,3,0,0
+"B","B T5",3,"Colpomenia sinuosa",0,3,4,0,0
+"B","B T5",1,"Crassostrea rhizophorae",0,1,2,0,0
+"B","B T5",2,"Crassostrea rhizophorae",0,2,3,0,0
+"B","B T5",3,"Crassostrea rhizophorae",0,3,4,0,0
+"B","B T5",1,"Echinolittorina lineolata",0,1,2,0,0
+"B","B T5",2,"Echinolittorina lineolata",0,2,3,0,0
+"B","B T5",3,"Echinolittorina lineolata",0,3,4,0,0
+"B","B T5",1,"Fissurella sp",0,1,2,0,0
+"B","B T5",2,"Fissurella sp",0,2,3,0,0
+"B","B T5",3,"Fissurella sp",0,3,4,0,0
+"B","B T5",1,"Gelidiella acerosa",0,1,2,0,0
+"B","B T5",2,"Gelidiella acerosa",0,2,3,0,0
+"B","B T5",3,"Gelidiella acerosa",0,3,4,0,0
+"B","B T5",1,"Hypnea musciformis",0,1,2,0,0
+"B","B T5",2,"Hypnea musciformis",0,2,3,0,0
+"B","B T5",3,"Hypnea musciformis",0,3,4,0,0
+"B","B T5",1,"Isognomon bicolor",0,1,2,0.390625,-0.390625
+"B","B T5",2,"Isognomon bicolor",0.390625,2,3,10,-9.609375
+"B","B T5",3,"Isognomon bicolor",10,3,4,5,5
+"B","B T5",1,"Jania adhaerens",0,1,2,0,0
+"B","B T5",2,"Jania adhaerens",0,2,3,0,0
+"B","B T5",3,"Jania adhaerens",0,3,4,0,0
+"B","B T5",1,"Littoraria flava",0,1,2,0,0
+"B","B T5",2,"Littoraria flava",0,2,3,0,0
+"B","B T5",3,"Littoraria flava",0,3,4,0,0
+"B","B T5",1,"Lottia subrugosa",0,1,2,0.265625,-0.265625
+"B","B T5",2,"Lottia subrugosa",0.265625,2,3,0,0.265625
+"B","B T5",3,"Lottia subrugosa",0,3,4,0,0
+"B","B T5",1,"Mytilaster solisianus",5,1,2,45,-40
+"B","B T5",2,"Mytilaster solisianus",45,2,3,50,-5
+"B","B T5",3,"Mytilaster solisianus",50,3,4,35,15
+"B","B T5",1,"Perna perna",0,1,2,0,0
+"B","B T5",2,"Perna perna",0,2,3,0,0
+"B","B T5",3,"Perna perna",0,3,4,0.390625,-0.390625
+"B","B T5",1,"Phragmatopoma lapidosa",0,1,2,0,0
+"B","B T5",2,"Phragmatopoma lapidosa",0,2,3,0,0
+"B","B T5",3,"Phragmatopoma lapidosa",0,3,4,0,0
+"B","B T5",1,"Polyplacophora",0,1,2,0,0
+"B","B T5",2,"Polyplacophora",0,2,3,0,0
+"B","B T5",3,"Polyplacophora",0,3,4,0,0
+"B","B T5",1,"Porphyra sp",0,1,2,0,0
+"B","B T5",2,"Porphyra sp",0,2,3,0,0
+"B","B T5",3,"Porphyra sp",0,3,4,0,0
+"B","B T5",1,"Serpulidae",0,1,2,0,0
+"B","B T5",2,"Serpulidae",0,2,3,0,0
+"B","B T5",3,"Serpulidae",0,3,4,0,0
+"B","B T5",1,"Tedania ignis (Esponja laranja)",0,1,2,0,0
+"B","B T5",2,"Tedania ignis (Esponja laranja)",0,2,3,0,0
+"B","B T5",3,"Tedania ignis (Esponja laranja)",0,3,4,0,0
+"B","B T5",1,"Tetraclita stalactifera",0,1,2,0,0
+"B","B T5",2,"Tetraclita stalactifera",0,2,3,0,0
+"B","B T5",3,"Tetraclita stalactifera",0,3,4,0,0
+"B","B T5",1,"Turf de Bostrychia",0,1,2,0.78125,-0.78125
+"B","B T5",2,"Turf de Bostrychia",0.78125,2,3,0,0.78125
+"B","B T5",3,"Turf de Bostrychia",0,3,4,0,0
+"B","B T5",1,"Ulva lactuca",0,1,2,0,0
+"B","B T5",2,"Ulva lactuca",0,2,3,0,0
+"B","B T5",3,"Ulva lactuca",0,3,4,0.390625,-0.390625
+"B","B T5",1,"Vermetidae",10,1,2,0,10
+"B","B T5",2,"Vermetidae",0,2,3,0,0
+"B","B T5",3,"Vermetidae",0,3,4,0,0
+"B","B T6",1,"Asteronema breviarticulatum",0,1,2,0,0
+"B","B T6",2,"Asteronema breviarticulatum",0,2,3,0,0
+"B","B T6",3,"Asteronema breviarticulatum",0,3,4,0,0
+"B","B T6",1,"Bunodossoma caissarum",0,1,2,0,0
+"B","B T6",2,"Bunodossoma caissarum",0,2,3,0,0
+"B","B T6",3,"Bunodossoma caissarum",0,3,4,0,0
+"B","B T6",1,"CCA (Algas calcárias incrustantes)",0,1,2,0,0
+"B","B T6",2,"CCA (Algas calcárias incrustantes)",0,2,3,0,0
+"B","B T6",3,"CCA (Algas calcárias incrustantes)",0,3,4,0,0
+"B","B T6",1,"Chaetomorpha anteninna",0,1,2,0,0
+"B","B T6",2,"Chaetomorpha anteninna",0,2,3,10,-10
+"B","B T6",3,"Chaetomorpha anteninna",10,3,4,0,10
+"B","B T6",1,"Chthamalus bisinuatus",5,1,2,5,0
+"B","B T6",2,"Chthamalus bisinuatus",5,2,3,0.78125,4.21875
+"B","B T6",3,"Chthamalus bisinuatus",0.78125,3,4,0,0.78125
+"B","B T6",1,"Colpomenia sinuosa",0,1,2,0,0
+"B","B T6",2,"Colpomenia sinuosa",0,2,3,0,0
+"B","B T6",3,"Colpomenia sinuosa",0,3,4,0,0
+"B","B T6",1,"Crassostrea rhizophorae",0,1,2,0,0
+"B","B T6",2,"Crassostrea rhizophorae",0,2,3,0,0
+"B","B T6",3,"Crassostrea rhizophorae",0,3,4,0,0
+"B","B T6",1,"Echinolittorina lineolata",0,1,2,0,0
+"B","B T6",2,"Echinolittorina lineolata",0,2,3,0,0
+"B","B T6",3,"Echinolittorina lineolata",0,3,4,0,0
+"B","B T6",1,"Fissurella sp",0,1,2,0,0
+"B","B T6",2,"Fissurella sp",0,2,3,0,0
+"B","B T6",3,"Fissurella sp",0,3,4,0,0
+"B","B T6",1,"Gelidiella acerosa",0,1,2,0,0
+"B","B T6",2,"Gelidiella acerosa",0,2,3,0,0
+"B","B T6",3,"Gelidiella acerosa",0,3,4,0,0
+"B","B T6",1,"Hypnea musciformis",0,1,2,0,0
+"B","B T6",2,"Hypnea musciformis",0,2,3,0,0
+"B","B T6",3,"Hypnea musciformis",0,3,4,0,0
+"B","B T6",1,"Isognomon bicolor",0,1,2,1.5625,-1.5625
+"B","B T6",2,"Isognomon bicolor",1.5625,2,3,5,-3.4375
+"B","B T6",3,"Isognomon bicolor",5,3,4,10,-5
+"B","B T6",1,"Jania adhaerens",0,1,2,0,0
+"B","B T6",2,"Jania adhaerens",0,2,3,0,0
+"B","B T6",3,"Jania adhaerens",0,3,4,0,0
+"B","B T6",1,"Littoraria flava",0,1,2,0,0
+"B","B T6",2,"Littoraria flava",0,2,3,0,0
+"B","B T6",3,"Littoraria flava",0,3,4,0,0
+"B","B T6",1,"Lottia subrugosa",0,1,2,0,0
+"B","B T6",2,"Lottia subrugosa",0,2,3,0,0
+"B","B T6",3,"Lottia subrugosa",0,3,4,0,0
+"B","B T6",1,"Mytilaster solisianus",5,1,2,20,-15
+"B","B T6",2,"Mytilaster solisianus",20,2,3,0,20
+"B","B T6",3,"Mytilaster solisianus",0,3,4,20,-20
+"B","B T6",1,"Perna perna",0,1,2,0,0
+"B","B T6",2,"Perna perna",0,2,3,0,0
+"B","B T6",3,"Perna perna",0,3,4,0,0
+"B","B T6",1,"Phragmatopoma lapidosa",0,1,2,0,0
+"B","B T6",2,"Phragmatopoma lapidosa",0,2,3,0,0
+"B","B T6",3,"Phragmatopoma lapidosa",0,3,4,0,0
+"B","B T6",1,"Polyplacophora",0,1,2,0,0
+"B","B T6",2,"Polyplacophora",0,2,3,0,0
+"B","B T6",3,"Polyplacophora",0,3,4,0,0
+"B","B T6",1,"Porphyra sp",0,1,2,0,0
+"B","B T6",2,"Porphyra sp",0,2,3,0,0
+"B","B T6",3,"Porphyra sp",0,3,4,0,0
+"B","B T6",1,"Serpulidae",0,1,2,0,0
+"B","B T6",2,"Serpulidae",0,2,3,0,0
+"B","B T6",3,"Serpulidae",0,3,4,0,0
+"B","B T6",1,"Tedania ignis (Esponja laranja)",0,1,2,0,0
+"B","B T6",2,"Tedania ignis (Esponja laranja)",0,2,3,0,0
+"B","B T6",3,"Tedania ignis (Esponja laranja)",0,3,4,0,0
+"B","B T6",1,"Tetraclita stalactifera",0,1,2,0,0
+"B","B T6",2,"Tetraclita stalactifera",0,2,3,0,0
+"B","B T6",3,"Tetraclita stalactifera",0,3,4,0,0
+"B","B T6",1,"Turf de Bostrychia",0,1,2,0,0
+"B","B T6",2,"Turf de Bostrychia",0,2,3,0,0
+"B","B T6",3,"Turf de Bostrychia",0,3,4,0,0
+"B","B T6",1,"Ulva lactuca",0,1,2,0,0
+"B","B T6",2,"Ulva lactuca",0,2,3,0,0
+"B","B T6",3,"Ulva lactuca",0,3,4,0,0
+"B","B T6",1,"Vermetidae",0,1,2,0,0
+"B","B T6",2,"Vermetidae",0,2,3,60,-60
+"B","B T6",3,"Vermetidae",60,3,4,0,60
+"B","B T7",1,"Asteronema breviarticulatum",0,1,2,0,0
+"B","B T7",2,"Asteronema breviarticulatum",0,2,3,0,0
+"B","B T7",3,"Asteronema breviarticulatum",0,3,4,0,0
+"B","B T7",1,"Bunodossoma caissarum",0,1,2,0,0
+"B","B T7",2,"Bunodossoma caissarum",0,2,3,0,0
+"B","B T7",3,"Bunodossoma caissarum",0,3,4,0,0
+"B","B T7",1,"CCA (Algas calcárias incrustantes)",0,1,2,0,0
+"B","B T7",2,"CCA (Algas calcárias incrustantes)",0,2,3,0,0
+"B","B T7",3,"CCA (Algas calcárias incrustantes)",0,3,4,0,0
+"B","B T7",1,"Chaetomorpha anteninna",0,1,2,0,0
+"B","B T7",2,"Chaetomorpha anteninna",0,2,3,0,0
+"B","B T7",3,"Chaetomorpha anteninna",0,3,4,0,0
+"B","B T7",1,"Chthamalus bisinuatus",10,1,2,2.44140625,7.55859375
+"B","B T7",2,"Chthamalus bisinuatus",2.44140625,2,3,0,2.44140625
+"B","B T7",3,"Chthamalus bisinuatus",0,3,4,0,0
+"B","B T7",1,"Colpomenia sinuosa",0,1,2,0,0
+"B","B T7",2,"Colpomenia sinuosa",0,2,3,0,0
+"B","B T7",3,"Colpomenia sinuosa",0,3,4,0,0
+"B","B T7",1,"Crassostrea rhizophorae",0,1,2,0,0
+"B","B T7",2,"Crassostrea rhizophorae",0,2,3,0,0
+"B","B T7",3,"Crassostrea rhizophorae",0,3,4,0,0
+"B","B T7",1,"Echinolittorina lineolata",0,1,2,0,0
+"B","B T7",2,"Echinolittorina lineolata",0,2,3,0,0
+"B","B T7",3,"Echinolittorina lineolata",0,3,4,0,0
+"B","B T7",1,"Fissurella sp",0,1,2,0,0
+"B","B T7",2,"Fissurella sp",0,2,3,0,0
+"B","B T7",3,"Fissurella sp",0,3,4,0,0
+"B","B T7",1,"Gelidiella acerosa",0,1,2,0,0
+"B","B T7",2,"Gelidiella acerosa",0,2,3,0,0
+"B","B T7",3,"Gelidiella acerosa",0,3,4,0,0
+"B","B T7",1,"Hypnea musciformis",0,1,2,0,0
+"B","B T7",2,"Hypnea musciformis",0,2,3,0,0
+"B","B T7",3,"Hypnea musciformis",0,3,4,0,0
+"B","B T7",1,"Isognomon bicolor",2.44140625,1,2,40,-37.55859375
+"B","B T7",2,"Isognomon bicolor",40,2,3,85,-45
+"B","B T7",3,"Isognomon bicolor",85,3,4,30,55
+"B","B T7",1,"Jania adhaerens",0,1,2,0,0
+"B","B T7",2,"Jania adhaerens",0,2,3,0,0
+"B","B T7",3,"Jania adhaerens",0,3,4,0,0
+"B","B T7",1,"Littoraria flava",0,1,2,0,0
+"B","B T7",2,"Littoraria flava",0,2,3,0,0
+"B","B T7",3,"Littoraria flava",0,3,4,0,0
+"B","B T7",1,"Lottia subrugosa",0,1,2,0,0
+"B","B T7",2,"Lottia subrugosa",0,2,3,0,0
+"B","B T7",3,"Lottia subrugosa",0,3,4,0,0
+"B","B T7",1,"Mytilaster solisianus",0,1,2,0,0
+"B","B T7",2,"Mytilaster solisianus",0,2,3,0,0
+"B","B T7",3,"Mytilaster solisianus",0,3,4,0,0
+"B","B T7",1,"Perna perna",0,1,2,0,0
+"B","B T7",2,"Perna perna",0,2,3,8,-8
+"B","B T7",3,"Perna perna",8,3,4,10,-2
+"B","B T7",1,"Phragmatopoma lapidosa",0,1,2,0,0
+"B","B T7",2,"Phragmatopoma lapidosa",0,2,3,0,0
+"B","B T7",3,"Phragmatopoma lapidosa",0,3,4,0,0
+"B","B T7",1,"Polyplacophora",0,1,2,0,0
+"B","B T7",2,"Polyplacophora",0,2,3,0,0
+"B","B T7",3,"Polyplacophora",0,3,4,0,0
+"B","B T7",1,"Porphyra sp",0,1,2,0,0
+"B","B T7",2,"Porphyra sp",0,2,3,0,0
+"B","B T7",3,"Porphyra sp",0,3,4,0,0
+"B","B T7",1,"Serpulidae",0,1,2,0,0
+"B","B T7",2,"Serpulidae",0,2,3,0,0
+"B","B T7",3,"Serpulidae",0,3,4,0,0
+"B","B T7",1,"Tedania ignis (Esponja laranja)",0,1,2,0,0
+"B","B T7",2,"Tedania ignis (Esponja laranja)",0,2,3,0,0
+"B","B T7",3,"Tedania ignis (Esponja laranja)",0,3,4,0,0
+"B","B T7",1,"Tetraclita stalactifera",0,1,2,0,0
+"B","B T7",2,"Tetraclita stalactifera",0,2,3,0,0
+"B","B T7",3,"Tetraclita stalactifera",0,3,4,0,0
+"B","B T7",1,"Turf de Bostrychia",0,1,2,0,0
+"B","B T7",2,"Turf de Bostrychia",0,2,3,0,0
+"B","B T7",3,"Turf de Bostrychia",0,3,4,0,0
+"B","B T7",1,"Ulva lactuca",0,1,2,0,0
+"B","B T7",2,"Ulva lactuca",0,2,3,0,0
+"B","B T7",3,"Ulva lactuca",0,3,4,0,0
+"B","B T7",1,"Vermetidae",0,1,2,0,0
+"B","B T7",2,"Vermetidae",0,2,3,0,0
+"B","B T7",3,"Vermetidae",0,3,4,0,0
+"B","B T8",1,"Asteronema breviarticulatum",0,1,2,0,0
+"B","B T8",2,"Asteronema breviarticulatum",0,2,3,0,0
+"B","B T8",3,"Asteronema breviarticulatum",0,3,4,0,0
+"B","B T8",1,"Bunodossoma caissarum",0,1,2,0,0
+"B","B T8",2,"Bunodossoma caissarum",0,2,3,0,0
+"B","B T8",3,"Bunodossoma caissarum",0,3,4,0,0
+"B","B T8",1,"CCA (Algas calcárias incrustantes)",0,1,2,0,0
+"B","B T8",2,"CCA (Algas calcárias incrustantes)",0,2,3,0,0
+"B","B T8",3,"CCA (Algas calcárias incrustantes)",0,3,4,0,0
+"B","B T8",1,"Chaetomorpha anteninna",0,1,2,0,0
+"B","B T8",2,"Chaetomorpha anteninna",0,2,3,0,0
+"B","B T8",3,"Chaetomorpha anteninna",0,3,4,0,0
+"B","B T8",1,"Chthamalus bisinuatus",45,1,2,15,30
+"B","B T8",2,"Chthamalus bisinuatus",15,2,3,0.78125,14.21875
+"B","B T8",3,"Chthamalus bisinuatus",0.78125,3,4,0.78125,0
+"B","B T8",1,"Colpomenia sinuosa",0,1,2,0,0
+"B","B T8",2,"Colpomenia sinuosa",0,2,3,0,0
+"B","B T8",3,"Colpomenia sinuosa",0,3,4,0,0
+"B","B T8",1,"Crassostrea rhizophorae",0,1,2,0,0
+"B","B T8",2,"Crassostrea rhizophorae",0,2,3,0,0
+"B","B T8",3,"Crassostrea rhizophorae",0,3,4,0,0
+"B","B T8",1,"Echinolittorina lineolata",0,1,2,0,0
+"B","B T8",2,"Echinolittorina lineolata",0,2,3,0,0
+"B","B T8",3,"Echinolittorina lineolata",0,3,4,0,0
+"B","B T8",1,"Fissurella sp",0,1,2,0,0
+"B","B T8",2,"Fissurella sp",0,2,3,0,0
+"B","B T8",3,"Fissurella sp",0,3,4,0,0
+"B","B T8",1,"Gelidiella acerosa",0,1,2,0,0
+"B","B T8",2,"Gelidiella acerosa",0,2,3,0,0
+"B","B T8",3,"Gelidiella acerosa",0,3,4,4,-4
+"B","B T8",1,"Hypnea musciformis",0,1,2,0,0
+"B","B T8",2,"Hypnea musciformis",0,2,3,0,0
+"B","B T8",3,"Hypnea musciformis",0,3,4,0,0
+"B","B T8",1,"Isognomon bicolor",1.5625,1,2,0,1.5625
+"B","B T8",2,"Isognomon bicolor",0,2,3,5,-5
+"B","B T8",3,"Isognomon bicolor",5,3,4,8,-3
+"B","B T8",1,"Jania adhaerens",0,1,2,0,0
+"B","B T8",2,"Jania adhaerens",0,2,3,0,0
+"B","B T8",3,"Jania adhaerens",0,3,4,0,0
+"B","B T8",1,"Littoraria flava",0,1,2,0,0
+"B","B T8",2,"Littoraria flava",0,2,3,0,0
+"B","B T8",3,"Littoraria flava",0,3,4,0,0
+"B","B T8",1,"Lottia subrugosa",1.5625,1,2,0,1.5625
+"B","B T8",2,"Lottia subrugosa",0,2,3,0,0
+"B","B T8",3,"Lottia subrugosa",0,3,4,1.5625,-1.5625
+"B","B T8",1,"Mytilaster solisianus",40,1,2,0,40
+"B","B T8",2,"Mytilaster solisianus",0,2,3,50,-50
+"B","B T8",3,"Mytilaster solisianus",50,3,4,30,20
+"B","B T8",1,"Perna perna",0,1,2,0,0
+"B","B T8",2,"Perna perna",0,2,3,0,0
+"B","B T8",3,"Perna perna",0,3,4,0,0
+"B","B T8",1,"Phragmatopoma lapidosa",0,1,2,0,0
+"B","B T8",2,"Phragmatopoma lapidosa",0,2,3,0,0
+"B","B T8",3,"Phragmatopoma lapidosa",0,3,4,0,0
+"B","B T8",1,"Polyplacophora",0,1,2,0,0
+"B","B T8",2,"Polyplacophora",0,2,3,0,0
+"B","B T8",3,"Polyplacophora",0,3,4,0,0
+"B","B T8",1,"Porphyra sp",0.390625,1,2,0,0.390625
+"B","B T8",2,"Porphyra sp",0,2,3,0,0
+"B","B T8",3,"Porphyra sp",0,3,4,0,0
+"B","B T8",1,"Serpulidae",0,1,2,0,0
+"B","B T8",2,"Serpulidae",0,2,3,0,0
+"B","B T8",3,"Serpulidae",0,3,4,0,0
+"B","B T8",1,"Tedania ignis (Esponja laranja)",0,1,2,0,0
+"B","B T8",2,"Tedania ignis (Esponja laranja)",0,2,3,0,0
+"B","B T8",3,"Tedania ignis (Esponja laranja)",0,3,4,0,0
+"B","B T8",1,"Tetraclita stalactifera",0,1,2,0,0
+"B","B T8",2,"Tetraclita stalactifera",0,2,3,0,0
+"B","B T8",3,"Tetraclita stalactifera",0,3,4,0,0
+"B","B T8",1,"Turf de Bostrychia",0,1,2,0,0
+"B","B T8",2,"Turf de Bostrychia",0,2,3,0,0
+"B","B T8",3,"Turf de Bostrychia",0,3,4,0,0
+"B","B T8",1,"Ulva lactuca",0,1,2,0,0
+"B","B T8",2,"Ulva lactuca",0,2,3,0,0
+"B","B T8",3,"Ulva lactuca",0,3,4,0.78125,-0.78125
+"B","B T8",1,"Vermetidae",0,1,2,0,0
+"B","B T8",2,"Vermetidae",0,2,3,0,0
+"B","B T8",3,"Vermetidae",0,3,4,0,0
+"B","B T9",1,"Asteronema breviarticulatum",0,1,2,0,0
+"B","B T9",2,"Asteronema breviarticulatum",0,2,3,0,0
+"B","B T9",3,"Asteronema breviarticulatum",0,3,4,0,0
+"B","B T9",1,"Bunodossoma caissarum",0,1,2,0,0
+"B","B T9",2,"Bunodossoma caissarum",0,2,3,0,0
+"B","B T9",3,"Bunodossoma caissarum",0,3,4,0,0
+"B","B T9",1,"CCA (Algas calcárias incrustantes)",0,1,2,0,0
+"B","B T9",2,"CCA (Algas calcárias incrustantes)",0,2,3,0,0
+"B","B T9",3,"CCA (Algas calcárias incrustantes)",0,3,4,0,0
+"B","B T9",1,"Chaetomorpha anteninna",0,1,2,0,0
+"B","B T9",2,"Chaetomorpha anteninna",0,2,3,0,0
+"B","B T9",3,"Chaetomorpha anteninna",0,3,4,0,0
+"B","B T9",1,"Chthamalus bisinuatus",30,1,2,4,26
+"B","B T9",2,"Chthamalus bisinuatus",4,2,3,1.5625,2.4375
+"B","B T9",3,"Chthamalus bisinuatus",1.5625,3,4,0.78125,0.78125
+"B","B T9",1,"Colpomenia sinuosa",0,1,2,0,0
+"B","B T9",2,"Colpomenia sinuosa",0,2,3,0,0
+"B","B T9",3,"Colpomenia sinuosa",0,3,4,0,0
+"B","B T9",1,"Crassostrea rhizophorae",0,1,2,0,0
+"B","B T9",2,"Crassostrea rhizophorae",0,2,3,0,0
+"B","B T9",3,"Crassostrea rhizophorae",0,3,4,0,0
+"B","B T9",1,"Echinolittorina lineolata",0,1,2,0,0
+"B","B T9",2,"Echinolittorina lineolata",0,2,3,0,0
+"B","B T9",3,"Echinolittorina lineolata",0,3,4,0,0
+"B","B T9",1,"Fissurella sp",0,1,2,0,0
+"B","B T9",2,"Fissurella sp",0,2,3,0,0
+"B","B T9",3,"Fissurella sp",0,3,4,0.390625,-0.390625
+"B","B T9",1,"Gelidiella acerosa",0,1,2,0,0
+"B","B T9",2,"Gelidiella acerosa",0,2,3,0,0
+"B","B T9",3,"Gelidiella acerosa",0,3,4,0,0
+"B","B T9",1,"Hypnea musciformis",0,1,2,0,0
+"B","B T9",2,"Hypnea musciformis",0,2,3,0,0
+"B","B T9",3,"Hypnea musciformis",0,3,4,0,0
+"B","B T9",1,"Isognomon bicolor",0,1,2,1.5625,-1.5625
+"B","B T9",2,"Isognomon bicolor",1.5625,2,3,20,-18.4375
+"B","B T9",3,"Isognomon bicolor",20,3,4,20,0
+"B","B T9",1,"Jania adhaerens",0,1,2,0,0
+"B","B T9",2,"Jania adhaerens",0,2,3,0,0
+"B","B T9",3,"Jania adhaerens",0,3,4,0,0
+"B","B T9",1,"Littoraria flava",0,1,2,0,0
+"B","B T9",2,"Littoraria flava",0,2,3,0,0
+"B","B T9",3,"Littoraria flava",0,3,4,0,0
+"B","B T9",1,"Lottia subrugosa",0,1,2,3.125,-3.125
+"B","B T9",2,"Lottia subrugosa",3.125,2,3,0.390625,2.734375
+"B","B T9",3,"Lottia subrugosa",0.390625,3,4,0.390625,0
+"B","B T9",1,"Mytilaster solisianus",0,1,2,10.9375,-10.9375
+"B","B T9",2,"Mytilaster solisianus",10.9375,2,3,40,-29.0625
+"B","B T9",3,"Mytilaster solisianus",40,3,4,30,10
+"B","B T9",1,"Perna perna",0,1,2,0,0
+"B","B T9",2,"Perna perna",0,2,3,0,0
+"B","B T9",3,"Perna perna",0,3,4,0,0
+"B","B T9",1,"Phragmatopoma lapidosa",0,1,2,0,0
+"B","B T9",2,"Phragmatopoma lapidosa",0,2,3,0,0
+"B","B T9",3,"Phragmatopoma lapidosa",0,3,4,0,0
+"B","B T9",1,"Polyplacophora",0,1,2,0,0
+"B","B T9",2,"Polyplacophora",0,2,3,0,0
+"B","B T9",3,"Polyplacophora",0,3,4,0,0
+"B","B T9",1,"Porphyra sp",0,1,2,0.78125,-0.78125
+"B","B T9",2,"Porphyra sp",0.78125,2,3,0,0.78125
+"B","B T9",3,"Porphyra sp",0,3,4,0,0
+"B","B T9",1,"Serpulidae",0,1,2,0,0
+"B","B T9",2,"Serpulidae",0,2,3,0,0
+"B","B T9",3,"Serpulidae",0,3,4,0,0
+"B","B T9",1,"Tedania ignis (Esponja laranja)",0,1,2,0,0
+"B","B T9",2,"Tedania ignis (Esponja laranja)",0,2,3,0,0
+"B","B T9",3,"Tedania ignis (Esponja laranja)",0,3,4,0,0
+"B","B T9",1,"Tetraclita stalactifera",0,1,2,0,0
+"B","B T9",2,"Tetraclita stalactifera",0,2,3,0,0
+"B","B T9",3,"Tetraclita stalactifera",0,3,4,0,0
+"B","B T9",1,"Turf de Bostrychia",0,1,2,0,0
+"B","B T9",2,"Turf de Bostrychia",0,2,3,0,0
+"B","B T9",3,"Turf de Bostrychia",0,3,4,0,0
+"B","B T9",1,"Ulva lactuca",0,1,2,0,0
+"B","B T9",2,"Ulva lactuca",0,2,3,0,0
+"B","B T9",3,"Ulva lactuca",0,3,4,0,0
+"B","B T9",1,"Vermetidae",0,1,2,0,0
+"B","B T9",2,"Vermetidae",0,2,3,0,0
+"B","B T9",3,"Vermetidae",0,3,4,0,0
+"D","D T10",1,"Asteronema breviarticulatum",0,1,2,0,0
+"D","D T10",2,"Asteronema breviarticulatum",0,2,3,0,0
+"D","D T10",3,"Asteronema breviarticulatum",0,3,4,0,0
+"D","D T10",1,"Bunodossoma caissarum",0,1,2,0,0
+"D","D T10",2,"Bunodossoma caissarum",0,2,3,0,0
+"D","D T10",3,"Bunodossoma caissarum",0,3,4,0,0
+"D","D T10",1,"CCA (Algas calcárias incrustantes)",0,1,2,0,0
+"D","D T10",2,"CCA (Algas calcárias incrustantes)",0,2,3,0,0
+"D","D T10",3,"CCA (Algas calcárias incrustantes)",0,3,4,7.8125,-7.8125
+"D","D T10",1,"Chaetomorpha anteninna",0,1,2,0,0
+"D","D T10",2,"Chaetomorpha anteninna",0,2,3,0,0
+"D","D T10",3,"Chaetomorpha anteninna",0,3,4,0,0
+"D","D T10",1,"Chthamalus bisinuatus",57.8125,1,2,7.8125,50
+"D","D T10",2,"Chthamalus bisinuatus",7.8125,2,3,0,7.8125
+"D","D T10",3,"Chthamalus bisinuatus",0,3,4,0,0
+"D","D T10",1,"Colpomenia sinuosa",0,1,2,0,0
+"D","D T10",2,"Colpomenia sinuosa",0,2,3,0,0
+"D","D T10",3,"Colpomenia sinuosa",0,3,4,0,0
+"D","D T10",1,"Crassostrea rhizophorae",0,1,2,0,0
+"D","D T10",2,"Crassostrea rhizophorae",0,2,3,0,0
+"D","D T10",3,"Crassostrea rhizophorae",0,3,4,0,0
+"D","D T10",1,"Echinolittorina lineolata",0,1,2,0,0
+"D","D T10",2,"Echinolittorina lineolata",0,2,3,0,0
+"D","D T10",3,"Echinolittorina lineolata",0,3,4,0,0
+"D","D T10",1,"Fissurella sp",0,1,2,0,0
+"D","D T10",2,"Fissurella sp",0,2,3,0,0
+"D","D T10",3,"Fissurella sp",0,3,4,0,0
+"D","D T10",1,"Gelidiella acerosa",0,1,2,0,0
+"D","D T10",2,"Gelidiella acerosa",0,2,3,0,0
+"D","D T10",3,"Gelidiella acerosa",0,3,4,0,0
+"D","D T10",1,"Hypnea musciformis",0,1,2,0,0
+"D","D T10",2,"Hypnea musciformis",0,2,3,0,0
+"D","D T10",3,"Hypnea musciformis",0,3,4,0,0
+"D","D T10",1,"Isognomon bicolor",0,1,2,1.5625,-1.5625
+"D","D T10",2,"Isognomon bicolor",1.5625,2,3,0,1.5625
+"D","D T10",3,"Isognomon bicolor",0,3,4,4.6875,-4.6875
+"D","D T10",1,"Jania adhaerens",0,1,2,0,0
+"D","D T10",2,"Jania adhaerens",0,2,3,0,0
+"D","D T10",3,"Jania adhaerens",0,3,4,0,0
+"D","D T10",1,"Littoraria flava",0,1,2,0,0
+"D","D T10",2,"Littoraria flava",0,2,3,0,0
+"D","D T10",3,"Littoraria flava",0,3,4,0,0
+"D","D T10",1,"Lottia subrugosa",0,1,2,0,0
+"D","D T10",2,"Lottia subrugosa",0,2,3,0,0
+"D","D T10",3,"Lottia subrugosa",0,3,4,0,0
+"D","D T10",1,"Mytilaster solisianus",10.9375,1,2,17.1875,-6.25
+"D","D T10",2,"Mytilaster solisianus",17.1875,2,3,15.625,1.5625
+"D","D T10",3,"Mytilaster solisianus",15.625,3,4,3.125,12.5
+"D","D T10",1,"Perna perna",0,1,2,53.125,-53.125
+"D","D T10",2,"Perna perna",53.125,2,3,57.03125,-3.90625
+"D","D T10",3,"Perna perna",57.03125,3,4,54.6875,2.34375
+"D","D T10",1,"Phragmatopoma lapidosa",0,1,2,0,0
+"D","D T10",2,"Phragmatopoma lapidosa",0,2,3,0,0
+"D","D T10",3,"Phragmatopoma lapidosa",0,3,4,0,0
+"D","D T10",1,"Polyplacophora",0,1,2,0,0
+"D","D T10",2,"Polyplacophora",0,2,3,0,0
+"D","D T10",3,"Polyplacophora",0,3,4,0,0
+"D","D T10",1,"Porphyra sp",0,1,2,0,0
+"D","D T10",2,"Porphyra sp",0,2,3,0,0
+"D","D T10",3,"Porphyra sp",0,3,4,0,0
+"D","D T10",1,"Serpulidae",0,1,2,0,0
+"D","D T10",2,"Serpulidae",0,2,3,0,0
+"D","D T10",3,"Serpulidae",0,3,4,0,0
+"D","D T10",1,"Tedania ignis (Esponja laranja)",0,1,2,0,0
+"D","D T10",2,"Tedania ignis (Esponja laranja)",0,2,3,0,0
+"D","D T10",3,"Tedania ignis (Esponja laranja)",0,3,4,0,0
+"D","D T10",1,"Tetraclita stalactifera",0,1,2,0,0
+"D","D T10",2,"Tetraclita stalactifera",0,2,3,0.78125,-0.78125
+"D","D T10",3,"Tetraclita stalactifera",0.78125,3,4,0,0.78125
+"D","D T10",1,"Turf de Bostrychia",0,1,2,0,0
+"D","D T10",2,"Turf de Bostrychia",0,2,3,0,0
+"D","D T10",3,"Turf de Bostrychia",0,3,4,0,0
+"D","D T10",1,"Ulva lactuca",0,1,2,0,0
+"D","D T10",2,"Ulva lactuca",0,2,3,0,0
+"D","D T10",3,"Ulva lactuca",0,3,4,1.5625,-1.5625
+"D","D T10",1,"Vermetidae",0,1,2,0,0
+"D","D T10",2,"Vermetidae",0,2,3,0,0
+"D","D T10",3,"Vermetidae",0,3,4,0,0
+"D","D T11",1,"Asteronema breviarticulatum",0,1,2,0,0
+"D","D T11",2,"Asteronema breviarticulatum",0,2,3,0,0
+"D","D T11",3,"Asteronema breviarticulatum",0,3,4,0,0
+"D","D T11",1,"Bunodossoma caissarum",0,1,2,0,0
+"D","D T11",2,"Bunodossoma caissarum",0,2,3,0,0
+"D","D T11",3,"Bunodossoma caissarum",0,3,4,35.9375,-35.9375
+"D","D T11",1,"CCA (Algas calcárias incrustantes)",0,1,2,0,0
+"D","D T11",2,"CCA (Algas calcárias incrustantes)",0,2,3,0,0
+"D","D T11",3,"CCA (Algas calcárias incrustantes)",0,3,4,4.6875,-4.6875
+"D","D T11",1,"Chaetomorpha anteninna",0,1,2,0,0
+"D","D T11",2,"Chaetomorpha anteninna",0,2,3,0,0
+"D","D T11",3,"Chaetomorpha anteninna",0,3,4,1.5625,-1.5625
+"D","D T11",1,"Chthamalus bisinuatus",44.53125,1,2,0,44.53125
+"D","D T11",2,"Chthamalus bisinuatus",0,2,3,0,0
+"D","D T11",3,"Chthamalus bisinuatus",0,3,4,0,0
+"D","D T11",1,"Colpomenia sinuosa",0,1,2,0,0
+"D","D T11",2,"Colpomenia sinuosa",0,2,3,0,0
+"D","D T11",3,"Colpomenia sinuosa",0,3,4,0,0
+"D","D T11",1,"Crassostrea rhizophorae",0,1,2,0,0
+"D","D T11",2,"Crassostrea rhizophorae",0,2,3,0,0
+"D","D T11",3,"Crassostrea rhizophorae",0,3,4,0,0
+"D","D T11",1,"Echinolittorina lineolata",0,1,2,0,0
+"D","D T11",2,"Echinolittorina lineolata",0,2,3,0,0
+"D","D T11",3,"Echinolittorina lineolata",0,3,4,0,0
+"D","D T11",1,"Fissurella sp",0,1,2,0,0
+"D","D T11",2,"Fissurella sp",0,2,3,0,0
+"D","D T11",3,"Fissurella sp",0,3,4,0,0
+"D","D T11",1,"Gelidiella acerosa",0,1,2,0,0
+"D","D T11",2,"Gelidiella acerosa",0,2,3,0,0
+"D","D T11",3,"Gelidiella acerosa",0,3,4,0,0
+"D","D T11",1,"Hypnea musciformis",0,1,2,0,0
+"D","D T11",2,"Hypnea musciformis",0,2,3,0,0
+"D","D T11",3,"Hypnea musciformis",0,3,4,0,0
+"D","D T11",1,"Isognomon bicolor",0,1,2,3.125,-3.125
+"D","D T11",2,"Isognomon bicolor",3.125,2,3,1.5625,1.5625
+"D","D T11",3,"Isognomon bicolor",1.5625,3,4,3.125,-1.5625
+"D","D T11",1,"Jania adhaerens",0,1,2,0,0
+"D","D T11",2,"Jania adhaerens",0,2,3,0,0
+"D","D T11",3,"Jania adhaerens",0,3,4,0,0
+"D","D T11",1,"Littoraria flava",0,1,2,0,0
+"D","D T11",2,"Littoraria flava",0,2,3,0.78125,-0.78125
+"D","D T11",3,"Littoraria flava",0.78125,3,4,1.5625,-0.78125
+"D","D T11",1,"Lottia subrugosa",0,1,2,0,0
+"D","D T11",2,"Lottia subrugosa",0,2,3,0,0
+"D","D T11",3,"Lottia subrugosa",0,3,4,0,0
+"D","D T11",1,"Mytilaster solisianus",0.78125,1,2,82.8125,-82.03125
+"D","D T11",2,"Mytilaster solisianus",82.8125,2,3,37.890625,44.921875
+"D","D T11",3,"Mytilaster solisianus",37.890625,3,4,12.5,25.390625
+"D","D T11",1,"Perna perna",0,1,2,0,0
+"D","D T11",2,"Perna perna",0,2,3,37.890625,-37.890625
+"D","D T11",3,"Perna perna",37.890625,3,4,15.625,22.265625
+"D","D T11",1,"Phragmatopoma lapidosa",0,1,2,0,0
+"D","D T11",2,"Phragmatopoma lapidosa",0,2,3,0,0
+"D","D T11",3,"Phragmatopoma lapidosa",0,3,4,0,0
+"D","D T11",1,"Polyplacophora",0,1,2,0,0
+"D","D T11",2,"Polyplacophora",0,2,3,0,0
+"D","D T11",3,"Polyplacophora",0,3,4,0,0
+"D","D T11",1,"Porphyra sp",0.390625,1,2,0,0.390625
+"D","D T11",2,"Porphyra sp",0,2,3,0,0
+"D","D T11",3,"Porphyra sp",0,3,4,0,0
+"D","D T11",1,"Serpulidae",0,1,2,0,0
+"D","D T11",2,"Serpulidae",0,2,3,0,0
+"D","D T11",3,"Serpulidae",0,3,4,0,0
+"D","D T11",1,"Tedania ignis (Esponja laranja)",0,1,2,0,0
+"D","D T11",2,"Tedania ignis (Esponja laranja)",0,2,3,0,0
+"D","D T11",3,"Tedania ignis (Esponja laranja)",0,3,4,0,0
+"D","D T11",1,"Tetraclita stalactifera",0,1,2,0,0
+"D","D T11",2,"Tetraclita stalactifera",0,2,3,0,0
+"D","D T11",3,"Tetraclita stalactifera",0,3,4,0,0
+"D","D T11",1,"Turf de Bostrychia",0,1,2,0,0
+"D","D T11",2,"Turf de Bostrychia",0,2,3,0,0
+"D","D T11",3,"Turf de Bostrychia",0,3,4,0,0
+"D","D T11",1,"Ulva lactuca",0,1,2,0,0
+"D","D T11",2,"Ulva lactuca",0,2,3,0,0
+"D","D T11",3,"Ulva lactuca",0,3,4,0,0
+"D","D T11",1,"Vermetidae",0,1,2,0,0
+"D","D T11",2,"Vermetidae",0,2,3,0,0
+"D","D T11",3,"Vermetidae",0,3,4,0,0
+"D","D T12",1,"Asteronema breviarticulatum",0,1,2,0,0
+"D","D T12",2,"Asteronema breviarticulatum",0,2,3,0,0
+"D","D T12",1,"Bunodossoma caissarum",0,1,2,0,0
+"D","D T12",2,"Bunodossoma caissarum",0,2,3,0,0
+"D","D T12",1,"CCA (Algas calcárias incrustantes)",0,1,2,0,0
+"D","D T12",2,"CCA (Algas calcárias incrustantes)",0,2,3,0,0
+"D","D T12",1,"Chaetomorpha anteninna",0,1,2,0,0
+"D","D T12",2,"Chaetomorpha anteninna",0,2,3,0,0
+"D","D T12",1,"Chthamalus bisinuatus",85.15625,1,2,0.78125,84.375
+"D","D T12",2,"Chthamalus bisinuatus",0.78125,2,3,0,0.78125
+"D","D T12",1,"Colpomenia sinuosa",0,1,2,0,0
+"D","D T12",2,"Colpomenia sinuosa",0,2,3,0,0
+"D","D T12",1,"Crassostrea rhizophorae",0,1,2,0,0
+"D","D T12",2,"Crassostrea rhizophorae",0,2,3,0,0
+"D","D T12",1,"Echinolittorina lineolata",0,1,2,0,0
+"D","D T12",2,"Echinolittorina lineolata",0,2,3,0,0
+"D","D T12",1,"Fissurella sp",0,1,2,0,0
+"D","D T12",2,"Fissurella sp",0,2,3,0,0
+"D","D T12",1,"Gelidiella acerosa",0,1,2,0,0
+"D","D T12",2,"Gelidiella acerosa",0,2,3,0,0
+"D","D T12",1,"Hypnea musciformis",0,1,2,0,0
+"D","D T12",2,"Hypnea musciformis",0,2,3,0,0
+"D","D T12",1,"Isognomon bicolor",0,1,2,2.34375,-2.34375
+"D","D T12",2,"Isognomon bicolor",2.34375,2,3,0,2.34375
+"D","D T12",1,"Jania adhaerens",0,1,2,0,0
+"D","D T12",2,"Jania adhaerens",0,2,3,0,0
+"D","D T12",1,"Littoraria flava",0,1,2,0,0
+"D","D T12",2,"Littoraria flava",0,2,3,1.5625,-1.5625
+"D","D T12",1,"Lottia subrugosa",0,1,2,0,0
+"D","D T12",2,"Lottia subrugosa",0,2,3,0,0
+"D","D T12",1,"Mytilaster solisianus",4.6875,1,2,54.6875,-50
+"D","D T12",2,"Mytilaster solisianus",54.6875,2,3,68.75,-14.0625
+"D","D T12",1,"Perna perna",0,1,2,17.1875,-17.1875
+"D","D T12",2,"Perna perna",17.1875,2,3,20.3125,-3.125
+"D","D T12",1,"Phragmatopoma lapidosa",0,1,2,0,0
+"D","D T12",2,"Phragmatopoma lapidosa",0,2,3,0,0
+"D","D T12",1,"Polyplacophora",0,1,2,0,0
+"D","D T12",2,"Polyplacophora",0,2,3,0,0
+"D","D T12",1,"Porphyra sp",0.78125,1,2,0,0.78125
+"D","D T12",2,"Porphyra sp",0,2,3,0,0
+"D","D T12",1,"Serpulidae",0,1,2,0,0
+"D","D T12",2,"Serpulidae",0,2,3,0,0
+"D","D T12",1,"Tedania ignis (Esponja laranja)",0,1,2,0,0
+"D","D T12",2,"Tedania ignis (Esponja laranja)",0,2,3,0,0
+"D","D T12",1,"Tetraclita stalactifera",0,1,2,0,0
+"D","D T12",2,"Tetraclita stalactifera",0,2,3,0,0
+"D","D T12",1,"Turf de Bostrychia",0,1,2,0,0
+"D","D T12",2,"Turf de Bostrychia",0,2,3,0,0
+"D","D T12",1,"Ulva lactuca",0,1,2,0,0
+"D","D T12",2,"Ulva lactuca",0,2,3,0,0
+"D","D T12",1,"Vermetidae",0,1,2,0,0
+"D","D T12",2,"Vermetidae",0,2,3,0,0
+"D","D T13",1,"Asteronema breviarticulatum",0,1,2,0,0
+"D","D T13",2,"Asteronema breviarticulatum",0,2,3,0,0
+"D","D T13",1,"Bunodossoma caissarum",0,1,2,0,0
+"D","D T13",2,"Bunodossoma caissarum",0,2,3,0,0
+"D","D T13",1,"CCA (Algas calcárias incrustantes)",0,1,2,0,0
+"D","D T13",2,"CCA (Algas calcárias incrustantes)",0,2,3,0,0
+"D","D T13",1,"Chaetomorpha anteninna",0,1,2,0,0
+"D","D T13",2,"Chaetomorpha anteninna",0,2,3,0,0
+"D","D T13",1,"Chthamalus bisinuatus",82.8125,1,2,0,82.8125
+"D","D T13",2,"Chthamalus bisinuatus",0,2,3,0,0
+"D","D T13",1,"Colpomenia sinuosa",0,1,2,0,0
+"D","D T13",2,"Colpomenia sinuosa",0,2,3,0,0
+"D","D T13",1,"Crassostrea rhizophorae",0,1,2,0,0
+"D","D T13",2,"Crassostrea rhizophorae",0,2,3,0,0
+"D","D T13",1,"Echinolittorina lineolata",0,1,2,0,0
+"D","D T13",2,"Echinolittorina lineolata",0,2,3,0,0
+"D","D T13",1,"Fissurella sp",0,1,2,0,0
+"D","D T13",2,"Fissurella sp",0,2,3,0,0
+"D","D T13",1,"Gelidiella acerosa",0,1,2,0,0
+"D","D T13",2,"Gelidiella acerosa",0,2,3,0,0
+"D","D T13",1,"Hypnea musciformis",0,1,2,0,0
+"D","D T13",2,"Hypnea musciformis",0,2,3,0,0
+"D","D T13",1,"Isognomon bicolor",0,1,2,3.125,-3.125
+"D","D T13",2,"Isognomon bicolor",3.125,2,3,3.125,0
+"D","D T13",1,"Jania adhaerens",0,1,2,0,0
+"D","D T13",2,"Jania adhaerens",0,2,3,0,0
+"D","D T13",1,"Littoraria flava",0,1,2,0,0
+"D","D T13",2,"Littoraria flava",0,2,3,0.390625,-0.390625
+"D","D T13",1,"Lottia subrugosa",0,1,2,0,0
+"D","D T13",2,"Lottia subrugosa",0,2,3,0,0
+"D","D T13",1,"Mytilaster solisianus",3.125,1,2,60.15625,-57.03125
+"D","D T13",2,"Mytilaster solisianus",60.15625,2,3,37.5,22.65625
+"D","D T13",1,"Perna perna",0,1,2,0,0
+"D","D T13",2,"Perna perna",0,2,3,37.109375,-37.109375
+"D","D T13",1,"Phragmatopoma lapidosa",0,1,2,0,0
+"D","D T13",2,"Phragmatopoma lapidosa",0,2,3,0,0
+"D","D T13",1,"Polyplacophora",0,1,2,0,0
+"D","D T13",2,"Polyplacophora",0,2,3,0,0
+"D","D T13",1,"Porphyra sp",0,1,2,0.78125,-0.78125
+"D","D T13",2,"Porphyra sp",0.78125,2,3,0,0.78125
+"D","D T13",1,"Serpulidae",0,1,2,0,0
+"D","D T13",2,"Serpulidae",0,2,3,0,0
+"D","D T13",1,"Tedania ignis (Esponja laranja)",0,1,2,0,0
+"D","D T13",2,"Tedania ignis (Esponja laranja)",0,2,3,0,0
+"D","D T13",1,"Tetraclita stalactifera",0,1,2,0,0
+"D","D T13",2,"Tetraclita stalactifera",0,2,3,4.6875,-4.6875
+"D","D T13",1,"Turf de Bostrychia",0,1,2,0,0
+"D","D T13",2,"Turf de Bostrychia",0,2,3,0,0
+"D","D T13",1,"Ulva lactuca",0,1,2,0,0
+"D","D T13",2,"Ulva lactuca",0,2,3,0,0
+"D","D T13",1,"Vermetidae",0,1,2,0,0
+"D","D T13",2,"Vermetidae",0,2,3,0,0
+"D","D T14",1,"Asteronema breviarticulatum",0,1,2,0,0
+"D","D T14",2,"Asteronema breviarticulatum",0,2,3,0,0
+"D","D T14",1,"Bunodossoma caissarum",0,1,2,0,0
+"D","D T14",2,"Bunodossoma caissarum",0,2,3,0,0
+"D","D T14",1,"CCA (Algas calcárias incrustantes)",0,1,2,0,0
+"D","D T14",2,"CCA (Algas calcárias incrustantes)",0,2,3,0,0
+"D","D T14",1,"Chaetomorpha anteninna",0,1,2,0,0
+"D","D T14",2,"Chaetomorpha anteninna",0,2,3,0,0
+"D","D T14",1,"Chthamalus bisinuatus",87.5,1,2,0,87.5
+"D","D T14",2,"Chthamalus bisinuatus",0,2,3,0,0
+"D","D T14",1,"Colpomenia sinuosa",0,1,2,0,0
+"D","D T14",2,"Colpomenia sinuosa",0,2,3,0,0
+"D","D T14",1,"Crassostrea rhizophorae",0,1,2,0,0
+"D","D T14",2,"Crassostrea rhizophorae",0,2,3,0,0
+"D","D T14",1,"Echinolittorina lineolata",0,1,2,0,0
+"D","D T14",2,"Echinolittorina lineolata",0,2,3,0,0
+"D","D T14",1,"Fissurella sp",0,1,2,0,0
+"D","D T14",2,"Fissurella sp",0,2,3,0,0
+"D","D T14",1,"Gelidiella acerosa",0,1,2,0,0
+"D","D T14",2,"Gelidiella acerosa",0,2,3,0,0
+"D","D T14",1,"Hypnea musciformis",0,1,2,0,0
+"D","D T14",2,"Hypnea musciformis",0,2,3,0,0
+"D","D T14",1,"Isognomon bicolor",0,1,2,3.125,-3.125
+"D","D T14",2,"Isognomon bicolor",3.125,2,3,1.5625,1.5625
+"D","D T14",1,"Jania adhaerens",0,1,2,0,0
+"D","D T14",2,"Jania adhaerens",0,2,3,0,0
+"D","D T14",1,"Littoraria flava",0,1,2,0,0
+"D","D T14",2,"Littoraria flava",0,2,3,0,0
+"D","D T14",1,"Lottia subrugosa",0.15625,1,2,0,0.15625
+"D","D T14",2,"Lottia subrugosa",0,2,3,0,0
+"D","D T14",1,"Mytilaster solisianus",1.5625,1,2,40.625,-39.0625
+"D","D T14",2,"Mytilaster solisianus",40.625,2,3,78.125,-37.5
+"D","D T14",1,"Perna perna",0,1,2,0,0
+"D","D T14",2,"Perna perna",0,2,3,4.6875,-4.6875
+"D","D T14",1,"Phragmatopoma lapidosa",0,1,2,0,0
+"D","D T14",2,"Phragmatopoma lapidosa",0,2,3,0,0
+"D","D T14",1,"Polyplacophora",0,1,2,0,0
+"D","D T14",2,"Polyplacophora",0,2,3,0,0
+"D","D T14",1,"Porphyra sp",0,1,2,0,0
+"D","D T14",2,"Porphyra sp",0,2,3,0,0
+"D","D T14",1,"Serpulidae",0,1,2,0,0
+"D","D T14",2,"Serpulidae",0,2,3,0,0
+"D","D T14",1,"Tedania ignis (Esponja laranja)",0,1,2,0,0
+"D","D T14",2,"Tedania ignis (Esponja laranja)",0,2,3,0,0
+"D","D T14",1,"Tetraclita stalactifera",0,1,2,0,0
+"D","D T14",2,"Tetraclita stalactifera",0,2,3,0,0
+"D","D T14",1,"Turf de Bostrychia",0,1,2,0,0
+"D","D T14",2,"Turf de Bostrychia",0,2,3,0,0
+"D","D T14",1,"Ulva lactuca",0,1,2,0,0
+"D","D T14",2,"Ulva lactuca",0,2,3,0,0
+"D","D T14",1,"Vermetidae",0,1,2,0,0
+"D","D T14",2,"Vermetidae",0,2,3,0,0
+"C","C T15",1,"Asteronema breviarticulatum",0,1,2,3.125,-3.125
+"C","C T15",2,"Asteronema breviarticulatum",3.125,2,3,4.6875,-1.5625
+"C","C T15",3,"Asteronema breviarticulatum",4.6875,3,4,0,4.6875
+"C","C T15",1,"Bunodossoma caissarum",0,1,2,0,0
+"C","C T15",2,"Bunodossoma caissarum",0,2,3,0,0
+"C","C T15",3,"Bunodossoma caissarum",0,3,4,0,0
+"C","C T15",1,"CCA (Algas calcárias incrustantes)",0,1,2,0,0
+"C","C T15",2,"CCA (Algas calcárias incrustantes)",0,2,3,0,0
+"C","C T15",3,"CCA (Algas calcárias incrustantes)",0,3,4,0,0
+"C","C T15",1,"Chaetomorpha anteninna",0,1,2,0,0
+"C","C T15",2,"Chaetomorpha anteninna",0,2,3,0,0
+"C","C T15",3,"Chaetomorpha anteninna",0,3,4,0,0
+"C","C T15",1,"Chthamalus bisinuatus",15.625,1,2,23.4375,-7.8125
+"C","C T15",2,"Chthamalus bisinuatus",23.4375,2,3,6.25,17.1875
+"C","C T15",3,"Chthamalus bisinuatus",6.25,3,4,15.625,-9.375
+"C","C T15",1,"Colpomenia sinuosa",0,1,2,0,0
+"C","C T15",2,"Colpomenia sinuosa",0,2,3,0,0
+"C","C T15",3,"Colpomenia sinuosa",0,3,4,0,0
+"C","C T15",1,"Crassostrea rhizophorae",0,1,2,0,0
+"C","C T15",2,"Crassostrea rhizophorae",0,2,3,0,0
+"C","C T15",3,"Crassostrea rhizophorae",0,3,4,0,0
+"C","C T15",1,"Echinolittorina lineolata",0,1,2,0,0
+"C","C T15",2,"Echinolittorina lineolata",0,2,3,0,0
+"C","C T15",3,"Echinolittorina lineolata",0,3,4,1.5625,-1.5625
+"C","C T15",1,"Fissurella sp",0,1,2,0,0
+"C","C T15",2,"Fissurella sp",0,2,3,0,0
+"C","C T15",3,"Fissurella sp",0,3,4,0,0
+"C","C T15",1,"Gelidiella acerosa",0,1,2,0,0
+"C","C T15",2,"Gelidiella acerosa",0,2,3,0,0
+"C","C T15",3,"Gelidiella acerosa",0,3,4,0,0
+"C","C T15",1,"Hypnea musciformis",0,1,2,0,0
+"C","C T15",2,"Hypnea musciformis",0,2,3,0,0
+"C","C T15",3,"Hypnea musciformis",0,3,4,0,0
+"C","C T15",1,"Isognomon bicolor",0,1,2,0,0
+"C","C T15",2,"Isognomon bicolor",0,2,3,7.8125,-7.8125
+"C","C T15",3,"Isognomon bicolor",7.8125,3,4,3.125,4.6875
+"C","C T15",1,"Jania adhaerens",0,1,2,0,0
+"C","C T15",2,"Jania adhaerens",0,2,3,0,0
+"C","C T15",3,"Jania adhaerens",0,3,4,0,0
+"C","C T15",1,"Littoraria flava",1.5625,1,2,0,1.5625
+"C","C T15",2,"Littoraria flava",0,2,3,0,0
+"C","C T15",3,"Littoraria flava",0,3,4,0,0
+"C","C T15",1,"Lottia subrugosa",0,1,2,0,0
+"C","C T15",2,"Lottia subrugosa",0,2,3,6.25,-6.25
+"C","C T15",3,"Lottia subrugosa",6.25,3,4,0,6.25
+"C","C T15",1,"Mytilaster solisianus",0,1,2,1.5625,-1.5625
+"C","C T15",2,"Mytilaster solisianus",1.5625,2,3,46.875,-45.3125
+"C","C T15",3,"Mytilaster solisianus",46.875,3,4,75,-28.125
+"C","C T15",1,"Perna perna",0,1,2,0,0
+"C","C T15",2,"Perna perna",0,2,3,0,0
+"C","C T15",3,"Perna perna",0,3,4,0,0
+"C","C T15",1,"Phragmatopoma lapidosa",0,1,2,0,0
+"C","C T15",2,"Phragmatopoma lapidosa",0,2,3,0,0
+"C","C T15",3,"Phragmatopoma lapidosa",0,3,4,0,0
+"C","C T15",1,"Polyplacophora",0,1,2,0,0
+"C","C T15",2,"Polyplacophora",0,2,3,0,0
+"C","C T15",3,"Polyplacophora",0,3,4,0,0
+"C","C T15",1,"Porphyra sp",0,1,2,0,0
+"C","C T15",2,"Porphyra sp",0,2,3,0,0
+"C","C T15",3,"Porphyra sp",0,3,4,0,0
+"C","C T15",1,"Serpulidae",0,1,2,0,0
+"C","C T15",2,"Serpulidae",0,2,3,0,0
+"C","C T15",3,"Serpulidae",0,3,4,0,0
+"C","C T15",1,"Tedania ignis (Esponja laranja)",0,1,2,0,0
+"C","C T15",2,"Tedania ignis (Esponja laranja)",0,2,3,0,0
+"C","C T15",3,"Tedania ignis (Esponja laranja)",0,3,4,0,0
+"C","C T15",1,"Tetraclita stalactifera",0,1,2,0,0
+"C","C T15",2,"Tetraclita stalactifera",0,2,3,4.6875,-4.6875
+"C","C T15",3,"Tetraclita stalactifera",4.6875,3,4,3.125,1.5625
+"C","C T15",1,"Turf de Bostrychia",0,1,2,0,0
+"C","C T15",2,"Turf de Bostrychia",0,2,3,0,0
+"C","C T15",3,"Turf de Bostrychia",0,3,4,0,0
+"C","C T15",1,"Ulva lactuca",1.5625,1,2,0,1.5625
+"C","C T15",2,"Ulva lactuca",0,2,3,0,0
+"C","C T15",3,"Ulva lactuca",0,3,4,0,0
+"C","C T15",1,"Vermetidae",0,1,2,0,0
+"C","C T15",2,"Vermetidae",0,2,3,0,0
+"C","C T15",3,"Vermetidae",0,3,4,0,0
+"C","C T16",1,"Asteronema breviarticulatum",0,1,2,1.5625,-1.5625
+"C","C T16",2,"Asteronema breviarticulatum",1.5625,2,3,1.5625,0
+"C","C T16",3,"Asteronema breviarticulatum",1.5625,3,4,0,1.5625
+"C","C T16",4,"Asteronema breviarticulatum",0,4,5,0,0
+"C","C T16",1,"Bunodossoma caissarum",0,1,2,0,0
+"C","C T16",2,"Bunodossoma caissarum",0,2,3,0,0
+"C","C T16",3,"Bunodossoma caissarum",0,3,4,0,0
+"C","C T16",4,"Bunodossoma caissarum",0,4,5,0,0
+"C","C T16",1,"CCA (Algas calcárias incrustantes)",0,1,2,0,0
+"C","C T16",2,"CCA (Algas calcárias incrustantes)",0,2,3,0,0
+"C","C T16",3,"CCA (Algas calcárias incrustantes)",0,3,4,0,0
+"C","C T16",4,"CCA (Algas calcárias incrustantes)",0,4,5,0,0
+"C","C T16",1,"Chaetomorpha anteninna",0,1,2,0,0
+"C","C T16",2,"Chaetomorpha anteninna",0,2,3,0,0
+"C","C T16",3,"Chaetomorpha anteninna",0,3,4,1.5625,-1.5625
+"C","C T16",4,"Chaetomorpha anteninna",1.5625,4,5,0,1.5625
+"C","C T16",1,"Chthamalus bisinuatus",0,1,2,67.1875,-67.1875
+"C","C T16",2,"Chthamalus bisinuatus",67.1875,2,3,7.8125,59.375
+"C","C T16",3,"Chthamalus bisinuatus",7.8125,3,4,12.5,-4.6875
+"C","C T16",4,"Chthamalus bisinuatus",12.5,4,5,14.0625,-1.5625
+"C","C T16",1,"Colpomenia sinuosa",0,1,2,0,0
+"C","C T16",2,"Colpomenia sinuosa",0,2,3,0,0
+"C","C T16",3,"Colpomenia sinuosa",0,3,4,0,0
+"C","C T16",4,"Colpomenia sinuosa",0,4,5,0,0
+"C","C T16",1,"Crassostrea rhizophorae",0,1,2,0,0
+"C","C T16",2,"Crassostrea rhizophorae",0,2,3,0,0
+"C","C T16",3,"Crassostrea rhizophorae",0,3,4,0,0
+"C","C T16",4,"Crassostrea rhizophorae",0,4,5,0,0
+"C","C T16",1,"Echinolittorina lineolata",0,1,2,0,0
+"C","C T16",2,"Echinolittorina lineolata",0,2,3,0,0
+"C","C T16",3,"Echinolittorina lineolata",0,3,4,0,0
+"C","C T16",4,"Echinolittorina lineolata",0,4,5,0,0
+"C","C T16",1,"Fissurella sp",0,1,2,0,0
+"C","C T16",2,"Fissurella sp",0,2,3,0,0
+"C","C T16",3,"Fissurella sp",0,3,4,0,0
+"C","C T16",4,"Fissurella sp",0,4,5,0,0
+"C","C T16",1,"Gelidiella acerosa",0,1,2,0,0
+"C","C T16",2,"Gelidiella acerosa",0,2,3,0,0
+"C","C T16",3,"Gelidiella acerosa",0,3,4,0,0
+"C","C T16",4,"Gelidiella acerosa",0,4,5,0,0
+"C","C T16",1,"Hypnea musciformis",0,1,2,0,0
+"C","C T16",2,"Hypnea musciformis",0,2,3,0,0
+"C","C T16",3,"Hypnea musciformis",0,3,4,0,0
+"C","C T16",4,"Hypnea musciformis",0,4,5,0,0
+"C","C T16",1,"Isognomon bicolor",0,1,2,0,0
+"C","C T16",2,"Isognomon bicolor",0,2,3,6.25,-6.25
+"C","C T16",3,"Isognomon bicolor",6.25,3,4,7.8125,-1.5625
+"C","C T16",4,"Isognomon bicolor",7.8125,4,5,0,7.8125
+"C","C T16",1,"Jania adhaerens",0,1,2,0,0
+"C","C T16",2,"Jania adhaerens",0,2,3,0,0
+"C","C T16",3,"Jania adhaerens",0,3,4,0,0
+"C","C T16",4,"Jania adhaerens",0,4,5,0,0
+"C","C T16",1,"Littoraria flava",0.78125,1,2,0,0.78125
+"C","C T16",2,"Littoraria flava",0,2,3,0,0
+"C","C T16",3,"Littoraria flava",0,3,4,3.125,-3.125
+"C","C T16",4,"Littoraria flava",3.125,4,5,0,3.125
+"C","C T16",1,"Lottia subrugosa",0,1,2,0,0
+"C","C T16",2,"Lottia subrugosa",0,2,3,3.125,-3.125
+"C","C T16",3,"Lottia subrugosa",3.125,3,4,3.125,0
+"C","C T16",4,"Lottia subrugosa",3.125,4,5,0,3.125
+"C","C T16",1,"Mytilaster solisianus",0,1,2,3.125,-3.125
+"C","C T16",2,"Mytilaster solisianus",3.125,2,3,40.625,-37.5
+"C","C T16",3,"Mytilaster solisianus",40.625,3,4,68.75,-28.125
+"C","C T16",4,"Mytilaster solisianus",68.75,4,5,0,68.75
+"C","C T16",1,"Perna perna",0,1,2,0,0
+"C","C T16",2,"Perna perna",0,2,3,0,0
+"C","C T16",3,"Perna perna",0,3,4,1.5625,-1.5625
+"C","C T16",4,"Perna perna",1.5625,4,5,0,1.5625
+"C","C T16",1,"Phragmatopoma lapidosa",0,1,2,0,0
+"C","C T16",2,"Phragmatopoma lapidosa",0,2,3,0,0
+"C","C T16",3,"Phragmatopoma lapidosa",0,3,4,0,0
+"C","C T16",4,"Phragmatopoma lapidosa",0,4,5,6.25,-6.25
+"C","C T16",1,"Polyplacophora",0,1,2,0,0
+"C","C T16",2,"Polyplacophora",0,2,3,0,0
+"C","C T16",3,"Polyplacophora",0,3,4,0,0
+"C","C T16",4,"Polyplacophora",0,4,5,0,0
+"C","C T16",1,"Porphyra sp",0,1,2,0,0
+"C","C T16",2,"Porphyra sp",0,2,3,0,0
+"C","C T16",3,"Porphyra sp",0,3,4,0,0
+"C","C T16",4,"Porphyra sp",0,4,5,0,0
+"C","C T16",1,"Serpulidae",0,1,2,0,0
+"C","C T16",2,"Serpulidae",0,2,3,0,0
+"C","C T16",3,"Serpulidae",0,3,4,0,0
+"C","C T16",4,"Serpulidae",0,4,5,0,0
+"C","C T16",1,"Tedania ignis (Esponja laranja)",0,1,2,0,0
+"C","C T16",2,"Tedania ignis (Esponja laranja)",0,2,3,0,0
+"C","C T16",3,"Tedania ignis (Esponja laranja)",0,3,4,0,0
+"C","C T16",4,"Tedania ignis (Esponja laranja)",0,4,5,0,0
+"C","C T16",1,"Tetraclita stalactifera",0,1,2,0,0
+"C","C T16",2,"Tetraclita stalactifera",0,2,3,4.6875,-4.6875
+"C","C T16",3,"Tetraclita stalactifera",4.6875,3,4,0,4.6875
+"C","C T16",4,"Tetraclita stalactifera",0,4,5,0,0
+"C","C T16",1,"Turf de Bostrychia",0,1,2,0,0
+"C","C T16",2,"Turf de Bostrychia",0,2,3,0,0
+"C","C T16",3,"Turf de Bostrychia",0,3,4,0,0
+"C","C T16",4,"Turf de Bostrychia",0,4,5,0,0
+"C","C T16",1,"Ulva lactuca",0,1,2,0,0
+"C","C T16",2,"Ulva lactuca",0,2,3,0,0
+"C","C T16",3,"Ulva lactuca",0,3,4,0,0
+"C","C T16",4,"Ulva lactuca",0,4,5,0,0
+"C","C T16",1,"Vermetidae",0,1,2,0,0
+"C","C T16",2,"Vermetidae",0,2,3,0,0
+"C","C T16",3,"Vermetidae",0,3,4,0,0
+"C","C T16",4,"Vermetidae",0,4,5,0,0
+"C","C T17",1,"Asteronema breviarticulatum",4.6875,1,2,4.6875,0
+"C","C T17",2,"Asteronema breviarticulatum",4.6875,2,3,0,4.6875
+"C","C T17",3,"Asteronema breviarticulatum",0,3,4,0,0
+"C","C T17",1,"Bunodossoma caissarum",0,1,2,0,0
+"C","C T17",2,"Bunodossoma caissarum",0,2,3,0,0
+"C","C T17",3,"Bunodossoma caissarum",0,3,4,0,0
+"C","C T17",1,"CCA (Algas calcárias incrustantes)",0,1,2,0,0
+"C","C T17",2,"CCA (Algas calcárias incrustantes)",0,2,3,0,0
+"C","C T17",3,"CCA (Algas calcárias incrustantes)",0,3,4,0,0
+"C","C T17",1,"Chaetomorpha anteninna",0,1,2,0,0
+"C","C T17",2,"Chaetomorpha anteninna",0,2,3,0,0
+"C","C T17",3,"Chaetomorpha anteninna",0,3,4,0,0
+"C","C T17",1,"Chthamalus bisinuatus",78.125,1,2,28.125,50
+"C","C T17",2,"Chthamalus bisinuatus",28.125,2,3,29.6875,-1.5625
+"C","C T17",3,"Chthamalus bisinuatus",29.6875,3,4,0,29.6875
+"C","C T17",1,"Colpomenia sinuosa",0,1,2,0,0
+"C","C T17",2,"Colpomenia sinuosa",0,2,3,0,0
+"C","C T17",3,"Colpomenia sinuosa",0,3,4,0,0
+"C","C T17",1,"Crassostrea rhizophorae",0,1,2,0,0
+"C","C T17",2,"Crassostrea rhizophorae",0,2,3,0,0
+"C","C T17",3,"Crassostrea rhizophorae",0,3,4,0,0
+"C","C T17",1,"Echinolittorina lineolata",0,1,2,0,0
+"C","C T17",2,"Echinolittorina lineolata",0,2,3,0,0
+"C","C T17",3,"Echinolittorina lineolata",0,3,4,0,0
+"C","C T17",1,"Fissurella sp",0,1,2,0,0
+"C","C T17",2,"Fissurella sp",0,2,3,0,0
+"C","C T17",3,"Fissurella sp",0,3,4,3.125,-3.125
+"C","C T17",1,"Gelidiella acerosa",0,1,2,0,0
+"C","C T17",2,"Gelidiella acerosa",0,2,3,0,0
+"C","C T17",3,"Gelidiella acerosa",0,3,4,0,0
+"C","C T17",1,"Hypnea musciformis",0,1,2,0,0
+"C","C T17",2,"Hypnea musciformis",0,2,3,0,0
+"C","C T17",3,"Hypnea musciformis",0,3,4,0,0
+"C","C T17",1,"Isognomon bicolor",0,1,2,3.125,-3.125
+"C","C T17",2,"Isognomon bicolor",3.125,2,3,1.5625,1.5625
+"C","C T17",3,"Isognomon bicolor",1.5625,3,4,7.8125,-6.25
+"C","C T17",1,"Jania adhaerens",0,1,2,0,0
+"C","C T17",2,"Jania adhaerens",0,2,3,0,0
+"C","C T17",3,"Jania adhaerens",0,3,4,10.9375,-10.9375
+"C","C T17",1,"Littoraria flava",0,1,2,0,0
+"C","C T17",2,"Littoraria flava",0,2,3,0,0
+"C","C T17",3,"Littoraria flava",0,3,4,0,0
+"C","C T17",1,"Lottia subrugosa",0,1,2,0,0
+"C","C T17",2,"Lottia subrugosa",0,2,3,0,0
+"C","C T17",3,"Lottia subrugosa",0,3,4,6.25,-6.25
+"C","C T17",1,"Mytilaster solisianus",6.25,1,2,42.1875,-35.9375
+"C","C T17",2,"Mytilaster solisianus",42.1875,2,3,57.8125,-15.625
+"C","C T17",3,"Mytilaster solisianus",57.8125,3,4,20.3125,37.5
+"C","C T17",1,"Perna perna",0,1,2,0,0
+"C","C T17",2,"Perna perna",0,2,3,0,0
+"C","C T17",3,"Perna perna",0,3,4,0,0
+"C","C T17",1,"Phragmatopoma lapidosa",0,1,2,0,0
+"C","C T17",2,"Phragmatopoma lapidosa",0,2,3,0,0
+"C","C T17",3,"Phragmatopoma lapidosa",0,3,4,0,0
+"C","C T17",1,"Polyplacophora",0,1,2,0,0
+"C","C T17",2,"Polyplacophora",0,2,3,0,0
+"C","C T17",3,"Polyplacophora",0,3,4,0,0
+"C","C T17",1,"Porphyra sp",0,1,2,0,0
+"C","C T17",2,"Porphyra sp",0,2,3,0,0
+"C","C T17",3,"Porphyra sp",0,3,4,0,0
+"C","C T17",1,"Serpulidae",0,1,2,0,0
+"C","C T17",2,"Serpulidae",0,2,3,0,0
+"C","C T17",3,"Serpulidae",0,3,4,62.5,-62.5
+"C","C T17",1,"Tedania ignis (Esponja laranja)",0,1,2,0,0
+"C","C T17",2,"Tedania ignis (Esponja laranja)",0,2,3,0,0
+"C","C T17",3,"Tedania ignis (Esponja laranja)",0,3,4,6.25,-6.25
+"C","C T17",1,"Tetraclita stalactifera",0,1,2,7.8125,-7.8125
+"C","C T17",2,"Tetraclita stalactifera",7.8125,2,3,4.6875,3.125
+"C","C T17",3,"Tetraclita stalactifera",4.6875,3,4,1.5625,3.125
+"C","C T17",1,"Turf de Bostrychia",0,1,2,0,0
+"C","C T17",2,"Turf de Bostrychia",0,2,3,0,0
+"C","C T17",3,"Turf de Bostrychia",0,3,4,0,0
+"C","C T17",1,"Ulva lactuca",0,1,2,0,0
+"C","C T17",2,"Ulva lactuca",0,2,3,0,0
+"C","C T17",3,"Ulva lactuca",0,3,4,1.5625,-1.5625
+"C","C T17",1,"Vermetidae",0,1,2,0,0
+"C","C T17",2,"Vermetidae",0,2,3,0,0
+"C","C T17",3,"Vermetidae",0,3,4,0,0
+"G","G T18",1,"Asteronema breviarticulatum",0,1,2,25,-25
+"G","G T18",1,"Bunodossoma caissarum",0,1,2,0,0
+"G","G T18",1,"CCA (Algas calcárias incrustantes)",0,1,2,0,0
+"G","G T18",1,"Chaetomorpha anteninna",0,1,2,0,0
+"G","G T18",1,"Chthamalus bisinuatus",3.125,1,2,0,3.125
+"G","G T18",1,"Colpomenia sinuosa",0,1,2,0,0
+"G","G T18",1,"Crassostrea rhizophorae",0,1,2,0,0
+"G","G T18",1,"Echinolittorina lineolata",0,1,2,0,0
+"G","G T18",1,"Fissurella sp",0,1,2,0,0
+"G","G T18",1,"Gelidiella acerosa",0,1,2,0,0
+"G","G T18",1,"Hypnea musciformis",0,1,2,0,0
+"G","G T18",1,"Isognomon bicolor",0,1,2,21.875,-21.875
+"G","G T18",1,"Jania adhaerens",0,1,2,1.5625,-1.5625
+"G","G T18",1,"Littoraria flava",0,1,2,0,0
+"G","G T18",1,"Lottia subrugosa",1.5625,1,2,3.125,-1.5625
+"G","G T18",1,"Mytilaster solisianus",0,1,2,21.875,-21.875
+"G","G T18",1,"Perna perna",0,1,2,0,0
+"G","G T18",1,"Phragmatopoma lapidosa",0,1,2,0,0
+"G","G T18",1,"Polyplacophora",0,1,2,0,0
+"G","G T18",1,"Porphyra sp",0,1,2,0,0
+"G","G T18",1,"Serpulidae",0,1,2,0,0
+"G","G T18",1,"Tedania ignis (Esponja laranja)",0,1,2,3.125,-3.125
+"G","G T18",1,"Tetraclita stalactifera",0,1,2,21.875,-21.875
+"G","G T18",1,"Turf de Bostrychia",0,1,2,1.5625,-1.5625
+"G","G T18",1,"Ulva lactuca",0,1,2,0,0
+"G","G T18",1,"Vermetidae",0,1,2,0,0
+"G","G T19",1,"Asteronema breviarticulatum",1.5625,1,2,43.75,-42.1875
+"G","G T19",1,"Bunodossoma caissarum",0,1,2,0,0
+"G","G T19",1,"CCA (Algas calcárias incrustantes)",0,1,2,0,0
+"G","G T19",1,"Chaetomorpha anteninna",0,1,2,0,0
+"G","G T19",1,"Chthamalus bisinuatus",3.125,1,2,0,3.125
+"G","G T19",1,"Colpomenia sinuosa",0,1,2,0,0
+"G","G T19",1,"Crassostrea rhizophorae",0,1,2,0,0
+"G","G T19",1,"Echinolittorina lineolata",0,1,2,0,0
+"G","G T19",1,"Fissurella sp",0,1,2,0,0
+"G","G T19",1,"Gelidiella acerosa",0,1,2,0,0
+"G","G T19",1,"Hypnea musciformis",0,1,2,0,0
+"G","G T19",1,"Isognomon bicolor",0,1,2,0,0
+"G","G T19",1,"Jania adhaerens",0,1,2,0,0
+"G","G T19",1,"Littoraria flava",0,1,2,0,0
+"G","G T19",1,"Lottia subrugosa",3.125,1,2,0,3.125
+"G","G T19",1,"Mytilaster solisianus",0,1,2,23.4375,-23.4375
+"G","G T19",1,"Perna perna",0,1,2,0,0
+"G","G T19",1,"Phragmatopoma lapidosa",0,1,2,0,0
+"G","G T19",1,"Polyplacophora",0,1,2,0,0
+"G","G T19",1,"Porphyra sp",0,1,2,0,0
+"G","G T19",1,"Serpulidae",0,1,2,0,0
+"G","G T19",1,"Tedania ignis (Esponja laranja)",0,1,2,0,0
+"G","G T19",1,"Tetraclita stalactifera",6.25,1,2,6.25,0
+"G","G T19",1,"Turf de Bostrychia",0,1,2,0,0
+"G","G T19",1,"Ulva lactuca",0,1,2,1.5625,-1.5625
+"G","G T19",1,"Vermetidae",0,1,2,0,0
+"G","G T20",1,"Asteronema breviarticulatum",7.8125,1,2,37.5,-29.6875
+"G","G T20",2,"Asteronema breviarticulatum",37.5,2,3,89.0625,-51.5625
+"G","G T20",1,"Bunodossoma caissarum",0,1,2,0,0
+"G","G T20",2,"Bunodossoma caissarum",0,2,3,0,0
+"G","G T20",1,"CCA (Algas calcárias incrustantes)",0,1,2,0,0
+"G","G T20",2,"CCA (Algas calcárias incrustantes)",0,2,3,0,0
+"G","G T20",1,"Chaetomorpha anteninna",0,1,2,0,0
+"G","G T20",2,"Chaetomorpha anteninna",0,2,3,4.6875,-4.6875
+"G","G T20",1,"Chthamalus bisinuatus",3.125,1,2,0,3.125
+"G","G T20",2,"Chthamalus bisinuatus",0,2,3,0,0
+"G","G T20",1,"Colpomenia sinuosa",0,1,2,0,0
+"G","G T20",2,"Colpomenia sinuosa",0,2,3,0,0
+"G","G T20",1,"Crassostrea rhizophorae",0,1,2,0,0
+"G","G T20",2,"Crassostrea rhizophorae",0,2,3,0,0
+"G","G T20",1,"Echinolittorina lineolata",0,1,2,0,0
+"G","G T20",2,"Echinolittorina lineolata",0,2,3,0,0
+"G","G T20",1,"Fissurella sp",0,1,2,0.78125,-0.78125
+"G","G T20",2,"Fissurella sp",0.78125,2,3,0,0.78125
+"G","G T20",1,"Gelidiella acerosa",0,1,2,0,0
+"G","G T20",2,"Gelidiella acerosa",0,2,3,0,0
+"G","G T20",1,"Hypnea musciformis",0,1,2,0,0
+"G","G T20",2,"Hypnea musciformis",0,2,3,0,0
+"G","G T20",1,"Isognomon bicolor",0,1,2,0,0
+"G","G T20",2,"Isognomon bicolor",0,2,3,1.5625,-1.5625
+"G","G T20",1,"Jania adhaerens",0,1,2,0,0
+"G","G T20",2,"Jania adhaerens",0,2,3,0,0
+"G","G T20",1,"Littoraria flava",0,1,2,0,0
+"G","G T20",2,"Littoraria flava",0,2,3,0,0
+"G","G T20",1,"Lottia subrugosa",6.25,1,2,0.78125,5.46875
+"G","G T20",2,"Lottia subrugosa",0.78125,2,3,0.78125,0
+"G","G T20",1,"Mytilaster solisianus",14.0625,1,2,39.0625,-25
+"G","G T20",2,"Mytilaster solisianus",39.0625,2,3,0,39.0625
+"G","G T20",1,"Perna perna",0,1,2,0,0
+"G","G T20",2,"Perna perna",0,2,3,0,0
+"G","G T20",1,"Phragmatopoma lapidosa",0,1,2,0,0
+"G","G T20",2,"Phragmatopoma lapidosa",0,2,3,0,0
+"G","G T20",1,"Polyplacophora",0,1,2,0,0
+"G","G T20",2,"Polyplacophora",0,2,3,0,0
+"G","G T20",1,"Porphyra sp",6.25,1,2,0,6.25
+"G","G T20",2,"Porphyra sp",0,2,3,0,0
+"G","G T20",1,"Serpulidae",0,1,2,0,0
+"G","G T20",2,"Serpulidae",0,2,3,0,0
+"G","G T20",1,"Tedania ignis (Esponja laranja)",0,1,2,0,0
+"G","G T20",2,"Tedania ignis (Esponja laranja)",0,2,3,0,0
+"G","G T20",1,"Tetraclita stalactifera",7.8125,1,2,14.0625,-6.25
+"G","G T20",2,"Tetraclita stalactifera",14.0625,2,3,1.5625,12.5
+"G","G T20",1,"Turf de Bostrychia",0,1,2,0,0
+"G","G T20",2,"Turf de Bostrychia",0,2,3,0,0
+"G","G T20",1,"Ulva lactuca",0,1,2,0,0
+"G","G T20",2,"Ulva lactuca",0,2,3,0.78125,-0.78125
+"G","G T20",1,"Vermetidae",0,1,2,0,0
+"G","G T20",2,"Vermetidae",0,2,3,0,0
+"G","G T21",1,"Asteronema breviarticulatum",0,1,2,21.875,-21.875
+"G","G T21",2,"Asteronema breviarticulatum",21.875,2,3,50,-28.125
+"G","G T21",1,"Bunodossoma caissarum",0,1,2,0,0
+"G","G T21",2,"Bunodossoma caissarum",0,2,3,0,0
+"G","G T21",1,"CCA (Algas calcárias incrustantes)",0,1,2,0,0
+"G","G T21",2,"CCA (Algas calcárias incrustantes)",0,2,3,0,0
+"G","G T21",1,"Chaetomorpha anteninna",0,1,2,0,0
+"G","G T21",2,"Chaetomorpha anteninna",0,2,3,0,0
+"G","G T21",1,"Chthamalus bisinuatus",1.5625,1,2,0,1.5625
+"G","G T21",2,"Chthamalus bisinuatus",0,2,3,0,0
+"G","G T21",1,"Colpomenia sinuosa",0,1,2,0,0
+"G","G T21",2,"Colpomenia sinuosa",0,2,3,0,0
+"G","G T21",1,"Crassostrea rhizophorae",0,1,2,0,0
+"G","G T21",2,"Crassostrea rhizophorae",0,2,3,0,0
+"G","G T21",1,"Echinolittorina lineolata",0,1,2,0,0
+"G","G T21",2,"Echinolittorina lineolata",0,2,3,0,0
+"G","G T21",1,"Fissurella sp",0,1,2,0,0
+"G","G T21",2,"Fissurella sp",0,2,3,1.5625,-1.5625
+"G","G T21",1,"Gelidiella acerosa",0,1,2,0,0
+"G","G T21",2,"Gelidiella acerosa",0,2,3,0,0
+"G","G T21",1,"Hypnea musciformis",0,1,2,0,0
+"G","G T21",2,"Hypnea musciformis",0,2,3,0,0
+"G","G T21",1,"Isognomon bicolor",10.9375,1,2,0,10.9375
+"G","G T21",2,"Isognomon bicolor",0,2,3,9.375,-9.375
+"G","G T21",1,"Jania adhaerens",0.78125,1,2,0,0.78125
+"G","G T21",2,"Jania adhaerens",0,2,3,0,0
+"G","G T21",1,"Littoraria flava",0,1,2,0,0
+"G","G T21",2,"Littoraria flava",0,2,3,0,0
+"G","G T21",1,"Lottia subrugosa",0.390625,1,2,1.5625,-1.171875
+"G","G T21",2,"Lottia subrugosa",1.5625,2,3,7.8125,-6.25
+"G","G T21",1,"Mytilaster solisianus",25,1,2,59.375,-34.375
+"G","G T21",2,"Mytilaster solisianus",59.375,2,3,0,59.375
+"G","G T21",1,"Perna perna",0,1,2,0,0
+"G","G T21",2,"Perna perna",0,2,3,0,0
+"G","G T21",1,"Phragmatopoma lapidosa",0,1,2,0,0
+"G","G T21",2,"Phragmatopoma lapidosa",0,2,3,0,0
+"G","G T21",1,"Polyplacophora",0,1,2,0,0
+"G","G T21",2,"Polyplacophora",0,2,3,0,0
+"G","G T21",1,"Porphyra sp",0,1,2,0,0
+"G","G T21",2,"Porphyra sp",0,2,3,0,0
+"G","G T21",1,"Serpulidae",0,1,2,0,0
+"G","G T21",2,"Serpulidae",0,2,3,0,0
+"G","G T21",1,"Tedania ignis (Esponja laranja)",0,1,2,0,0
+"G","G T21",2,"Tedania ignis (Esponja laranja)",0,2,3,0,0
+"G","G T21",1,"Tetraclita stalactifera",0,1,2,0,0
+"G","G T21",2,"Tetraclita stalactifera",0,2,3,0,0
+"G","G T21",1,"Turf de Bostrychia",0,1,2,0,0
+"G","G T21",2,"Turf de Bostrychia",0,2,3,0,0
+"G","G T21",1,"Ulva lactuca",1.5625,1,2,12.5,-10.9375
+"G","G T21",2,"Ulva lactuca",12.5,2,3,1.5625,10.9375
+"G","G T21",1,"Vermetidae",0,1,2,0,0
+"G","G T21",2,"Vermetidae",0,2,3,0,0
+"E","E T22",1,"Asteronema breviarticulatum",0,1,2,0,0
+"E","E T22",2,"Asteronema breviarticulatum",0,2,3,0,0
+"E","E T22",3,"Asteronema breviarticulatum",0,3,4,0,0
+"E","E T22",1,"Bunodossoma caissarum",0,1,2,0,0
+"E","E T22",2,"Bunodossoma caissarum",0,2,3,0,0
+"E","E T22",3,"Bunodossoma caissarum",0,3,4,0,0
+"E","E T22",1,"CCA (Algas calcárias incrustantes)",0,1,2,0,0
+"E","E T22",2,"CCA (Algas calcárias incrustantes)",0,2,3,0,0
+"E","E T22",3,"CCA (Algas calcárias incrustantes)",0,3,4,0,0
+"E","E T22",1,"Chaetomorpha anteninna",0,1,2,0,0
+"E","E T22",2,"Chaetomorpha anteninna",0,2,3,0,0
+"E","E T22",3,"Chaetomorpha anteninna",0,3,4,0,0
+"E","E T22",1,"Chthamalus bisinuatus",15.625,1,2,3.125,12.5
+"E","E T22",2,"Chthamalus bisinuatus",3.125,2,3,0,3.125
+"E","E T22",3,"Chthamalus bisinuatus",0,3,4,17.1875,-17.1875
+"E","E T22",1,"Colpomenia sinuosa",0,1,2,0,0
+"E","E T22",2,"Colpomenia sinuosa",0,2,3,0,0
+"E","E T22",3,"Colpomenia sinuosa",0,3,4,0,0
+"E","E T22",1,"Crassostrea rhizophorae",0,1,2,0,0
+"E","E T22",2,"Crassostrea rhizophorae",0,2,3,0,0
+"E","E T22",3,"Crassostrea rhizophorae",0,3,4,0,0
+"E","E T22",1,"Echinolittorina lineolata",0.78125,1,2,0,0.78125
+"E","E T22",2,"Echinolittorina lineolata",0,2,3,0,0
+"E","E T22",3,"Echinolittorina lineolata",0,3,4,2.34375,-2.34375
+"E","E T22",1,"Fissurella sp",1.5625,1,2,0,1.5625
+"E","E T22",2,"Fissurella sp",0,2,3,0,0
+"E","E T22",3,"Fissurella sp",0,3,4,0,0
+"E","E T22",1,"Gelidiella acerosa",0,1,2,0,0
+"E","E T22",2,"Gelidiella acerosa",0,2,3,0,0
+"E","E T22",3,"Gelidiella acerosa",0,3,4,0,0
+"E","E T22",1,"Hypnea musciformis",0,1,2,0,0
+"E","E T22",2,"Hypnea musciformis",0,2,3,0,0
+"E","E T22",3,"Hypnea musciformis",0,3,4,0,0
+"E","E T22",1,"Isognomon bicolor",7.8125,1,2,3.90625,3.90625
+"E","E T22",2,"Isognomon bicolor",3.90625,2,3,1.5625,2.34375
+"E","E T22",3,"Isognomon bicolor",1.5625,3,4,2.34375,-0.78125
+"E","E T22",1,"Jania adhaerens",0,1,2,0,0
+"E","E T22",2,"Jania adhaerens",0,2,3,0,0
+"E","E T22",3,"Jania adhaerens",0,3,4,0,0
+"E","E T22",1,"Littoraria flava",0,1,2,0,0
+"E","E T22",2,"Littoraria flava",0,2,3,0,0
+"E","E T22",3,"Littoraria flava",0,3,4,0,0
+"E","E T22",1,"Lottia subrugosa",0.78125,1,2,0.15625,0.625
+"E","E T22",2,"Lottia subrugosa",0.15625,2,3,0,0.15625
+"E","E T22",3,"Lottia subrugosa",0,3,4,0,0
+"E","E T22",1,"Mytilaster solisianus",12.5,1,2,90.625,-78.125
+"E","E T22",2,"Mytilaster solisianus",90.625,2,3,78.125,12.5
+"E","E T22",3,"Mytilaster solisianus",78.125,3,4,7.8125,70.3125
+"E","E T22",1,"Perna perna",0,1,2,0,0
+"E","E T22",2,"Perna perna",0,2,3,0,0
+"E","E T22",3,"Perna perna",0,3,4,0,0
+"E","E T22",1,"Phragmatopoma lapidosa",0,1,2,0,0
+"E","E T22",2,"Phragmatopoma lapidosa",0,2,3,21.875,-21.875
+"E","E T22",3,"Phragmatopoma lapidosa",21.875,3,4,0,21.875
+"E","E T22",1,"Polyplacophora",0,1,2,0,0
+"E","E T22",2,"Polyplacophora",0,2,3,0,0
+"E","E T22",3,"Polyplacophora",0,3,4,0,0
+"E","E T22",1,"Porphyra sp",0,1,2,0,0
+"E","E T22",2,"Porphyra sp",0,2,3,0.78125,-0.78125
+"E","E T22",3,"Porphyra sp",0.78125,3,4,0,0.78125
+"E","E T22",1,"Serpulidae",0,1,2,0,0
+"E","E T22",2,"Serpulidae",0,2,3,0,0
+"E","E T22",3,"Serpulidae",0,3,4,0,0
+"E","E T22",1,"Tedania ignis (Esponja laranja)",0,1,2,0,0
+"E","E T22",2,"Tedania ignis (Esponja laranja)",0,2,3,0,0
+"E","E T22",3,"Tedania ignis (Esponja laranja)",0,3,4,0,0
+"E","E T22",1,"Tetraclita stalactifera",4.6875,1,2,0.3125,4.375
+"E","E T22",2,"Tetraclita stalactifera",0.3125,2,3,0,0.3125
+"E","E T22",3,"Tetraclita stalactifera",0,3,4,3.125,-3.125
+"E","E T22",1,"Turf de Bostrychia",0,1,2,0,0
+"E","E T22",2,"Turf de Bostrychia",0,2,3,0,0
+"E","E T22",3,"Turf de Bostrychia",0,3,4,0,0
+"E","E T22",1,"Ulva lactuca",1.5625,1,2,0,1.5625
+"E","E T22",2,"Ulva lactuca",0,2,3,0,0
+"E","E T22",3,"Ulva lactuca",0,3,4,0.78125,-0.78125
+"E","E T22",1,"Vermetidae",0,1,2,0,0
+"E","E T22",2,"Vermetidae",0,2,3,0,0
+"E","E T22",3,"Vermetidae",0,3,4,0,0
+"E","E T23",1,"Asteronema breviarticulatum",0,1,2,0,0
+"E","E T23",2,"Asteronema breviarticulatum",0,2,3,0,0
+"E","E T23",3,"Asteronema breviarticulatum",0,3,4,0,0
+"E","E T23",1,"Bunodossoma caissarum",0,1,2,0,0
+"E","E T23",2,"Bunodossoma caissarum",0,2,3,0,0
+"E","E T23",3,"Bunodossoma caissarum",0,3,4,0,0
+"E","E T23",1,"CCA (Algas calcárias incrustantes)",0,1,2,0,0
+"E","E T23",2,"CCA (Algas calcárias incrustantes)",0,2,3,0,0
+"E","E T23",3,"CCA (Algas calcárias incrustantes)",0,3,4,0,0
+"E","E T23",1,"Chaetomorpha anteninna",0,1,2,0,0
+"E","E T23",2,"Chaetomorpha anteninna",0,2,3,0,0
+"E","E T23",3,"Chaetomorpha anteninna",0,3,4,0,0
+"E","E T23",1,"Chthamalus bisinuatus",0.78125,1,2,0.390625,0.390625
+"E","E T23",2,"Chthamalus bisinuatus",0.390625,2,3,1.5625,-1.171875
+"E","E T23",3,"Chthamalus bisinuatus",1.5625,3,4,0,1.5625
+"E","E T23",1,"Colpomenia sinuosa",0,1,2,0,0
+"E","E T23",2,"Colpomenia sinuosa",0,2,3,0,0
+"E","E T23",3,"Colpomenia sinuosa",0,3,4,0,0
+"E","E T23",1,"Crassostrea rhizophorae",0.78125,1,2,0.9375,-0.15625
+"E","E T23",2,"Crassostrea rhizophorae",0.9375,2,3,1.5625,-0.625
+"E","E T23",3,"Crassostrea rhizophorae",1.5625,3,4,0,1.5625
+"E","E T23",1,"Echinolittorina lineolata",0,1,2,0,0
+"E","E T23",2,"Echinolittorina lineolata",0,2,3,0,0
+"E","E T23",3,"Echinolittorina lineolata",0,3,4,0,0
+"E","E T23",1,"Fissurella sp",0,1,2,0,0
+"E","E T23",2,"Fissurella sp",0,2,3,0.78125,-0.78125
+"E","E T23",3,"Fissurella sp",0.78125,3,4,0,0.78125
+"E","E T23",1,"Gelidiella acerosa",0,1,2,0,0
+"E","E T23",2,"Gelidiella acerosa",0,2,3,0,0
+"E","E T23",3,"Gelidiella acerosa",0,3,4,0,0
+"E","E T23",1,"Hypnea musciformis",0,1,2,0,0
+"E","E T23",2,"Hypnea musciformis",0,2,3,0,0
+"E","E T23",3,"Hypnea musciformis",0,3,4,0,0
+"E","E T23",1,"Isognomon bicolor",4.6875,1,2,2.1875,2.5
+"E","E T23",2,"Isognomon bicolor",2.1875,2,3,3.90625,-1.71875
+"E","E T23",3,"Isognomon bicolor",3.90625,3,4,2.34375,1.5625
+"E","E T23",1,"Jania adhaerens",0,1,2,0,0
+"E","E T23",2,"Jania adhaerens",0,2,3,0,0
+"E","E T23",3,"Jania adhaerens",0,3,4,0,0
+"E","E T23",1,"Littoraria flava",0,1,2,0,0
+"E","E T23",2,"Littoraria flava",0,2,3,0.78125,-0.78125
+"E","E T23",3,"Littoraria flava",0.78125,3,4,0,0.78125
+"E","E T23",1,"Lottia subrugosa",0,1,2,0,0
+"E","E T23",2,"Lottia subrugosa",0,2,3,0,0
+"E","E T23",3,"Lottia subrugosa",0,3,4,0,0
+"E","E T23",1,"Mytilaster solisianus",87.5,1,2,95.3125,-7.8125
+"E","E T23",2,"Mytilaster solisianus",95.3125,2,3,67.96875,27.34375
+"E","E T23",3,"Mytilaster solisianus",67.96875,3,4,81.25,-13.28125
+"E","E T23",1,"Perna perna",0,1,2,0,0
+"E","E T23",2,"Perna perna",0,2,3,0,0
+"E","E T23",3,"Perna perna",0,3,4,0,0
+"E","E T23",1,"Phragmatopoma lapidosa",0,1,2,0,0
+"E","E T23",2,"Phragmatopoma lapidosa",0,2,3,0,0
+"E","E T23",3,"Phragmatopoma lapidosa",0,3,4,0,0
+"E","E T23",1,"Polyplacophora",0,1,2,0,0
+"E","E T23",2,"Polyplacophora",0,2,3,0,0
+"E","E T23",3,"Polyplacophora",0,3,4,0,0
+"E","E T23",1,"Porphyra sp",0,1,2,0,0
+"E","E T23",2,"Porphyra sp",0,2,3,0,0
+"E","E T23",3,"Porphyra sp",0,3,4,1.5625,-1.5625
+"E","E T23",1,"Serpulidae",0,1,2,0,0
+"E","E T23",2,"Serpulidae",0,2,3,0,0
+"E","E T23",3,"Serpulidae",0,3,4,0,0
+"E","E T23",1,"Tedania ignis (Esponja laranja)",0,1,2,0,0
+"E","E T23",2,"Tedania ignis (Esponja laranja)",0,2,3,0,0
+"E","E T23",3,"Tedania ignis (Esponja laranja)",0,3,4,0,0
+"E","E T23",1,"Tetraclita stalactifera",1.5625,1,2,0.390625,1.171875
+"E","E T23",2,"Tetraclita stalactifera",0.390625,2,3,0,0.390625
+"E","E T23",3,"Tetraclita stalactifera",0,3,4,0.78125,-0.78125
+"E","E T23",1,"Turf de Bostrychia",0,1,2,0,0
+"E","E T23",2,"Turf de Bostrychia",0,2,3,0,0
+"E","E T23",3,"Turf de Bostrychia",0,3,4,0,0
+"E","E T23",1,"Ulva lactuca",0.3125,1,2,0,0.3125
+"E","E T23",2,"Ulva lactuca",0,2,3,3.125,-3.125
+"E","E T23",3,"Ulva lactuca",3.125,3,4,3.125,0
+"E","E T23",1,"Vermetidae",0,1,2,0,0
+"E","E T23",2,"Vermetidae",0,2,3,0,0
+"E","E T23",3,"Vermetidae",0,3,4,0,0
+"E","E T24",1,"Asteronema breviarticulatum",0,1,2,0,0
+"E","E T24",2,"Asteronema breviarticulatum",0,2,3,0,0
+"E","E T24",1,"Bunodossoma caissarum",0,1,2,0,0
+"E","E T24",2,"Bunodossoma caissarum",0,2,3,0,0
+"E","E T24",1,"CCA (Algas calcárias incrustantes)",0,1,2,0,0
+"E","E T24",2,"CCA (Algas calcárias incrustantes)",0,2,3,0,0
+"E","E T24",1,"Chaetomorpha anteninna",0,1,2,0,0
+"E","E T24",2,"Chaetomorpha anteninna",0,2,3,0,0
+"E","E T24",1,"Chthamalus bisinuatus",0,1,2,31.25,-31.25
+"E","E T24",2,"Chthamalus bisinuatus",31.25,2,3,0.78125,30.46875
+"E","E T24",1,"Colpomenia sinuosa",0,1,2,0,0
+"E","E T24",2,"Colpomenia sinuosa",0,2,3,0,0
+"E","E T24",1,"Crassostrea rhizophorae",1.5625,1,2,0,1.5625
+"E","E T24",2,"Crassostrea rhizophorae",0,2,3,1.5625,-1.5625
+"E","E T24",1,"Echinolittorina lineolata",0,1,2,0,0
+"E","E T24",2,"Echinolittorina lineolata",0,2,3,0,0
+"E","E T24",1,"Fissurella sp",0,1,2,0.3125,-0.3125
+"E","E T24",2,"Fissurella sp",0.3125,2,3,0,0.3125
+"E","E T24",1,"Gelidiella acerosa",0,1,2,0,0
+"E","E T24",2,"Gelidiella acerosa",0,2,3,0,0
+"E","E T24",1,"Hypnea musciformis",12.5,1,2,0,12.5
+"E","E T24",2,"Hypnea musciformis",0,2,3,0,0
+"E","E T24",1,"Isognomon bicolor",4.6875,1,2,4.6875,0
+"E","E T24",2,"Isognomon bicolor",4.6875,2,3,1.5625,3.125
+"E","E T24",1,"Jania adhaerens",0,1,2,0,0
+"E","E T24",2,"Jania adhaerens",0,2,3,0,0
+"E","E T24",1,"Littoraria flava",0,1,2,0,0
+"E","E T24",2,"Littoraria flava",0,2,3,0,0
+"E","E T24",1,"Lottia subrugosa",0.78125,1,2,2.34375,-1.5625
+"E","E T24",2,"Lottia subrugosa",2.34375,2,3,0.78125,1.5625
+"E","E T24",1,"Mytilaster solisianus",53.125,1,2,29.6875,23.4375
+"E","E T24",2,"Mytilaster solisianus",29.6875,2,3,93.75,-64.0625
+"E","E T24",1,"Perna perna",0,1,2,0,0
+"E","E T24",2,"Perna perna",0,2,3,0,0
+"E","E T24",1,"Phragmatopoma lapidosa",40.625,1,2,0,40.625
+"E","E T24",2,"Phragmatopoma lapidosa",0,2,3,0,0
+"E","E T24",1,"Polyplacophora",0,1,2,0,0
+"E","E T24",2,"Polyplacophora",0,2,3,0,0
+"E","E T24",1,"Porphyra sp",0,1,2,3.125,-3.125
+"E","E T24",2,"Porphyra sp",3.125,2,3,0,3.125
+"E","E T24",1,"Serpulidae",0,1,2,0,0
+"E","E T24",2,"Serpulidae",0,2,3,0,0
+"E","E T24",1,"Tedania ignis (Esponja laranja)",0,1,2,0,0
+"E","E T24",2,"Tedania ignis (Esponja laranja)",0,2,3,0,0
+"E","E T24",1,"Tetraclita stalactifera",0.78125,1,2,0,0.78125
+"E","E T24",2,"Tetraclita stalactifera",0,2,3,0,0
+"E","E T24",1,"Turf de Bostrychia",0,1,2,0,0
+"E","E T24",2,"Turf de Bostrychia",0,2,3,0,0
+"E","E T24",1,"Ulva lactuca",0,1,2,0,0
+"E","E T24",2,"Ulva lactuca",0,2,3,0.78125,-0.78125
+"E","E T24",1,"Vermetidae",0,1,2,0,0
+"E","E T24",2,"Vermetidae",0,2,3,0,0
+"E","E T25",1,"Asteronema breviarticulatum",0,1,2,0,0
+"E","E T25",2,"Asteronema breviarticulatum",0,2,3,0,0
+"E","E T25",1,"Bunodossoma caissarum",0,1,2,0,0
+"E","E T25",2,"Bunodossoma caissarum",0,2,3,0,0
+"E","E T25",1,"CCA (Algas calcárias incrustantes)",0,1,2,0,0
+"E","E T25",2,"CCA (Algas calcárias incrustantes)",0,2,3,0,0
+"E","E T25",1,"Chaetomorpha anteninna",0,1,2,0,0
+"E","E T25",2,"Chaetomorpha anteninna",0,2,3,0,0
+"E","E T25",1,"Chthamalus bisinuatus",0,1,2,48.4375,-48.4375
+"E","E T25",2,"Chthamalus bisinuatus",48.4375,2,3,0,48.4375
+"E","E T25",1,"Colpomenia sinuosa",0,1,2,0,0
+"E","E T25",2,"Colpomenia sinuosa",0,2,3,0,0
+"E","E T25",1,"Crassostrea rhizophorae",3.125,1,2,0,3.125
+"E","E T25",2,"Crassostrea rhizophorae",0,2,3,3.125,-3.125
+"E","E T25",1,"Echinolittorina lineolata",0,1,2,0.3125,-0.3125
+"E","E T25",2,"Echinolittorina lineolata",0.3125,2,3,0,0.3125
+"E","E T25",1,"Fissurella sp",0,1,2,0,0
+"E","E T25",2,"Fissurella sp",0,2,3,0,0
+"E","E T25",1,"Gelidiella acerosa",0,1,2,0,0
+"E","E T25",2,"Gelidiella acerosa",0,2,3,0,0
+"E","E T25",1,"Hypnea musciformis",0,1,2,0,0
+"E","E T25",2,"Hypnea musciformis",0,2,3,0,0
+"E","E T25",1,"Isognomon bicolor",7.8125,1,2,0,7.8125
+"E","E T25",2,"Isognomon bicolor",0,2,3,7.8125,-7.8125
+"E","E T25",1,"Jania adhaerens",0,1,2,0,0
+"E","E T25",2,"Jania adhaerens",0,2,3,0,0
+"E","E T25",1,"Littoraria flava",0,1,2,0,0
+"E","E T25",2,"Littoraria flava",0,2,3,0.78125,-0.78125
+"E","E T25",1,"Lottia subrugosa",0,1,2,0,0
+"E","E T25",2,"Lottia subrugosa",0,2,3,3.125,-3.125
+"E","E T25",1,"Mytilaster solisianus",55.46875,1,2,1.5625,53.90625
+"E","E T25",2,"Mytilaster solisianus",1.5625,2,3,59.375,-57.8125
+"E","E T25",1,"Perna perna",0.3125,1,2,0,0.3125
+"E","E T25",2,"Perna perna",0,2,3,0,0
+"E","E T25",1,"Phragmatopoma lapidosa",28.125,1,2,0,28.125
+"E","E T25",2,"Phragmatopoma lapidosa",0,2,3,0,0
+"E","E T25",1,"Polyplacophora",0,1,2,0,0
+"E","E T25",2,"Polyplacophora",0,2,3,0,0
+"E","E T25",1,"Porphyra sp",0.3125,1,2,6.25,-5.9375
+"E","E T25",2,"Porphyra sp",6.25,2,3,0,6.25
+"E","E T25",1,"Serpulidae",0,1,2,0,0
+"E","E T25",2,"Serpulidae",0,2,3,7.8125,-7.8125
+"E","E T25",1,"Tedania ignis (Esponja laranja)",0,1,2,0,0
+"E","E T25",2,"Tedania ignis (Esponja laranja)",0,2,3,0,0
+"E","E T25",1,"Tetraclita stalactifera",3.90625,1,2,0,3.90625
+"E","E T25",2,"Tetraclita stalactifera",0,2,3,0,0
+"E","E T25",1,"Turf de Bostrychia",0,1,2,0,0
+"E","E T25",2,"Turf de Bostrychia",0,2,3,0,0
+"E","E T25",1,"Ulva lactuca",0.3125,1,2,0,0.3125
+"E","E T25",2,"Ulva lactuca",0,2,3,0,0
+"E","E T25",1,"Vermetidae",0,1,2,0,0
+"E","E T25",2,"Vermetidae",0,2,3,0,0
+"E","E T26",1,"Asteronema breviarticulatum",0,1,2,0,0
+"E","E T26",2,"Asteronema breviarticulatum",0,2,3,0,0
+"E","E T26",1,"Bunodossoma caissarum",0,1,2,0,0
+"E","E T26",2,"Bunodossoma caissarum",0,2,3,0,0
+"E","E T26",1,"CCA (Algas calcárias incrustantes)",0,1,2,0,0
+"E","E T26",2,"CCA (Algas calcárias incrustantes)",0,2,3,0,0
+"E","E T26",1,"Chaetomorpha anteninna",0,1,2,0,0
+"E","E T26",2,"Chaetomorpha anteninna",0,2,3,0,0
+"E","E T26",1,"Chthamalus bisinuatus",1.5625,1,2,3.125,-1.5625
+"E","E T26",2,"Chthamalus bisinuatus",3.125,2,3,54.6875,-51.5625
+"E","E T26",1,"Colpomenia sinuosa",0,1,2,0,0
+"E","E T26",2,"Colpomenia sinuosa",0,2,3,0,0
+"E","E T26",1,"Crassostrea rhizophorae",0,1,2,3.125,-3.125
+"E","E T26",2,"Crassostrea rhizophorae",3.125,2,3,0,3.125
+"E","E T26",1,"Echinolittorina lineolata",0,1,2,0,0
+"E","E T26",2,"Echinolittorina lineolata",0,2,3,0,0
+"E","E T26",1,"Fissurella sp",0,1,2,0,0
+"E","E T26",2,"Fissurella sp",0,2,3,0,0
+"E","E T26",1,"Gelidiella acerosa",0,1,2,0,0
+"E","E T26",2,"Gelidiella acerosa",0,2,3,0,0
+"E","E T26",1,"Hypnea musciformis",0,1,2,0,0
+"E","E T26",2,"Hypnea musciformis",0,2,3,0,0
+"E","E T26",1,"Isognomon bicolor",0,1,2,1.5625,-1.5625
+"E","E T26",2,"Isognomon bicolor",1.5625,2,3,0,1.5625
+"E","E T26",1,"Jania adhaerens",0,1,2,0,0
+"E","E T26",2,"Jania adhaerens",0,2,3,0,0
+"E","E T26",1,"Littoraria flava",0.78125,1,2,0,0.78125
+"E","E T26",2,"Littoraria flava",0,2,3,0,0
+"E","E T26",1,"Lottia subrugosa",0.78125,1,2,0,0.78125
+"E","E T26",2,"Lottia subrugosa",0,2,3,0,0
+"E","E T26",1,"Mytilaster solisianus",93.75,1,2,39.0625,54.6875
+"E","E T26",2,"Mytilaster solisianus",39.0625,2,3,0,39.0625
+"E","E T26",1,"Perna perna",0,1,2,0,0
+"E","E T26",2,"Perna perna",0,2,3,0,0
+"E","E T26",1,"Phragmatopoma lapidosa",0,1,2,46.875,-46.875
+"E","E T26",2,"Phragmatopoma lapidosa",46.875,2,3,0,46.875
+"E","E T26",1,"Polyplacophora",0,1,2,0,0
+"E","E T26",2,"Polyplacophora",0,2,3,0,0
+"E","E T26",1,"Porphyra sp",0,1,2,0.625,-0.625
+"E","E T26",2,"Porphyra sp",0.625,2,3,21.875,-21.25
+"E","E T26",1,"Serpulidae",0,1,2,0,0
+"E","E T26",2,"Serpulidae",0,2,3,0,0
+"E","E T26",1,"Tedania ignis (Esponja laranja)",0,1,2,0,0
+"E","E T26",2,"Tedania ignis (Esponja laranja)",0,2,3,0,0
+"E","E T26",1,"Tetraclita stalactifera",0,1,2,0,0
+"E","E T26",2,"Tetraclita stalactifera",0,2,3,0,0
+"E","E T26",1,"Turf de Bostrychia",0,1,2,0,0
+"E","E T26",2,"Turf de Bostrychia",0,2,3,0,0
+"E","E T26",1,"Ulva lactuca",1.5625,1,2,1.5625,0
+"E","E T26",2,"Ulva lactuca",1.5625,2,3,0,1.5625
+"E","E T26",1,"Vermetidae",0,1,2,0,0
+"E","E T26",2,"Vermetidae",0,2,3,0,0
+"E","E T27",1,"Asteronema breviarticulatum",0,1,2,0,0
+"E","E T27",2,"Asteronema breviarticulatum",0,2,3,0,0
+"E","E T27",3,"Asteronema breviarticulatum",0,3,4,0,0
+"E","E T27",1,"Bunodossoma caissarum",0,1,2,0,0
+"E","E T27",2,"Bunodossoma caissarum",0,2,3,0,0
+"E","E T27",3,"Bunodossoma caissarum",0,3,4,0,0
+"E","E T27",1,"CCA (Algas calcárias incrustantes)",0,1,2,0,0
+"E","E T27",2,"CCA (Algas calcárias incrustantes)",0,2,3,0,0
+"E","E T27",3,"CCA (Algas calcárias incrustantes)",0,3,4,0,0
+"E","E T27",1,"Chaetomorpha anteninna",0,1,2,0.78125,-0.78125
+"E","E T27",2,"Chaetomorpha anteninna",0.78125,2,3,0,0.78125
+"E","E T27",3,"Chaetomorpha anteninna",0,3,4,0,0
+"E","E T27",1,"Chthamalus bisinuatus",7.8125,1,2,10.9375,-3.125
+"E","E T27",2,"Chthamalus bisinuatus",10.9375,2,3,0,10.9375
+"E","E T27",3,"Chthamalus bisinuatus",0,3,4,0,0
+"E","E T27",1,"Colpomenia sinuosa",0,1,2,0,0
+"E","E T27",2,"Colpomenia sinuosa",0,2,3,0,0
+"E","E T27",3,"Colpomenia sinuosa",0,3,4,0,0
+"E","E T27",1,"Crassostrea rhizophorae",0,1,2,0,0
+"E","E T27",2,"Crassostrea rhizophorae",0,2,3,0,0
+"E","E T27",3,"Crassostrea rhizophorae",0,3,4,0,0
+"E","E T27",1,"Echinolittorina lineolata",0,1,2,0.3125,-0.3125
+"E","E T27",2,"Echinolittorina lineolata",0.3125,2,3,0,0.3125
+"E","E T27",3,"Echinolittorina lineolata",0,3,4,0,0
+"E","E T27",1,"Fissurella sp",0,1,2,0,0
+"E","E T27",2,"Fissurella sp",0,2,3,0,0
+"E","E T27",3,"Fissurella sp",0,3,4,0,0
+"E","E T27",1,"Gelidiella acerosa",0,1,2,0,0
+"E","E T27",2,"Gelidiella acerosa",0,2,3,0,0
+"E","E T27",3,"Gelidiella acerosa",0,3,4,0,0
+"E","E T27",1,"Hypnea musciformis",0,1,2,0,0
+"E","E T27",2,"Hypnea musciformis",0,2,3,0,0
+"E","E T27",3,"Hypnea musciformis",0,3,4,0,0
+"E","E T27",1,"Isognomon bicolor",1.5625,1,2,1.5625,0
+"E","E T27",2,"Isognomon bicolor",1.5625,2,3,0.78125,0.78125
+"E","E T27",3,"Isognomon bicolor",0.78125,3,4,0,0.78125
+"E","E T27",1,"Jania adhaerens",0,1,2,0,0
+"E","E T27",2,"Jania adhaerens",0,2,3,0,0
+"E","E T27",3,"Jania adhaerens",0,3,4,0,0
+"E","E T27",1,"Littoraria flava",0,1,2,0,0
+"E","E T27",2,"Littoraria flava",0,2,3,0,0
+"E","E T27",3,"Littoraria flava",0,3,4,0,0
+"E","E T27",1,"Lottia subrugosa",6.25,1,2,0,6.25
+"E","E T27",2,"Lottia subrugosa",0,2,3,0,0
+"E","E T27",3,"Lottia subrugosa",0,3,4,0,0
+"E","E T27",1,"Mytilaster solisianus",50,1,2,71.875,-21.875
+"E","E T27",2,"Mytilaster solisianus",71.875,2,3,76.5625,-4.6875
+"E","E T27",3,"Mytilaster solisianus",76.5625,3,4,5.46875,71.09375
+"E","E T27",1,"Perna perna",0,1,2,0,0
+"E","E T27",2,"Perna perna",0,2,3,0,0
+"E","E T27",3,"Perna perna",0,3,4,0.3125,-0.3125
+"E","E T27",1,"Phragmatopoma lapidosa",0,1,2,0,0
+"E","E T27",2,"Phragmatopoma lapidosa",0,2,3,21.875,-21.875
+"E","E T27",3,"Phragmatopoma lapidosa",21.875,3,4,90.625,-68.75
+"E","E T27",1,"Polyplacophora",0,1,2,0,0
+"E","E T27",2,"Polyplacophora",0,2,3,0,0
+"E","E T27",3,"Polyplacophora",0,3,4,0,0
+"E","E T27",1,"Porphyra sp",3.125,1,2,0.625,2.5
+"E","E T27",2,"Porphyra sp",0.625,2,3,1.25,-0.625
+"E","E T27",3,"Porphyra sp",1.25,3,4,0,1.25
+"E","E T27",1,"Serpulidae",0,1,2,0,0
+"E","E T27",2,"Serpulidae",0,2,3,0,0
+"E","E T27",3,"Serpulidae",0,3,4,0,0
+"E","E T27",1,"Tedania ignis (Esponja laranja)",0,1,2,0,0
+"E","E T27",2,"Tedania ignis (Esponja laranja)",0,2,3,0,0
+"E","E T27",3,"Tedania ignis (Esponja laranja)",0,3,4,4.6875,-4.6875
+"E","E T27",1,"Tetraclita stalactifera",0.78125,1,2,9.375,-8.59375
+"E","E T27",2,"Tetraclita stalactifera",9.375,2,3,0.9375,8.4375
+"E","E T27",3,"Tetraclita stalactifera",0.9375,3,4,0,0.9375
+"E","E T27",1,"Turf de Bostrychia",0,1,2,0,0
+"E","E T27",2,"Turf de Bostrychia",0,2,3,0,0
+"E","E T27",3,"Turf de Bostrychia",0,3,4,0,0
+"E","E T27",1,"Ulva lactuca",0,1,2,0,0
+"E","E T27",2,"Ulva lactuca",0,2,3,0,0
+"E","E T27",3,"Ulva lactuca",0,3,4,0,0
+"E","E T27",1,"Vermetidae",0,1,2,0,0
+"E","E T27",2,"Vermetidae",0,2,3,0,0
+"E","E T27",3,"Vermetidae",0,3,4,0,0
+"F","F T28",1,"Asteronema breviarticulatum",0,1,2,0,0
+"F","F T28",2,"Asteronema breviarticulatum",0,2,3,0,0
+"F","F T28",1,"Bunodossoma caissarum",0,1,2,0,0
+"F","F T28",2,"Bunodossoma caissarum",0,2,3,0,0
+"F","F T28",1,"CCA (Algas calcárias incrustantes)",0,1,2,0,0
+"F","F T28",2,"CCA (Algas calcárias incrustantes)",0,2,3,0,0
+"F","F T28",1,"Chaetomorpha anteninna",0,1,2,15.625,-15.625
+"F","F T28",2,"Chaetomorpha anteninna",15.625,2,3,4.6875,10.9375
+"F","F T28",1,"Chthamalus bisinuatus",0,1,2,0,0
+"F","F T28",2,"Chthamalus bisinuatus",0,2,3,0,0
+"F","F T28",1,"Colpomenia sinuosa",0,1,2,0,0
+"F","F T28",2,"Colpomenia sinuosa",0,2,3,0,0
+"F","F T28",1,"Crassostrea rhizophorae",0,1,2,0,0
+"F","F T28",2,"Crassostrea rhizophorae",0,2,3,0,0
+"F","F T28",1,"Echinolittorina lineolata",0,1,2,0,0
+"F","F T28",2,"Echinolittorina lineolata",0,2,3,0,0
+"F","F T28",1,"Fissurella sp",0,1,2,0,0
+"F","F T28",2,"Fissurella sp",0,2,3,0,0
+"F","F T28",1,"Gelidiella acerosa",0,1,2,9.375,-9.375
+"F","F T28",2,"Gelidiella acerosa",9.375,2,3,10.9375,-1.5625
+"F","F T28",1,"Hypnea musciformis",0,1,2,0,0
+"F","F T28",2,"Hypnea musciformis",0,2,3,0,0
+"F","F T28",1,"Isognomon bicolor",0,1,2,1.5625,-1.5625
+"F","F T28",2,"Isognomon bicolor",1.5625,2,3,0,1.5625
+"F","F T28",1,"Jania adhaerens",0,1,2,0,0
+"F","F T28",2,"Jania adhaerens",0,2,3,0,0
+"F","F T28",1,"Littoraria flava",0,1,2,0,0
+"F","F T28",2,"Littoraria flava",0,2,3,0,0
+"F","F T28",1,"Lottia subrugosa",12.5,1,2,0,12.5
+"F","F T28",2,"Lottia subrugosa",0,2,3,0,0
+"F","F T28",1,"Mytilaster solisianus",10.9375,1,2,100,-89.0625
+"F","F T28",2,"Mytilaster solisianus",100,2,3,85.9375,14.0625
+"F","F T28",1,"Perna perna",0,1,2,4.6875,-4.6875
+"F","F T28",2,"Perna perna",4.6875,2,3,1.5625,3.125
+"F","F T28",1,"Phragmatopoma lapidosa",0,1,2,0,0
+"F","F T28",2,"Phragmatopoma lapidosa",0,2,3,6.25,-6.25
+"F","F T28",1,"Polyplacophora",0,1,2,0,0
+"F","F T28",2,"Polyplacophora",0,2,3,0,0
+"F","F T28",1,"Porphyra sp",39.0625,1,2,0,39.0625
+"F","F T28",2,"Porphyra sp",0,2,3,0,0
+"F","F T28",1,"Serpulidae",0,1,2,0,0
+"F","F T28",2,"Serpulidae",0,2,3,0,0
+"F","F T28",1,"Tedania ignis (Esponja laranja)",0,1,2,0,0
+"F","F T28",2,"Tedania ignis (Esponja laranja)",0,2,3,3.125,-3.125
+"F","F T28",1,"Tetraclita stalactifera",1.5625,1,2,3.125,-1.5625
+"F","F T28",2,"Tetraclita stalactifera",3.125,2,3,0,3.125
+"F","F T28",1,"Turf de Bostrychia",12.5,1,2,0,12.5
+"F","F T28",2,"Turf de Bostrychia",0,2,3,0,0
+"F","F T28",1,"Ulva lactuca",1.5625,1,2,17.1875,-15.625
+"F","F T28",2,"Ulva lactuca",17.1875,2,3,6.25,10.9375
+"F","F T28",1,"Vermetidae",0,1,2,0,0
+"F","F T28",2,"Vermetidae",0,2,3,0,0
+"F","F T29",1,"Asteronema breviarticulatum",10.9375,1,2,0,10.9375
+"F","F T29",2,"Asteronema breviarticulatum",0,2,3,35.9375,-35.9375
+"F","F T29",3,"Asteronema breviarticulatum",35.9375,3,4,0,35.9375
+"F","F T29",4,"Asteronema breviarticulatum",0,4,5,3.125,-3.125
+"F","F T29",5,"Asteronema breviarticulatum",3.125,5,6,3.125,0
+"F","F T29",6,"Asteronema breviarticulatum",3.125,6,7,3.125,0
+"F","F T29",1,"Bunodossoma caissarum",0,1,2,0,0
+"F","F T29",2,"Bunodossoma caissarum",0,2,3,0,0
+"F","F T29",3,"Bunodossoma caissarum",0,3,4,0,0
+"F","F T29",4,"Bunodossoma caissarum",0,4,5,0,0
+"F","F T29",5,"Bunodossoma caissarum",0,5,6,0,0
+"F","F T29",6,"Bunodossoma caissarum",0,6,7,0,0
+"F","F T29",1,"CCA (Algas calcárias incrustantes)",0,1,2,0,0
+"F","F T29",2,"CCA (Algas calcárias incrustantes)",0,2,3,0,0
+"F","F T29",3,"CCA (Algas calcárias incrustantes)",0,3,4,0,0
+"F","F T29",4,"CCA (Algas calcárias incrustantes)",0,4,5,0,0
+"F","F T29",5,"CCA (Algas calcárias incrustantes)",0,5,6,14.0625,-14.0625
+"F","F T29",6,"CCA (Algas calcárias incrustantes)",14.0625,6,7,0,14.0625
+"F","F T29",1,"Chaetomorpha anteninna",0,1,2,4.6875,-4.6875
+"F","F T29",2,"Chaetomorpha anteninna",4.6875,2,3,0,4.6875
+"F","F T29",3,"Chaetomorpha anteninna",0,3,4,0,0
+"F","F T29",4,"Chaetomorpha anteninna",0,4,5,12.5,-12.5
+"F","F T29",5,"Chaetomorpha anteninna",12.5,5,6,10.9375,1.5625
+"F","F T29",6,"Chaetomorpha anteninna",10.9375,6,7,3.125,7.8125
+"F","F T29",1,"Chthamalus bisinuatus",34.375,1,2,3.125,31.25
+"F","F T29",2,"Chthamalus bisinuatus",3.125,2,3,0,3.125
+"F","F T29",3,"Chthamalus bisinuatus",0,3,4,45.3125,-45.3125
+"F","F T29",4,"Chthamalus bisinuatus",45.3125,4,5,0,45.3125
+"F","F T29",5,"Chthamalus bisinuatus",0,5,6,25,-25
+"F","F T29",6,"Chthamalus bisinuatus",25,6,7,0,25
+"F","F T29",1,"Colpomenia sinuosa",0,1,2,0,0
+"F","F T29",2,"Colpomenia sinuosa",0,2,3,0,0
+"F","F T29",3,"Colpomenia sinuosa",0,3,4,0,0
+"F","F T29",4,"Colpomenia sinuosa",0,4,5,0,0
+"F","F T29",5,"Colpomenia sinuosa",0,5,6,0,0
+"F","F T29",6,"Colpomenia sinuosa",0,6,7,0,0
+"F","F T29",1,"Crassostrea rhizophorae",0,1,2,0,0
+"F","F T29",2,"Crassostrea rhizophorae",0,2,3,0,0
+"F","F T29",3,"Crassostrea rhizophorae",0,3,4,0,0
+"F","F T29",4,"Crassostrea rhizophorae",0,4,5,0,0
+"F","F T29",5,"Crassostrea rhizophorae",0,5,6,0,0
+"F","F T29",6,"Crassostrea rhizophorae",0,6,7,0,0
+"F","F T29",1,"Echinolittorina lineolata",0,1,2,0,0
+"F","F T29",2,"Echinolittorina lineolata",0,2,3,0,0
+"F","F T29",3,"Echinolittorina lineolata",0,3,4,0,0
+"F","F T29",4,"Echinolittorina lineolata",0,4,5,0,0
+"F","F T29",5,"Echinolittorina lineolata",0,5,6,0,0
+"F","F T29",6,"Echinolittorina lineolata",0,6,7,0,0
+"F","F T29",1,"Fissurella sp",0,1,2,0,0
+"F","F T29",2,"Fissurella sp",0,2,3,0,0
+"F","F T29",3,"Fissurella sp",0,3,4,0,0
+"F","F T29",4,"Fissurella sp",0,4,5,0,0
+"F","F T29",5,"Fissurella sp",0,5,6,1.5625,-1.5625
+"F","F T29",6,"Fissurella sp",1.5625,6,7,0,1.5625
+"F","F T29",1,"Gelidiella acerosa",0,1,2,0,0
+"F","F T29",2,"Gelidiella acerosa",0,2,3,10.9375,-10.9375
+"F","F T29",3,"Gelidiella acerosa",10.9375,3,4,0,10.9375
+"F","F T29",4,"Gelidiella acerosa",0,4,5,4.6875,-4.6875
+"F","F T29",5,"Gelidiella acerosa",4.6875,5,6,10.9375,-6.25
+"F","F T29",6,"Gelidiella acerosa",10.9375,6,7,6.25,4.6875
+"F","F T29",1,"Hypnea musciformis",0,1,2,0,0
+"F","F T29",2,"Hypnea musciformis",0,2,3,0,0
+"F","F T29",3,"Hypnea musciformis",0,3,4,0,0
+"F","F T29",4,"Hypnea musciformis",0,4,5,0,0
+"F","F T29",5,"Hypnea musciformis",0,5,6,0,0
+"F","F T29",6,"Hypnea musciformis",0,6,7,0,0
+"F","F T29",1,"Isognomon bicolor",0,1,2,0,0
+"F","F T29",2,"Isognomon bicolor",0,2,3,4.6875,-4.6875
+"F","F T29",3,"Isognomon bicolor",4.6875,3,4,0,4.6875
+"F","F T29",4,"Isognomon bicolor",0,4,5,0,0
+"F","F T29",5,"Isognomon bicolor",0,5,6,0,0
+"F","F T29",6,"Isognomon bicolor",0,6,7,0,0
+"F","F T29",1,"Jania adhaerens",0,1,2,0,0
+"F","F T29",2,"Jania adhaerens",0,2,3,0,0
+"F","F T29",3,"Jania adhaerens",0,3,4,0,0
+"F","F T29",4,"Jania adhaerens",0,4,5,0,0
+"F","F T29",5,"Jania adhaerens",0,5,6,0,0
+"F","F T29",6,"Jania adhaerens",0,6,7,12.5,-12.5
+"F","F T29",1,"Littoraria flava",0,1,2,0,0
+"F","F T29",2,"Littoraria flava",0,2,3,0,0
+"F","F T29",3,"Littoraria flava",0,3,4,0,0
+"F","F T29",4,"Littoraria flava",0,4,5,0,0
+"F","F T29",5,"Littoraria flava",0,5,6,0,0
+"F","F T29",6,"Littoraria flava",0,6,7,0,0
+"F","F T29",1,"Lottia subrugosa",6.25,1,2,0,6.25
+"F","F T29",2,"Lottia subrugosa",0,2,3,6.25,-6.25
+"F","F T29",3,"Lottia subrugosa",6.25,3,4,1.5625,4.6875
+"F","F T29",4,"Lottia subrugosa",1.5625,4,5,23.4375,-21.875
+"F","F T29",5,"Lottia subrugosa",23.4375,5,6,0,23.4375
+"F","F T29",6,"Lottia subrugosa",0,6,7,0,0
+"F","F T29",1,"Mytilaster solisianus",4.6875,1,2,96.875,-92.1875
+"F","F T29",2,"Mytilaster solisianus",96.875,2,3,26.5625,70.3125
+"F","F T29",3,"Mytilaster solisianus",26.5625,3,4,0,26.5625
+"F","F T29",4,"Mytilaster solisianus",0,4,5,56.25,-56.25
+"F","F T29",5,"Mytilaster solisianus",56.25,5,6,93.75,-37.5
+"F","F T29",6,"Mytilaster solisianus",93.75,6,7,15.625,78.125
+"F","F T29",1,"Perna perna",0,1,2,1.5625,-1.5625
+"F","F T29",2,"Perna perna",1.5625,2,3,3.125,-1.5625
+"F","F T29",3,"Perna perna",3.125,3,4,0,3.125
+"F","F T29",4,"Perna perna",0,4,5,0,0
+"F","F T29",5,"Perna perna",0,5,6,0,0
+"F","F T29",6,"Perna perna",0,6,7,0,0
+"F","F T29",1,"Phragmatopoma lapidosa",0,1,2,0,0
+"F","F T29",2,"Phragmatopoma lapidosa",0,2,3,0,0
+"F","F T29",3,"Phragmatopoma lapidosa",0,3,4,0,0
+"F","F T29",4,"Phragmatopoma lapidosa",0,4,5,0,0
+"F","F T29",5,"Phragmatopoma lapidosa",0,5,6,98.4375,-98.4375
+"F","F T29",6,"Phragmatopoma lapidosa",98.4375,6,7,0,98.4375
+"F","F T29",1,"Polyplacophora",0,1,2,0,0
+"F","F T29",2,"Polyplacophora",0,2,3,0,0
+"F","F T29",3,"Polyplacophora",0,3,4,0,0
+"F","F T29",4,"Polyplacophora",0,4,5,0,0
+"F","F T29",5,"Polyplacophora",0,5,6,0,0
+"F","F T29",6,"Polyplacophora",0,6,7,0,0
+"F","F T29",1,"Porphyra sp",31.25,1,2,4.6875,26.5625
+"F","F T29",2,"Porphyra sp",4.6875,2,3,0,4.6875
+"F","F T29",3,"Porphyra sp",0,3,4,7.8125,-7.8125
+"F","F T29",4,"Porphyra sp",7.8125,4,5,0,7.8125
+"F","F T29",5,"Porphyra sp",0,5,6,0,0
+"F","F T29",6,"Porphyra sp",0,6,7,0,0
+"F","F T29",1,"Serpulidae",0,1,2,0,0
+"F","F T29",2,"Serpulidae",0,2,3,0,0
+"F","F T29",3,"Serpulidae",0,3,4,0,0
+"F","F T29",4,"Serpulidae",0,4,5,0,0
+"F","F T29",5,"Serpulidae",0,5,6,0,0
+"F","F T29",6,"Serpulidae",0,6,7,0,0
+"F","F T29",1,"Tedania ignis (Esponja laranja)",0,1,2,0,0
+"F","F T29",2,"Tedania ignis (Esponja laranja)",0,2,3,0,0
+"F","F T29",3,"Tedania ignis (Esponja laranja)",0,3,4,0,0
+"F","F T29",4,"Tedania ignis (Esponja laranja)",0,4,5,0,0
+"F","F T29",5,"Tedania ignis (Esponja laranja)",0,5,6,0,0
+"F","F T29",6,"Tedania ignis (Esponja laranja)",0,6,7,31.25,-31.25
+"F","F T29",1,"Tetraclita stalactifera",1.5625,1,2,0,1.5625
+"F","F T29",2,"Tetraclita stalactifera",0,2,3,0,0
+"F","F T29",3,"Tetraclita stalactifera",0,3,4,0,0
+"F","F T29",4,"Tetraclita stalactifera",0,4,5,20.3125,-20.3125
+"F","F T29",5,"Tetraclita stalactifera",20.3125,5,6,14.0625,6.25
+"F","F T29",6,"Tetraclita stalactifera",14.0625,6,7,4.6875,9.375
+"F","F T29",1,"Turf de Bostrychia",0,1,2,26.5625,-26.5625
+"F","F T29",2,"Turf de Bostrychia",26.5625,2,3,0,26.5625
+"F","F T29",3,"Turf de Bostrychia",0,3,4,0,0
+"F","F T29",4,"Turf de Bostrychia",0,4,5,3.125,-3.125
+"F","F T29",5,"Turf de Bostrychia",3.125,5,6,9.375,-6.25
+"F","F T29",6,"Turf de Bostrychia",9.375,6,7,4.6875,4.6875
+"F","F T29",1,"Ulva lactuca",3.125,1,2,9.375,-6.25
+"F","F T29",2,"Ulva lactuca",9.375,2,3,0,9.375
+"F","F T29",3,"Ulva lactuca",0,3,4,15.625,-15.625
+"F","F T29",4,"Ulva lactuca",15.625,4,5,20.3125,-4.6875
+"F","F T29",5,"Ulva lactuca",20.3125,5,6,10.9375,9.375
+"F","F T29",6,"Ulva lactuca",10.9375,6,7,12.5,-1.5625
+"F","F T29",1,"Vermetidae",0,1,2,0,0
+"F","F T29",2,"Vermetidae",0,2,3,0,0
+"F","F T29",3,"Vermetidae",0,3,4,0,0
+"F","F T29",4,"Vermetidae",0,4,5,0,0
+"F","F T29",5,"Vermetidae",0,5,6,0,0
+"F","F T29",6,"Vermetidae",0,6,7,0,0

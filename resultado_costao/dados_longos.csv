@@ -1,0 +1,2861 @@
+"taxon","amostra","subdivisoes","coluna_excel","grupo","transecto","quadrado","cobertura_pct"
+"Fissurella sp","Q_001",0,2,"A","A T1",1,0
+"Fissurella sp","Q_002",0,3,"A","A T1",2,0
+"Fissurella sp","Q_003",0,4,"A","A T1",3,0
+"Fissurella sp","Q_004",0,5,"A","A T1",4,0
+"Fissurella sp","Q_005",0,6,"A","A T1",5,0
+"Fissurella sp","Q_006",0,7,"A","A T2",1,0
+"Fissurella sp","Q_007",0,8,"A","A T2",2,0
+"Fissurella sp","Q_008",0,9,"A","A T2",3,0
+"Fissurella sp","Q_009",0,10,"A","A T2",4,0
+"Fissurella sp","Q_010",0,11,"A","A T2",5,0
+"Fissurella sp","Q_011",0,12,"A","A T3",1,0
+"Fissurella sp","Q_012",0,13,"A","A T3",2,0
+"Fissurella sp","Q_013",0,14,"A","A T3",3,0
+"Fissurella sp","Q_014",0.01,15,"A","A T3",4,0.015625
+"Fissurella sp","Q_015",0.2,16,"A","A T3",5,0.3125
+"Fissurella sp","Q_016",0,17,"B","B T4",1,0
+"Fissurella sp","Q_017",0,18,"B","B T4",2,0
+"Fissurella sp","Q_018",0,19,"B","B T4",3,0
+"Fissurella sp","Q_019",0,20,"B","B T4",4,0
+"Fissurella sp","Q_020",0,21,"B","B T5",1,0
+"Fissurella sp","Q_021",0,22,"B","B T5",2,0
+"Fissurella sp","Q_022",0,23,"B","B T5",3,0
+"Fissurella sp","Q_023",0,24,"B","B T5",4,0
+"Fissurella sp","Q_024",0,25,"B","B T6",1,0
+"Fissurella sp","Q_025",0,26,"B","B T6",2,0
+"Fissurella sp","Q_026",0,27,"B","B T6",3,0
+"Fissurella sp","Q_027",0,28,"B","B T6",4,0
+"Fissurella sp","Q_028",0,29,"B","B T7",1,0
+"Fissurella sp","Q_029",0,30,"B","B T7",2,0
+"Fissurella sp","Q_030",0,31,"B","B T7",3,0
+"Fissurella sp","Q_031",0,32,"B","B T7",4,0
+"Fissurella sp","Q_032",0,33,"B","B T8",1,0
+"Fissurella sp","Q_033",0,34,"B","B T8",2,0
+"Fissurella sp","Q_034",0,35,"B","B T8",3,0
+"Fissurella sp","Q_035",0,36,"B","B T8",4,0
+"Fissurella sp","Q_036",0,37,"B","B T9",1,0
+"Fissurella sp","Q_037",0,38,"B","B T9",2,0
+"Fissurella sp","Q_038",0,39,"B","B T9",3,0
+"Fissurella sp","Q_039",0.25,40,"B","B T9",4,0.390625
+"Fissurella sp","Q_040",0,41,"D","D T10",1,0
+"Fissurella sp","Q_041",0,42,"D","D T10",2,0
+"Fissurella sp","Q_042",0,43,"D","D T10",3,0
+"Fissurella sp","Q_043",0,44,"D","D T10",4,0
+"Fissurella sp","Q_044",0,45,"D","D T11",1,0
+"Fissurella sp","Q_045",0,46,"D","D T11",2,0
+"Fissurella sp","Q_046",0,47,"D","D T11",3,0
+"Fissurella sp","Q_047",0,48,"D","D T11",4,0
+"Fissurella sp","Q_048",0,49,"D","D T12",1,0
+"Fissurella sp","Q_049",0,50,"D","D T12",2,0
+"Fissurella sp","Q_050",0,51,"D","D T12",3,0
+"Fissurella sp","Q_051",0,52,"D","D T13",1,0
+"Fissurella sp","Q_052",0,53,"D","D T13",2,0
+"Fissurella sp","Q_053",0,54,"D","D T13",3,0
+"Fissurella sp","Q_054",0,55,"D","D T14",1,0
+"Fissurella sp","Q_055",0,56,"D","D T14",2,0
+"Fissurella sp","Q_056",0,57,"D","D T14",3,0
+"Fissurella sp","Q_057",0,58,"C","C T15",1,0
+"Fissurella sp","Q_058",0,59,"C","C T15",2,0
+"Fissurella sp","Q_059",0,60,"C","C T15",3,0
+"Fissurella sp","Q_060",0,61,"C","C T15",4,0
+"Fissurella sp","Q_061",0,62,"C","C T16",1,0
+"Fissurella sp","Q_062",0,63,"C","C T16",2,0
+"Fissurella sp","Q_063",0,64,"C","C T16",3,0
+"Fissurella sp","Q_064",0,65,"C","C T16",4,0
+"Fissurella sp","Q_065",0,66,"C","C T16",5,0
+"Fissurella sp","Q_066",0,67,"C","C T17",1,0
+"Fissurella sp","Q_067",0,68,"C","C T17",2,0
+"Fissurella sp","Q_068",0,69,"C","C T17",3,0
+"Fissurella sp","Q_069",2,70,"C","C T17",4,3.125
+"Fissurella sp","Q_070",0,71,"G","G T18",1,0
+"Fissurella sp","Q_071",0,72,"G","G T18",2,0
+"Fissurella sp","Q_072",0,73,"G","G T19",1,0
+"Fissurella sp","Q_073",0,74,"G","G T19",2,0
+"Fissurella sp","Q_074",0,75,"G","G T20",1,0
+"Fissurella sp","Q_075",0.5,76,"G","G T20",2,0.78125
+"Fissurella sp","Q_076",0,77,"G","G T20",3,0
+"Fissurella sp","Q_077",0,78,"G","G T21",1,0
+"Fissurella sp","Q_078",0,79,"G","G T21",2,0
+"Fissurella sp","Q_079",1,80,"G","G T21",3,1.5625
+"Fissurella sp","Q_080",1,81,"E","E T22",1,1.5625
+"Fissurella sp","Q_081",0,82,"E","E T22",2,0
+"Fissurella sp","Q_082",0,83,"E","E T22",3,0
+"Fissurella sp","Q_083",0,84,"E","E T22",4,0
+"Fissurella sp","Q_084",0,85,"E","E T23",1,0
+"Fissurella sp","Q_085",0,86,"E","E T23",2,0
+"Fissurella sp","Q_086",0.5,87,"E","E T23",3,0.78125
+"Fissurella sp","Q_087",0,88,"E","E T23",4,0
+"Fissurella sp","Q_088",0,89,"E","E T24",1,0
+"Fissurella sp","Q_089",0.2,90,"E","E T24",2,0.3125
+"Fissurella sp","Q_090",0,91,"E","E T24",3,0
+"Fissurella sp","Q_091",0,92,"E","E T25",1,0
+"Fissurella sp","Q_092",0,93,"E","E T25",2,0
+"Fissurella sp","Q_093",0,94,"E","E T25",3,0
+"Fissurella sp","Q_094",0,95,"E","E T26",1,0
+"Fissurella sp","Q_095",0,96,"E","E T26",2,0
+"Fissurella sp","Q_096",0,97,"E","E T26",3,0
+"Fissurella sp","Q_097",0,98,"E","E T27",1,0
+"Fissurella sp","Q_098",0,99,"E","E T27",2,0
+"Fissurella sp","Q_099",0,100,"E","E T27",3,0
+"Fissurella sp","Q_100",0,101,"E","E T27",4,0
+"Fissurella sp","Q_101",0,102,"F","F T28",1,0
+"Fissurella sp","Q_102",0,103,"F","F T28",2,0
+"Fissurella sp","Q_103",0,104,"F","F T28",3,0
+"Fissurella sp","Q_104",0,105,"F","F T29",1,0
+"Fissurella sp","Q_105",0,106,"F","F T29",2,0
+"Fissurella sp","Q_106",0,107,"F","F T29",3,0
+"Fissurella sp","Q_107",0,108,"F","F T29",4,0
+"Fissurella sp","Q_108",0,109,"F","F T29",5,0
+"Fissurella sp","Q_109",1,110,"F","F T29",6,1.5625
+"Fissurella sp","Q_110",0,111,"F","F T29",7,0
+"Ulva lactuca","Q_001",0,2,"A","A T1",1,0
+"Ulva lactuca","Q_002",0,3,"A","A T1",2,0
+"Ulva lactuca","Q_003",0,4,"A","A T1",3,0
+"Ulva lactuca","Q_004",0.1,5,"A","A T1",4,0.15625
+"Ulva lactuca","Q_005",13,6,"A","A T1",5,20.3125
+"Ulva lactuca","Q_006",0,7,"A","A T2",1,0
+"Ulva lactuca","Q_007",0.33,8,"A","A T2",2,0.515625
+"Ulva lactuca","Q_008",1,9,"A","A T2",3,1.5625
+"Ulva lactuca","Q_009",2,10,"A","A T2",4,3.125
+"Ulva lactuca","Q_010",12,11,"A","A T2",5,18.75
+"Ulva lactuca","Q_011",0,12,"A","A T3",1,0
+"Ulva lactuca","Q_012",1,13,"A","A T3",2,1.5625
+"Ulva lactuca","Q_013",1,14,"A","A T3",3,1.5625
+"Ulva lactuca","Q_014",4,15,"A","A T3",4,6.25
+"Ulva lactuca","Q_015",6,16,"A","A T3",5,9.375
+"Ulva lactuca","Q_016",0,17,"B","B T4",1,0
+"Ulva lactuca","Q_017",0,18,"B","B T4",2,0
+"Ulva lactuca","Q_018",1,19,"B","B T4",3,1.5625
+"Ulva lactuca","Q_019",1,20,"B","B T4",4,1.5625
+"Ulva lactuca","Q_020",0,21,"B","B T5",1,0
+"Ulva lactuca","Q_021",0,22,"B","B T5",2,0
+"Ulva lactuca","Q_022",0,23,"B","B T5",3,0
+"Ulva lactuca","Q_023",0.25,24,"B","B T5",4,0.390625
+"Ulva lactuca","Q_024",0,25,"B","B T6",1,0
+"Ulva lactuca","Q_025",0,26,"B","B T6",2,0
+"Ulva lactuca","Q_026",0,27,"B","B T6",3,0
+"Ulva lactuca","Q_027",0,28,"B","B T6",4,0
+"Ulva lactuca","Q_028",0,29,"B","B T7",1,0
+"Ulva lactuca","Q_029",0,30,"B","B T7",2,0
+"Ulva lactuca","Q_030",0,31,"B","B T7",3,0
+"Ulva lactuca","Q_031",0,32,"B","B T7",4,0
+"Ulva lactuca","Q_032",0,33,"B","B T8",1,0
+"Ulva lactuca","Q_033",0,34,"B","B T8",2,0
+"Ulva lactuca","Q_034",0,35,"B","B T8",3,0
+"Ulva lactuca","Q_035",0.5,36,"B","B T8",4,0.78125
+"Ulva lactuca","Q_036",0,37,"B","B T9",1,0
+"Ulva lactuca","Q_037",0,38,"B","B T9",2,0
+"Ulva lactuca","Q_038",0,39,"B","B T9",3,0
+"Ulva lactuca","Q_039",0,40,"B","B T9",4,0
+"Ulva lactuca","Q_040",0,41,"D","D T10",1,0
+"Ulva lactuca","Q_041",0,42,"D","D T10",2,0
+"Ulva lactuca","Q_042",0,43,"D","D T10",3,0
+"Ulva lactuca","Q_043",1,44,"D","D T10",4,1.5625
+"Ulva lactuca","Q_044",0,45,"D","D T11",1,0
+"Ulva lactuca","Q_045",0,46,"D","D T11",2,0
+"Ulva lactuca","Q_046",0,47,"D","D T11",3,0
+"Ulva lactuca","Q_047",0,48,"D","D T11",4,0
+"Ulva lactuca","Q_048",0,49,"D","D T12",1,0
+"Ulva lactuca","Q_049",0,50,"D","D T12",2,0
+"Ulva lactuca","Q_050",0,51,"D","D T12",3,0
+"Ulva lactuca","Q_051",0,52,"D","D T13",1,0
+"Ulva lactuca","Q_052",0,53,"D","D T13",2,0
+"Ulva lactuca","Q_053",0,54,"D","D T13",3,0
+"Ulva lactuca","Q_054",0,55,"D","D T14",1,0
+"Ulva lactuca","Q_055",0,56,"D","D T14",2,0
+"Ulva lactuca","Q_056",0,57,"D","D T14",3,0
+"Ulva lactuca","Q_057",1,58,"C","C T15",1,1.5625
+"Ulva lactuca","Q_058",0,59,"C","C T15",2,0
+"Ulva lactuca","Q_059",0,60,"C","C T15",3,0
+"Ulva lactuca","Q_060",0,61,"C","C T15",4,0
+"Ulva lactuca","Q_061",0,62,"C","C T16",1,0
+"Ulva lactuca","Q_062",0,63,"C","C T16",2,0
+"Ulva lactuca","Q_063",0,64,"C","C T16",3,0
+"Ulva lactuca","Q_064",0,65,"C","C T16",4,0
+"Ulva lactuca","Q_065",0,66,"C","C T16",5,0
+"Ulva lactuca","Q_066",0,67,"C","C T17",1,0
+"Ulva lactuca","Q_067",0,68,"C","C T17",2,0
+"Ulva lactuca","Q_068",0,69,"C","C T17",3,0
+"Ulva lactuca","Q_069",1,70,"C","C T17",4,1.5625
+"Ulva lactuca","Q_070",0,71,"G","G T18",1,0
+"Ulva lactuca","Q_071",0,72,"G","G T18",2,0
+"Ulva lactuca","Q_072",0,73,"G","G T19",1,0
+"Ulva lactuca","Q_073",1,74,"G","G T19",2,1.5625
+"Ulva lactuca","Q_074",0,75,"G","G T20",1,0
+"Ulva lactuca","Q_075",0,76,"G","G T20",2,0
+"Ulva lactuca","Q_076",0.5,77,"G","G T20",3,0.78125
+"Ulva lactuca","Q_077",1,78,"G","G T21",1,1.5625
+"Ulva lactuca","Q_078",8,79,"G","G T21",2,12.5
+"Ulva lactuca","Q_079",1,80,"G","G T21",3,1.5625
+"Ulva lactuca","Q_080",1,81,"E","E T22",1,1.5625
+"Ulva lactuca","Q_081",0,82,"E","E T22",2,0
+"Ulva lactuca","Q_082",0,83,"E","E T22",3,0
+"Ulva lactuca","Q_083",0.5,84,"E","E T22",4,0.78125
+"Ulva lactuca","Q_084",0.2,85,"E","E T23",1,0.3125
+"Ulva lactuca","Q_085",0,86,"E","E T23",2,0
+"Ulva lactuca","Q_086",2,87,"E","E T23",3,3.125
+"Ulva lactuca","Q_087",2,88,"E","E T23",4,3.125
+"Ulva lactuca","Q_088",0,89,"E","E T24",1,0
+"Ulva lactuca","Q_089",0,90,"E","E T24",2,0
+"Ulva lactuca","Q_090",0.5,91,"E","E T24",3,0.78125
+"Ulva lactuca","Q_091",0.2,92,"E","E T25",1,0.3125
+"Ulva lactuca","Q_092",0,93,"E","E T25",2,0
+"Ulva lactuca","Q_093",0,94,"E","E T25",3,0
+"Ulva lactuca","Q_094",1,95,"E","E T26",1,1.5625
+"Ulva lactuca","Q_095",1,96,"E","E T26",2,1.5625
+"Ulva lactuca","Q_096",0,97,"E","E T26",3,0
+"Ulva lactuca","Q_097",0,98,"E","E T27",1,0
+"Ulva lactuca","Q_098",0,99,"E","E T27",2,0
+"Ulva lactuca","Q_099",0,100,"E","E T27",3,0
+"Ulva lactuca","Q_100",0,101,"E","E T27",4,0
+"Ulva lactuca","Q_101",1,102,"F","F T28",1,1.5625
+"Ulva lactuca","Q_102",11,103,"F","F T28",2,17.1875
+"Ulva lactuca","Q_103",4,104,"F","F T28",3,6.25
+"Ulva lactuca","Q_104",2,105,"F","F T29",1,3.125
+"Ulva lactuca","Q_105",6,106,"F","F T29",2,9.375
+"Ulva lactuca","Q_106",0,107,"F","F T29",3,0
+"Ulva lactuca","Q_107",10,108,"F","F T29",4,15.625
+"Ulva lactuca","Q_108",13,109,"F","F T29",5,20.3125
+"Ulva lactuca","Q_109",7,110,"F","F T29",6,10.9375
+"Ulva lactuca","Q_110",8,111,"F","F T29",7,12.5
+"Chaetomorpha anteninna","Q_001",0,2,"A","A T1",1,0
+"Chaetomorpha anteninna","Q_002",0,3,"A","A T1",2,0
+"Chaetomorpha anteninna","Q_003",0,4,"A","A T1",3,0
+"Chaetomorpha anteninna","Q_004",0.2,5,"A","A T1",4,0.3125
+"Chaetomorpha anteninna","Q_005",13,6,"A","A T1",5,20.3125
+"Chaetomorpha anteninna","Q_006",0,7,"A","A T2",1,0
+"Chaetomorpha anteninna","Q_007",9,8,"A","A T2",2,14.0625
+"Chaetomorpha anteninna","Q_008",15,9,"A","A T2",3,23.4375
+"Chaetomorpha anteninna","Q_009",8,10,"A","A T2",4,12.5
+"Chaetomorpha anteninna","Q_010",4.5,11,"A","A T2",5,7.03125
+"Chaetomorpha anteninna","Q_011",0,12,"A","A T3",1,0
+"Chaetomorpha anteninna","Q_012",7,13,"A","A T3",2,10.9375
+"Chaetomorpha anteninna","Q_013",6,14,"A","A T3",3,9.375
+"Chaetomorpha anteninna","Q_014",0,15,"A","A T3",4,0
+"Chaetomorpha anteninna","Q_015",0,16,"A","A T3",5,0
+"Chaetomorpha anteninna","Q_016",0,17,"B","B T4",1,0
+"Chaetomorpha anteninna","Q_017",0,18,"B","B T4",2,0
+"Chaetomorpha anteninna","Q_018",0,19,"B","B T4",3,0
+"Chaetomorpha anteninna","Q_019",0,20,"B","B T4",4,0
+"Chaetomorpha anteninna","Q_020",0,21,"B","B T5",1,0
+"Chaetomorpha anteninna","Q_021",0,22,"B","B T5",2,0
+"Chaetomorpha anteninna","Q_022",0,23,"B","B T5",3,0
+"Chaetomorpha anteninna","Q_023",0,24,"B","B T5",4,0
+"Chaetomorpha anteninna","Q_024",0,25,"B","B T6",1,0
+"Chaetomorpha anteninna","Q_025",0,26,"B","B T6",2,0
+"Chaetomorpha anteninna","Q_026",6.4,27,"B","B T6",3,10
+"Chaetomorpha anteninna","Q_027",0,28,"B","B T6",4,0
+"Chaetomorpha anteninna","Q_028",0,29,"B","B T7",1,0
+"Chaetomorpha anteninna","Q_029",0,30,"B","B T7",2,0
+"Chaetomorpha anteninna","Q_030",0,31,"B","B T7",3,0
+"Chaetomorpha anteninna","Q_031",0,32,"B","B T7",4,0
+"Chaetomorpha anteninna","Q_032",0,33,"B","B T8",1,0
+"Chaetomorpha anteninna","Q_033",0,34,"B","B T8",2,0
+"Chaetomorpha anteninna","Q_034",0,35,"B","B T8",3,0
+"Chaetomorpha anteninna","Q_035",0,36,"B","B T8",4,0
+"Chaetomorpha anteninna","Q_036",0,37,"B","B T9",1,0
+"Chaetomorpha anteninna","Q_037",0,38,"B","B T9",2,0
+"Chaetomorpha anteninna","Q_038",0,39,"B","B T9",3,0
+"Chaetomorpha anteninna","Q_039",0,40,"B","B T9",4,0
+"Chaetomorpha anteninna","Q_040",0,41,"D","D T10",1,0
+"Chaetomorpha anteninna","Q_041",0,42,"D","D T10",2,0
+"Chaetomorpha anteninna","Q_042",0,43,"D","D T10",3,0
+"Chaetomorpha anteninna","Q_043",0,44,"D","D T10",4,0
+"Chaetomorpha anteninna","Q_044",0,45,"D","D T11",1,0
+"Chaetomorpha anteninna","Q_045",0,46,"D","D T11",2,0
+"Chaetomorpha anteninna","Q_046",0,47,"D","D T11",3,0
+"Chaetomorpha anteninna","Q_047",1,48,"D","D T11",4,1.5625
+"Chaetomorpha anteninna","Q_048",0,49,"D","D T12",1,0
+"Chaetomorpha anteninna","Q_049",0,50,"D","D T12",2,0
+"Chaetomorpha anteninna","Q_050",0,51,"D","D T12",3,0
+"Chaetomorpha anteninna","Q_051",0,52,"D","D T13",1,0
+"Chaetomorpha anteninna","Q_052",0,53,"D","D T13",2,0
+"Chaetomorpha anteninna","Q_053",0,54,"D","D T13",3,0
+"Chaetomorpha anteninna","Q_054",0,55,"D","D T14",1,0
+"Chaetomorpha anteninna","Q_055",0,56,"D","D T14",2,0
+"Chaetomorpha anteninna","Q_056",0,57,"D","D T14",3,0
+"Chaetomorpha anteninna","Q_057",0,58,"C","C T15",1,0
+"Chaetomorpha anteninna","Q_058",0,59,"C","C T15",2,0
+"Chaetomorpha anteninna","Q_059",0,60,"C","C T15",3,0
+"Chaetomorpha anteninna","Q_060",0,61,"C","C T15",4,0
+"Chaetomorpha anteninna","Q_061",0,62,"C","C T16",1,0
+"Chaetomorpha anteninna","Q_062",0,63,"C","C T16",2,0
+"Chaetomorpha anteninna","Q_063",0,64,"C","C T16",3,0
+"Chaetomorpha anteninna","Q_064",1,65,"C","C T16",4,1.5625
+"Chaetomorpha anteninna","Q_065",0,66,"C","C T16",5,0
+"Chaetomorpha anteninna","Q_066",0,67,"C","C T17",1,0
+"Chaetomorpha anteninna","Q_067",0,68,"C","C T17",2,0
+"Chaetomorpha anteninna","Q_068",0,69,"C","C T17",3,0
+"Chaetomorpha anteninna","Q_069",0,70,"C","C T17",4,0
+"Chaetomorpha anteninna","Q_070",0,71,"G","G T18",1,0
+"Chaetomorpha anteninna","Q_071",0,72,"G","G T18",2,0
+"Chaetomorpha anteninna","Q_072",0,73,"G","G T19",1,0
+"Chaetomorpha anteninna","Q_073",0,74,"G","G T19",2,0
+"Chaetomorpha anteninna","Q_074",0,75,"G","G T20",1,0
+"Chaetomorpha anteninna","Q_075",0,76,"G","G T20",2,0
+"Chaetomorpha anteninna","Q_076",3,77,"G","G T20",3,4.6875
+"Chaetomorpha anteninna","Q_077",0,78,"G","G T21",1,0
+"Chaetomorpha anteninna","Q_078",0,79,"G","G T21",2,0
+"Chaetomorpha anteninna","Q_079",0,80,"G","G T21",3,0
+"Chaetomorpha anteninna","Q_080",0,81,"E","E T22",1,0
+"Chaetomorpha anteninna","Q_081",0,82,"E","E T22",2,0
+"Chaetomorpha anteninna","Q_082",0,83,"E","E T22",3,0
+"Chaetomorpha anteninna","Q_083",0,84,"E","E T22",4,0
+"Chaetomorpha anteninna","Q_084",0,85,"E","E T23",1,0
+"Chaetomorpha anteninna","Q_085",0,86,"E","E T23",2,0
+"Chaetomorpha anteninna","Q_086",0,87,"E","E T23",3,0
+"Chaetomorpha anteninna","Q_087",0,88,"E","E T23",4,0
+"Chaetomorpha anteninna","Q_088",0,89,"E","E T24",1,0
+"Chaetomorpha anteninna","Q_089",0,90,"E","E T24",2,0
+"Chaetomorpha anteninna","Q_090",0,91,"E","E T24",3,0
+"Chaetomorpha anteninna","Q_091",0,92,"E","E T25",1,0
+"Chaetomorpha anteninna","Q_092",0,93,"E","E T25",2,0
+"Chaetomorpha anteninna","Q_093",0,94,"E","E T25",3,0
+"Chaetomorpha anteninna","Q_094",0,95,"E","E T26",1,0
+"Chaetomorpha anteninna","Q_095",0,96,"E","E T26",2,0
+"Chaetomorpha anteninna","Q_096",0,97,"E","E T26",3,0
+"Chaetomorpha anteninna","Q_097",0,98,"E","E T27",1,0
+"Chaetomorpha anteninna","Q_098",0.5,99,"E","E T27",2,0.78125
+"Chaetomorpha anteninna","Q_099",0,100,"E","E T27",3,0
+"Chaetomorpha anteninna","Q_100",0,101,"E","E T27",4,0
+"Chaetomorpha anteninna","Q_101",0,102,"F","F T28",1,0
+"Chaetomorpha anteninna","Q_102",10,103,"F","F T28",2,15.625
+"Chaetomorpha anteninna","Q_103",3,104,"F","F T28",3,4.6875
+"Chaetomorpha anteninna","Q_104",0,105,"F","F T29",1,0
+"Chaetomorpha anteninna","Q_105",3,106,"F","F T29",2,4.6875
+"Chaetomorpha anteninna","Q_106",0,107,"F","F T29",3,0
+"Chaetomorpha anteninna","Q_107",0,108,"F","F T29",4,0
+"Chaetomorpha anteninna","Q_108",8,109,"F","F T29",5,12.5
+"Chaetomorpha anteninna","Q_109",7,110,"F","F T29",6,10.9375
+"Chaetomorpha anteninna","Q_110",2,111,"F","F T29",7,3.125
+"Colpomenia sinuosa","Q_001",0,2,"A","A T1",1,0
+"Colpomenia sinuosa","Q_002",0,3,"A","A T1",2,0
+"Colpomenia sinuosa","Q_003",0,4,"A","A T1",3,0
+"Colpomenia sinuosa","Q_004",0,5,"A","A T1",4,0
+"Colpomenia sinuosa","Q_005",0,6,"A","A T1",5,0
+"Colpomenia sinuosa","Q_006",0,7,"A","A T2",1,0
+"Colpomenia sinuosa","Q_007",0,8,"A","A T2",2,0
+"Colpomenia sinuosa","Q_008",0,9,"A","A T2",3,0
+"Colpomenia sinuosa","Q_009",0,10,"A","A T2",4,0
+"Colpomenia sinuosa","Q_010",0,11,"A","A T2",5,0
+"Colpomenia sinuosa","Q_011",0,12,"A","A T3",1,0
+"Colpomenia sinuosa","Q_012",0,13,"A","A T3",2,0
+"Colpomenia sinuosa","Q_013",0,14,"A","A T3",3,0
+"Colpomenia sinuosa","Q_014",0,15,"A","A T3",4,0
+"Colpomenia sinuosa","Q_015",0,16,"A","A T3",5,0
+"Colpomenia sinuosa","Q_016",0,17,"B","B T4",1,0
+"Colpomenia sinuosa","Q_017",0,18,"B","B T4",2,0
+"Colpomenia sinuosa","Q_018",0,19,"B","B T4",3,0
+"Colpomenia sinuosa","Q_019",0,20,"B","B T4",4,0
+"Colpomenia sinuosa","Q_020",0,21,"B","B T5",1,0
+"Colpomenia sinuosa","Q_021",0,22,"B","B T5",2,0
+"Colpomenia sinuosa","Q_022",0,23,"B","B T5",3,0
+"Colpomenia sinuosa","Q_023",0,24,"B","B T5",4,0
+"Colpomenia sinuosa","Q_024",0,25,"B","B T6",1,0
+"Colpomenia sinuosa","Q_025",0,26,"B","B T6",2,0
+"Colpomenia sinuosa","Q_026",0,27,"B","B T6",3,0
+"Colpomenia sinuosa","Q_027",0,28,"B","B T6",4,0
+"Colpomenia sinuosa","Q_028",0,29,"B","B T7",1,0
+"Colpomenia sinuosa","Q_029",0,30,"B","B T7",2,0
+"Colpomenia sinuosa","Q_030",0,31,"B","B T7",3,0
+"Colpomenia sinuosa","Q_031",0,32,"B","B T7",4,0
+"Colpomenia sinuosa","Q_032",0,33,"B","B T8",1,0
+"Colpomenia sinuosa","Q_033",0,34,"B","B T8",2,0
+"Colpomenia sinuosa","Q_034",0,35,"B","B T8",3,0
+"Colpomenia sinuosa","Q_035",0,36,"B","B T8",4,0
+"Colpomenia sinuosa","Q_036",0,37,"B","B T9",1,0
+"Colpomenia sinuosa","Q_037",0,38,"B","B T9",2,0
+"Colpomenia sinuosa","Q_038",0,39,"B","B T9",3,0
+"Colpomenia sinuosa","Q_039",0,40,"B","B T9",4,0
+"Colpomenia sinuosa","Q_040",0,41,"D","D T10",1,0
+"Colpomenia sinuosa","Q_041",0,42,"D","D T10",2,0
+"Colpomenia sinuosa","Q_042",0,43,"D","D T10",3,0
+"Colpomenia sinuosa","Q_043",0,44,"D","D T10",4,0
+"Colpomenia sinuosa","Q_044",0,45,"D","D T11",1,0
+"Colpomenia sinuosa","Q_045",0,46,"D","D T11",2,0
+"Colpomenia sinuosa","Q_046",0,47,"D","D T11",3,0
+"Colpomenia sinuosa","Q_047",0,48,"D","D T11",4,0
+"Colpomenia sinuosa","Q_048",0,49,"D","D T12",1,0
+"Colpomenia sinuosa","Q_049",0,50,"D","D T12",2,0
+"Colpomenia sinuosa","Q_050",0,51,"D","D T12",3,0
+"Colpomenia sinuosa","Q_051",0,52,"D","D T13",1,0
+"Colpomenia sinuosa","Q_052",0,53,"D","D T13",2,0
+"Colpomenia sinuosa","Q_053",0,54,"D","D T13",3,0
+"Colpomenia sinuosa","Q_054",0,55,"D","D T14",1,0
+"Colpomenia sinuosa","Q_055",0,56,"D","D T14",2,0
+"Colpomenia sinuosa","Q_056",0,57,"D","D T14",3,0
+"Colpomenia sinuosa","Q_057",0,58,"C","C T15",1,0
+"Colpomenia sinuosa","Q_058",0,59,"C","C T15",2,0
+"Colpomenia sinuosa","Q_059",0,60,"C","C T15",3,0
+"Colpomenia sinuosa","Q_060",0,61,"C","C T15",4,0
+"Colpomenia sinuosa","Q_061",0,62,"C","C T16",1,0
+"Colpomenia sinuosa","Q_062",0,63,"C","C T16",2,0
+"Colpomenia sinuosa","Q_063",0,64,"C","C T16",3,0
+"Colpomenia sinuosa","Q_064",0,65,"C","C T16",4,0
+"Colpomenia sinuosa","Q_065",0,66,"C","C T16",5,0
+"Colpomenia sinuosa","Q_066",0,67,"C","C T17",1,0
+"Colpomenia sinuosa","Q_067",0,68,"C","C T17",2,0
+"Colpomenia sinuosa","Q_068",0,69,"C","C T17",3,0
+"Colpomenia sinuosa","Q_069",0,70,"C","C T17",4,0
+"Colpomenia sinuosa","Q_070",0,71,"G","G T18",1,0
+"Colpomenia sinuosa","Q_071",0,72,"G","G T18",2,0
+"Colpomenia sinuosa","Q_072",0,73,"G","G T19",1,0
+"Colpomenia sinuosa","Q_073",0,74,"G","G T19",2,0
+"Colpomenia sinuosa","Q_074",0,75,"G","G T20",1,0
+"Colpomenia sinuosa","Q_075",0,76,"G","G T20",2,0
+"Colpomenia sinuosa","Q_076",0,77,"G","G T20",3,0
+"Colpomenia sinuosa","Q_077",0,78,"G","G T21",1,0
+"Colpomenia sinuosa","Q_078",0,79,"G","G T21",2,0
+"Colpomenia sinuosa","Q_079",0,80,"G","G T21",3,0
+"Colpomenia sinuosa","Q_080",0,81,"E","E T22",1,0
+"Colpomenia sinuosa","Q_081",0,82,"E","E T22",2,0
+"Colpomenia sinuosa","Q_082",0,83,"E","E T22",3,0
+"Colpomenia sinuosa","Q_083",0,84,"E","E T22",4,0
+"Colpomenia sinuosa","Q_084",0,85,"E","E T23",1,0
+"Colpomenia sinuosa","Q_085",0,86,"E","E T23",2,0
+"Colpomenia sinuosa","Q_086",0,87,"E","E T23",3,0
+"Colpomenia sinuosa","Q_087",0,88,"E","E T23",4,0
+"Colpomenia sinuosa","Q_088",0,89,"E","E T24",1,0
+"Colpomenia sinuosa","Q_089",0,90,"E","E T24",2,0
+"Colpomenia sinuosa","Q_090",0,91,"E","E T24",3,0
+"Colpomenia sinuosa","Q_091",0,92,"E","E T25",1,0
+"Colpomenia sinuosa","Q_092",0,93,"E","E T25",2,0
+"Colpomenia sinuosa","Q_093",0,94,"E","E T25",3,0
+"Colpomenia sinuosa","Q_094",0,95,"E","E T26",1,0
+"Colpomenia sinuosa","Q_095",0,96,"E","E T26",2,0
+"Colpomenia sinuosa","Q_096",0,97,"E","E T26",3,0
+"Colpomenia sinuosa","Q_097",0,98,"E","E T27",1,0
+"Colpomenia sinuosa","Q_098",0,99,"E","E T27",2,0
+"Colpomenia sinuosa","Q_099",0,100,"E","E T27",3,0
+"Colpomenia sinuosa","Q_100",0,101,"E","E T27",4,0
+"Colpomenia sinuosa","Q_101",0,102,"F","F T28",1,0
+"Colpomenia sinuosa","Q_102",0,103,"F","F T28",2,0
+"Colpomenia sinuosa","Q_103",0,104,"F","F T28",3,0
+"Colpomenia sinuosa","Q_104",0,105,"F","F T29",1,0
+"Colpomenia sinuosa","Q_105",0,106,"F","F T29",2,0
+"Colpomenia sinuosa","Q_106",0,107,"F","F T29",3,0
+"Colpomenia sinuosa","Q_107",0,108,"F","F T29",4,0
+"Colpomenia sinuosa","Q_108",0,109,"F","F T29",5,0
+"Colpomenia sinuosa","Q_109",0,110,"F","F T29",6,0
+"Colpomenia sinuosa","Q_110",0,111,"F","F T29",7,0
+"Asteronema breviarticulatum","Q_001",0,2,"A","A T1",1,0
+"Asteronema breviarticulatum","Q_002",0,3,"A","A T1",2,0
+"Asteronema breviarticulatum","Q_003",0,4,"A","A T1",3,0
+"Asteronema breviarticulatum","Q_004",0,5,"A","A T1",4,0
+"Asteronema breviarticulatum","Q_005",8,6,"A","A T1",5,12.5
+"Asteronema breviarticulatum","Q_006",0,7,"A","A T2",1,0
+"Asteronema breviarticulatum","Q_007",0,8,"A","A T2",2,0
+"Asteronema breviarticulatum","Q_008",0,9,"A","A T2",3,0
+"Asteronema breviarticulatum","Q_009",0,10,"A","A T2",4,0
+"Asteronema breviarticulatum","Q_010",4.5,11,"A","A T2",5,7.03125
+"Asteronema breviarticulatum","Q_011",0,12,"A","A T3",1,0
+"Asteronema breviarticulatum","Q_012",0,13,"A","A T3",2,0
+"Asteronema breviarticulatum","Q_013",0,14,"A","A T3",3,0
+"Asteronema breviarticulatum","Q_014",0,15,"A","A T3",4,0
+"Asteronema breviarticulatum","Q_015",20,16,"A","A T3",5,31.25
+"Asteronema breviarticulatum","Q_016",0,17,"B","B T4",1,0
+"Asteronema breviarticulatum","Q_017",0,18,"B","B T4",2,0
+"Asteronema breviarticulatum","Q_018",0,19,"B","B T4",3,0
+"Asteronema breviarticulatum","Q_019",0,20,"B","B T4",4,0
+"Asteronema breviarticulatum","Q_020",0,21,"B","B T5",1,0
+"Asteronema breviarticulatum","Q_021",0,22,"B","B T5",2,0
+"Asteronema breviarticulatum","Q_022",0,23,"B","B T5",3,0
+"Asteronema breviarticulatum","Q_023",0,24,"B","B T5",4,0
+"Asteronema breviarticulatum","Q_024",0,25,"B","B T6",1,0
+"Asteronema breviarticulatum","Q_025",0,26,"B","B T6",2,0
+"Asteronema breviarticulatum","Q_026",0,27,"B","B T6",3,0
+"Asteronema breviarticulatum","Q_027",0,28,"B","B T6",4,0
+"Asteronema breviarticulatum","Q_028",0,29,"B","B T7",1,0
+"Asteronema breviarticulatum","Q_029",0,30,"B","B T7",2,0
+"Asteronema breviarticulatum","Q_030",0,31,"B","B T7",3,0
+"Asteronema breviarticulatum","Q_031",0,32,"B","B T7",4,0
+"Asteronema breviarticulatum","Q_032",0,33,"B","B T8",1,0
+"Asteronema breviarticulatum","Q_033",0,34,"B","B T8",2,0
+"Asteronema breviarticulatum","Q_034",0,35,"B","B T8",3,0
+"Asteronema breviarticulatum","Q_035",0,36,"B","B T8",4,0
+"Asteronema breviarticulatum","Q_036",0,37,"B","B T9",1,0
+"Asteronema breviarticulatum","Q_037",0,38,"B","B T9",2,0
+"Asteronema breviarticulatum","Q_038",0,39,"B","B T9",3,0
+"Asteronema breviarticulatum","Q_039",0,40,"B","B T9",4,0
+"Asteronema breviarticulatum","Q_040",0,41,"D","D T10",1,0
+"Asteronema breviarticulatum","Q_041",0,42,"D","D T10",2,0
+"Asteronema breviarticulatum","Q_042",0,43,"D","D T10",3,0
+"Asteronema breviarticulatum","Q_043",0,44,"D","D T10",4,0
+"Asteronema breviarticulatum","Q_044",0,45,"D","D T11",1,0
+"Asteronema breviarticulatum","Q_045",0,46,"D","D T11",2,0
+"Asteronema breviarticulatum","Q_046",0,47,"D","D T11",3,0
+"Asteronema breviarticulatum","Q_047",0,48,"D","D T11",4,0
+"Asteronema breviarticulatum","Q_048",0,49,"D","D T12",1,0
+"Asteronema breviarticulatum","Q_049",0,50,"D","D T12",2,0
+"Asteronema breviarticulatum","Q_050",0,51,"D","D T12",3,0
+"Asteronema breviarticulatum","Q_051",0,52,"D","D T13",1,0
+"Asteronema breviarticulatum","Q_052",0,53,"D","D T13",2,0
+"Asteronema breviarticulatum","Q_053",0,54,"D","D T13",3,0
+"Asteronema breviarticulatum","Q_054",0,55,"D","D T14",1,0
+"Asteronema breviarticulatum","Q_055",0,56,"D","D T14",2,0
+"Asteronema breviarticulatum","Q_056",0,57,"D","D T14",3,0
+"Asteronema breviarticulatum","Q_057",0,58,"C","C T15",1,0
+"Asteronema breviarticulatum","Q_058",2,59,"C","C T15",2,3.125
+"Asteronema breviarticulatum","Q_059",3,60,"C","C T15",3,4.6875
+"Asteronema breviarticulatum","Q_060",0,61,"C","C T15",4,0
+"Asteronema breviarticulatum","Q_061",0,62,"C","C T16",1,0
+"Asteronema breviarticulatum","Q_062",1,63,"C","C T16",2,1.5625
+"Asteronema breviarticulatum","Q_063",1,64,"C","C T16",3,1.5625
+"Asteronema breviarticulatum","Q_064",0,65,"C","C T16",4,0
+"Asteronema breviarticulatum","Q_065",0,66,"C","C T16",5,0
+"Asteronema breviarticulatum","Q_066",3,67,"C","C T17",1,4.6875
+"Asteronema breviarticulatum","Q_067",3,68,"C","C T17",2,4.6875
+"Asteronema breviarticulatum","Q_068",0,69,"C","C T17",3,0
+"Asteronema breviarticulatum","Q_069",0,70,"C","C T17",4,0
+"Asteronema breviarticulatum","Q_070",0,71,"G","G T18",1,0
+"Asteronema breviarticulatum","Q_071",16,72,"G","G T18",2,25
+"Asteronema breviarticulatum","Q_072",1,73,"G","G T19",1,1.5625
+"Asteronema breviarticulatum","Q_073",28,74,"G","G T19",2,43.75
+"Asteronema breviarticulatum","Q_074",5,75,"G","G T20",1,7.8125
+"Asteronema breviarticulatum","Q_075",24,76,"G","G T20",2,37.5
+"Asteronema breviarticulatum","Q_076",57,77,"G","G T20",3,89.0625
+"Asteronema breviarticulatum","Q_077",0,78,"G","G T21",1,0
+"Asteronema breviarticulatum","Q_078",14,79,"G","G T21",2,21.875
+"Asteronema breviarticulatum","Q_079",32,80,"G","G T21",3,50
+"Asteronema breviarticulatum","Q_080",0,81,"E","E T22",1,0
+"Asteronema breviarticulatum","Q_081",0,82,"E","E T22",2,0
+"Asteronema breviarticulatum","Q_082",0,83,"E","E T22",3,0
+"Asteronema breviarticulatum","Q_083",0,84,"E","E T22",4,0
+"Asteronema breviarticulatum","Q_084",0,85,"E","E T23",1,0
+"Asteronema breviarticulatum","Q_085",0,86,"E","E T23",2,0
+"Asteronema breviarticulatum","Q_086",0,87,"E","E T23",3,0
+"Asteronema breviarticulatum","Q_087",0,88,"E","E T23",4,0
+"Asteronema breviarticulatum","Q_088",0,89,"E","E T24",1,0
+"Asteronema breviarticulatum","Q_089",0,90,"E","E T24",2,0
+"Asteronema breviarticulatum","Q_090",0,91,"E","E T24",3,0
+"Asteronema breviarticulatum","Q_091",0,92,"E","E T25",1,0
+"Asteronema breviarticulatum","Q_092",0,93,"E","E T25",2,0
+"Asteronema breviarticulatum","Q_093",0,94,"E","E T25",3,0
+"Asteronema breviarticulatum","Q_094",0,95,"E","E T26",1,0
+"Asteronema breviarticulatum","Q_095",0,96,"E","E T26",2,0
+"Asteronema breviarticulatum","Q_096",0,97,"E","E T26",3,0
+"Asteronema breviarticulatum","Q_097",0,98,"E","E T27",1,0
+"Asteronema breviarticulatum","Q_098",0,99,"E","E T27",2,0
+"Asteronema breviarticulatum","Q_099",0,100,"E","E T27",3,0
+"Asteronema breviarticulatum","Q_100",0,101,"E","E T27",4,0
+"Asteronema breviarticulatum","Q_101",0,102,"F","F T28",1,0
+"Asteronema breviarticulatum","Q_102",0,103,"F","F T28",2,0
+"Asteronema breviarticulatum","Q_103",0,104,"F","F T28",3,0
+"Asteronema breviarticulatum","Q_104",7,105,"F","F T29",1,10.9375
+"Asteronema breviarticulatum","Q_105",0,106,"F","F T29",2,0
+"Asteronema breviarticulatum","Q_106",23,107,"F","F T29",3,35.9375
+"Asteronema breviarticulatum","Q_107",0,108,"F","F T29",4,0
+"Asteronema breviarticulatum","Q_108",2,109,"F","F T29",5,3.125
+"Asteronema breviarticulatum","Q_109",2,110,"F","F T29",6,3.125
+"Asteronema breviarticulatum","Q_110",2,111,"F","F T29",7,3.125
+"Jania adhaerens","Q_001",0,2,"A","A T1",1,0
+"Jania adhaerens","Q_002",0,3,"A","A T1",2,0
+"Jania adhaerens","Q_003",0,4,"A","A T1",3,0
+"Jania adhaerens","Q_004",0,5,"A","A T1",4,0
+"Jania adhaerens","Q_005",0,6,"A","A T1",5,0
+"Jania adhaerens","Q_006",0,7,"A","A T2",1,0
+"Jania adhaerens","Q_007",0,8,"A","A T2",2,0
+"Jania adhaerens","Q_008",0.1,9,"A","A T2",3,0.15625
+"Jania adhaerens","Q_009",0,10,"A","A T2",4,0
+"Jania adhaerens","Q_010",1,11,"A","A T2",5,1.5625
+"Jania adhaerens","Q_011",0,12,"A","A T3",1,0
+"Jania adhaerens","Q_012",0,13,"A","A T3",2,0
+"Jania adhaerens","Q_013",0,14,"A","A T3",3,0
+"Jania adhaerens","Q_014",1,15,"A","A T3",4,1.5625
+"Jania adhaerens","Q_015",5,16,"A","A T3",5,7.8125
+"Jania adhaerens","Q_016",0,17,"B","B T4",1,0
+"Jania adhaerens","Q_017",0,18,"B","B T4",2,0
+"Jania adhaerens","Q_018",0,19,"B","B T4",3,0
+"Jania adhaerens","Q_019",0,20,"B","B T4",4,0
+"Jania adhaerens","Q_020",0,21,"B","B T5",1,0
+"Jania adhaerens","Q_021",0,22,"B","B T5",2,0
+"Jania adhaerens","Q_022",0,23,"B","B T5",3,0
+"Jania adhaerens","Q_023",0,24,"B","B T5",4,0
+"Jania adhaerens","Q_024",0,25,"B","B T6",1,0
+"Jania adhaerens","Q_025",0,26,"B","B T6",2,0
+"Jania adhaerens","Q_026",0,27,"B","B T6",3,0
+"Jania adhaerens","Q_027",0,28,"B","B T6",4,0
+"Jania adhaerens","Q_028",0,29,"B","B T7",1,0
+"Jania adhaerens","Q_029",0,30,"B","B T7",2,0
+"Jania adhaerens","Q_030",0,31,"B","B T7",3,0
+"Jania adhaerens","Q_031",0,32,"B","B T7",4,0
+"Jania adhaerens","Q_032",0,33,"B","B T8",1,0
+"Jania adhaerens","Q_033",0,34,"B","B T8",2,0
+"Jania adhaerens","Q_034",0,35,"B","B T8",3,0
+"Jania adhaerens","Q_035",0,36,"B","B T8",4,0
+"Jania adhaerens","Q_036",0,37,"B","B T9",1,0
+"Jania adhaerens","Q_037",0,38,"B","B T9",2,0
+"Jania adhaerens","Q_038",0,39,"B","B T9",3,0
+"Jania adhaerens","Q_039",0,40,"B","B T9",4,0
+"Jania adhaerens","Q_040",0,41,"D","D T10",1,0
+"Jania adhaerens","Q_041",0,42,"D","D T10",2,0
+"Jania adhaerens","Q_042",0,43,"D","D T10",3,0
+"Jania adhaerens","Q_043",0,44,"D","D T10",4,0
+"Jania adhaerens","Q_044",0,45,"D","D T11",1,0
+"Jania adhaerens","Q_045",0,46,"D","D T11",2,0
+"Jania adhaerens","Q_046",0,47,"D","D T11",3,0
+"Jania adhaerens","Q_047",0,48,"D","D T11",4,0
+"Jania adhaerens","Q_048",0,49,"D","D T12",1,0
+"Jania adhaerens","Q_049",0,50,"D","D T12",2,0
+"Jania adhaerens","Q_050",0,51,"D","D T12",3,0
+"Jania adhaerens","Q_051",0,52,"D","D T13",1,0
+"Jania adhaerens","Q_052",0,53,"D","D T13",2,0
+"Jania adhaerens","Q_053",0,54,"D","D T13",3,0
+"Jania adhaerens","Q_054",0,55,"D","D T14",1,0
+"Jania adhaerens","Q_055",0,56,"D","D T14",2,0
+"Jania adhaerens","Q_056",0,57,"D","D T14",3,0
+"Jania adhaerens","Q_057",0,58,"C","C T15",1,0
+"Jania adhaerens","Q_058",0,59,"C","C T15",2,0
+"Jania adhaerens","Q_059",0,60,"C","C T15",3,0
+"Jania adhaerens","Q_060",0,61,"C","C T15",4,0
+"Jania adhaerens","Q_061",0,62,"C","C T16",1,0
+"Jania adhaerens","Q_062",0,63,"C","C T16",2,0
+"Jania adhaerens","Q_063",0,64,"C","C T16",3,0
+"Jania adhaerens","Q_064",0,65,"C","C T16",4,0
+"Jania adhaerens","Q_065",0,66,"C","C T16",5,0
+"Jania adhaerens","Q_066",0,67,"C","C T17",1,0
+"Jania adhaerens","Q_067",0,68,"C","C T17",2,0
+"Jania adhaerens","Q_068",0,69,"C","C T17",3,0
+"Jania adhaerens","Q_069",7,70,"C","C T17",4,10.9375
+"Jania adhaerens","Q_070",0,71,"G","G T18",1,0
+"Jania adhaerens","Q_071",1,72,"G","G T18",2,1.5625
+"Jania adhaerens","Q_072",0,73,"G","G T19",1,0
+"Jania adhaerens","Q_073",0,74,"G","G T19",2,0
+"Jania adhaerens","Q_074",0,75,"G","G T20",1,0
+"Jania adhaerens","Q_075",0,76,"G","G T20",2,0
+"Jania adhaerens","Q_076",0,77,"G","G T20",3,0
+"Jania adhaerens","Q_077",0.5,78,"G","G T21",1,0.78125
+"Jania adhaerens","Q_078",0,79,"G","G T21",2,0
+"Jania adhaerens","Q_079",0,80,"G","G T21",3,0
+"Jania adhaerens","Q_080",0,81,"E","E T22",1,0
+"Jania adhaerens","Q_081",0,82,"E","E T22",2,0
+"Jania adhaerens","Q_082",0,83,"E","E T22",3,0
+"Jania adhaerens","Q_083",0,84,"E","E T22",4,0
+"Jania adhaerens","Q_084",0,85,"E","E T23",1,0
+"Jania adhaerens","Q_085",0,86,"E","E T23",2,0
+"Jania adhaerens","Q_086",0,87,"E","E T23",3,0
+"Jania adhaerens","Q_087",0,88,"E","E T23",4,0
+"Jania adhaerens","Q_088",0,89,"E","E T24",1,0
+"Jania adhaerens","Q_089",0,90,"E","E T24",2,0
+"Jania adhaerens","Q_090",0,91,"E","E T24",3,0
+"Jania adhaerens","Q_091",0,92,"E","E T25",1,0
+"Jania adhaerens","Q_092",0,93,"E","E T25",2,0
+"Jania adhaerens","Q_093",0,94,"E","E T25",3,0
+"Jania adhaerens","Q_094",0,95,"E","E T26",1,0
+"Jania adhaerens","Q_095",0,96,"E","E T26",2,0
+"Jania adhaerens","Q_096",0,97,"E","E T26",3,0
+"Jania adhaerens","Q_097",0,98,"E","E T27",1,0
+"Jania adhaerens","Q_098",0,99,"E","E T27",2,0
+"Jania adhaerens","Q_099",0,100,"E","E T27",3,0
+"Jania adhaerens","Q_100",0,101,"E","E T27",4,0
+"Jania adhaerens","Q_101",0,102,"F","F T28",1,0
+"Jania adhaerens","Q_102",0,103,"F","F T28",2,0
+"Jania adhaerens","Q_103",0,104,"F","F T28",3,0
+"Jania adhaerens","Q_104",0,105,"F","F T29",1,0
+"Jania adhaerens","Q_105",0,106,"F","F T29",2,0
+"Jania adhaerens","Q_106",0,107,"F","F T29",3,0
+"Jania adhaerens","Q_107",0,108,"F","F T29",4,0
+"Jania adhaerens","Q_108",0,109,"F","F T29",5,0
+"Jania adhaerens","Q_109",0,110,"F","F T29",6,0
+"Jania adhaerens","Q_110",8,111,"F","F T29",7,12.5
+"CCA (Algas calcárias incrustantes)","Q_001",0,2,"A","A T1",1,0
+"CCA (Algas calcárias incrustantes)","Q_002",0,3,"A","A T1",2,0
+"CCA (Algas calcárias incrustantes)","Q_003",0,4,"A","A T1",3,0
+"CCA (Algas calcárias incrustantes)","Q_004",0,5,"A","A T1",4,0
+"CCA (Algas calcárias incrustantes)","Q_005",0,6,"A","A T1",5,0
+"CCA (Algas calcárias incrustantes)","Q_006",0,7,"A","A T2",1,0
+"CCA (Algas calcárias incrustantes)","Q_007",0,8,"A","A T2",2,0
+"CCA (Algas calcárias incrustantes)","Q_008",0,9,"A","A T2",3,0
+"CCA (Algas calcárias incrustantes)","Q_009",0,10,"A","A T2",4,0
+"CCA (Algas calcárias incrustantes)","Q_010",0,11,"A","A T2",5,0
+"CCA (Algas calcárias incrustantes)","Q_011",0,12,"A","A T3",1,0
+"CCA (Algas calcárias incrustantes)","Q_012",1,13,"A","A T3",2,1.5625
+"CCA (Algas calcárias incrustantes)","Q_013",0,14,"A","A T3",3,0
+"CCA (Algas calcárias incrustantes)","Q_014",0,15,"A","A T3",4,0
+"CCA (Algas calcárias incrustantes)","Q_015",0,16,"A","A T3",5,0
+"CCA (Algas calcárias incrustantes)","Q_016",0,17,"B","B T4",1,0
+"CCA (Algas calcárias incrustantes)","Q_017",0,18,"B","B T4",2,0
+"CCA (Algas calcárias incrustantes)","Q_018",0,19,"B","B T4",3,0
+"CCA (Algas calcárias incrustantes)","Q_019",0,20,"B","B T4",4,0
+"CCA (Algas calcárias incrustantes)","Q_020",0,21,"B","B T5",1,0
+"CCA (Algas calcárias incrustantes)","Q_021",0,22,"B","B T5",2,0
+"CCA (Algas calcárias incrustantes)","Q_022",0,23,"B","B T5",3,0
+"CCA (Algas calcárias incrustantes)","Q_023",0,24,"B","B T5",4,0
+"CCA (Algas calcárias incrustantes)","Q_024",0,25,"B","B T6",1,0
+"CCA (Algas calcárias incrustantes)","Q_025",0,26,"B","B T6",2,0
+"CCA (Algas calcárias incrustantes)","Q_026",0,27,"B","B T6",3,0
+"CCA (Algas calcárias incrustantes)","Q_027",0,28,"B","B T6",4,0
+"CCA (Algas calcárias incrustantes)","Q_028",0,29,"B","B T7",1,0
+"CCA (Algas calcárias incrustantes)","Q_029",0,30,"B","B T7",2,0
+"CCA (Algas calcárias incrustantes)","Q_030",0,31,"B","B T7",3,0
+"CCA (Algas calcárias incrustantes)","Q_031",0,32,"B","B T7",4,0
+"CCA (Algas calcárias incrustantes)","Q_032",0,33,"B","B T8",1,0
+"CCA (Algas calcárias incrustantes)","Q_033",0,34,"B","B T8",2,0
+"CCA (Algas calcárias incrustantes)","Q_034",0,35,"B","B T8",3,0
+"CCA (Algas calcárias incrustantes)","Q_035",0,36,"B","B T8",4,0
+"CCA (Algas calcárias incrustantes)","Q_036",0,37,"B","B T9",1,0
+"CCA (Algas calcárias incrustantes)","Q_037",0,38,"B","B T9",2,0
+"CCA (Algas calcárias incrustantes)","Q_038",0,39,"B","B T9",3,0
+"CCA (Algas calcárias incrustantes)","Q_039",0,40,"B","B T9",4,0
+"CCA (Algas calcárias incrustantes)","Q_040",0,41,"D","D T10",1,0
+"CCA (Algas calcárias incrustantes)","Q_041",0,42,"D","D T10",2,0
+"CCA (Algas calcárias incrustantes)","Q_042",0,43,"D","D T10",3,0
+"CCA (Algas calcárias incrustantes)","Q_043",5,44,"D","D T10",4,7.8125
+"CCA (Algas calcárias incrustantes)","Q_044",0,45,"D","D T11",1,0
+"CCA (Algas calcárias incrustantes)","Q_045",0,46,"D","D T11",2,0
+"CCA (Algas calcárias incrustantes)","Q_046",0,47,"D","D T11",3,0
+"CCA (Algas calcárias incrustantes)","Q_047",3,48,"D","D T11",4,4.6875
+"CCA (Algas calcárias incrustantes)","Q_048",0,49,"D","D T12",1,0
+"CCA (Algas calcárias incrustantes)","Q_049",0,50,"D","D T12",2,0
+"CCA (Algas calcárias incrustantes)","Q_050",0,51,"D","D T12",3,0
+"CCA (Algas calcárias incrustantes)","Q_051",0,52,"D","D T13",1,0
+"CCA (Algas calcárias incrustantes)","Q_052",0,53,"D","D T13",2,0
+"CCA (Algas calcárias incrustantes)","Q_053",0,54,"D","D T13",3,0
+"CCA (Algas calcárias incrustantes)","Q_054",0,55,"D","D T14",1,0
+"CCA (Algas calcárias incrustantes)","Q_055",0,56,"D","D T14",2,0
+"CCA (Algas calcárias incrustantes)","Q_056",0,57,"D","D T14",3,0
+"CCA (Algas calcárias incrustantes)","Q_057",0,58,"C","C T15",1,0
+"CCA (Algas calcárias incrustantes)","Q_058",0,59,"C","C T15",2,0
+"CCA (Algas calcárias incrustantes)","Q_059",0,60,"C","C T15",3,0
+"CCA (Algas calcárias incrustantes)","Q_060",0,61,"C","C T15",4,0
+"CCA (Algas calcárias incrustantes)","Q_061",0,62,"C","C T16",1,0
+"CCA (Algas calcárias incrustantes)","Q_062",0,63,"C","C T16",2,0
+"CCA (Algas calcárias incrustantes)","Q_063",0,64,"C","C T16",3,0
+"CCA (Algas calcárias incrustantes)","Q_064",0,65,"C","C T16",4,0
+"CCA (Algas calcárias incrustantes)","Q_065",0,66,"C","C T16",5,0
+"CCA (Algas calcárias incrustantes)","Q_066",0,67,"C","C T17",1,0
+"CCA (Algas calcárias incrustantes)","Q_067",0,68,"C","C T17",2,0
+"CCA (Algas calcárias incrustantes)","Q_068",0,69,"C","C T17",3,0
+"CCA (Algas calcárias incrustantes)","Q_069",0,70,"C","C T17",4,0
+"CCA (Algas calcárias incrustantes)","Q_070",0,71,"G","G T18",1,0
+"CCA (Algas calcárias incrustantes)","Q_071",0,72,"G","G T18",2,0
+"CCA (Algas calcárias incrustantes)","Q_072",0,73,"G","G T19",1,0
+"CCA (Algas calcárias incrustantes)","Q_073",0,74,"G","G T19",2,0
+"CCA (Algas calcárias incrustantes)","Q_074",0,75,"G","G T20",1,0
+"CCA (Algas calcárias incrustantes)","Q_075",0,76,"G","G T20",2,0
+"CCA (Algas calcárias incrustantes)","Q_076",0,77,"G","G T20",3,0
+"CCA (Algas calcárias incrustantes)","Q_077",0,78,"G","G T21",1,0
+"CCA (Algas calcárias incrustantes)","Q_078",0,79,"G","G T21",2,0
+"CCA (Algas calcárias incrustantes)","Q_079",0,80,"G","G T21",3,0
+"CCA (Algas calcárias incrustantes)","Q_080",0,81,"E","E T22",1,0
+"CCA (Algas calcárias incrustantes)","Q_081",0,82,"E","E T22",2,0
+"CCA (Algas calcárias incrustantes)","Q_082",0,83,"E","E T22",3,0
+"CCA (Algas calcárias incrustantes)","Q_083",0,84,"E","E T22",4,0
+"CCA (Algas calcárias incrustantes)","Q_084",0,85,"E","E T23",1,0
+"CCA (Algas calcárias incrustantes)","Q_085",0,86,"E","E T23",2,0
+"CCA (Algas calcárias incrustantes)","Q_086",0,87,"E","E T23",3,0
+"CCA (Algas calcárias incrustantes)","Q_087",0,88,"E","E T23",4,0
+"CCA (Algas calcárias incrustantes)","Q_088",0,89,"E","E T24",1,0
+"CCA (Algas calcárias incrustantes)","Q_089",0,90,"E","E T24",2,0
+"CCA (Algas calcárias incrustantes)","Q_090",0,91,"E","E T24",3,0
+"CCA (Algas calcárias incrustantes)","Q_091",0,92,"E","E T25",1,0
+"CCA (Algas calcárias incrustantes)","Q_092",0,93,"E","E T25",2,0
+"CCA (Algas calcárias incrustantes)","Q_093",0,94,"E","E T25",3,0
+"CCA (Algas calcárias incrustantes)","Q_094",0,95,"E","E T26",1,0
+"CCA (Algas calcárias incrustantes)","Q_095",0,96,"E","E T26",2,0
+"CCA (Algas calcárias incrustantes)","Q_096",0,97,"E","E T26",3,0
+"CCA (Algas calcárias incrustantes)","Q_097",0,98,"E","E T27",1,0
+"CCA (Algas calcárias incrustantes)","Q_098",0,99,"E","E T27",2,0
+"CCA (Algas calcárias incrustantes)","Q_099",0,100,"E","E T27",3,0
+"CCA (Algas calcárias incrustantes)","Q_100",0,101,"E","E T27",4,0
+"CCA (Algas calcárias incrustantes)","Q_101",0,102,"F","F T28",1,0
+"CCA (Algas calcárias incrustantes)","Q_102",0,103,"F","F T28",2,0
+"CCA (Algas calcárias incrustantes)","Q_103",0,104,"F","F T28",3,0
+"CCA (Algas calcárias incrustantes)","Q_104",0,105,"F","F T29",1,0
+"CCA (Algas calcárias incrustantes)","Q_105",0,106,"F","F T29",2,0
+"CCA (Algas calcárias incrustantes)","Q_106",0,107,"F","F T29",3,0
+"CCA (Algas calcárias incrustantes)","Q_107",0,108,"F","F T29",4,0
+"CCA (Algas calcárias incrustantes)","Q_108",0,109,"F","F T29",5,0
+"CCA (Algas calcárias incrustantes)","Q_109",9,110,"F","F T29",6,14.0625
+"CCA (Algas calcárias incrustantes)","Q_110",0,111,"F","F T29",7,0
+"Hypnea musciformis","Q_001",0,2,"A","A T1",1,0
+"Hypnea musciformis","Q_002",0,3,"A","A T1",2,0
+"Hypnea musciformis","Q_003",0,4,"A","A T1",3,0
+"Hypnea musciformis","Q_004",0,5,"A","A T1",4,0
+"Hypnea musciformis","Q_005",0,6,"A","A T1",5,0
+"Hypnea musciformis","Q_006",0,7,"A","A T2",1,0
+"Hypnea musciformis","Q_007",0,8,"A","A T2",2,0
+"Hypnea musciformis","Q_008",0,9,"A","A T2",3,0
+"Hypnea musciformis","Q_009",0,10,"A","A T2",4,0
+"Hypnea musciformis","Q_010",0,11,"A","A T2",5,0
+"Hypnea musciformis","Q_011",0,12,"A","A T3",1,0
+"Hypnea musciformis","Q_012",0,13,"A","A T3",2,0
+"Hypnea musciformis","Q_013",0,14,"A","A T3",3,0
+"Hypnea musciformis","Q_014",0,15,"A","A T3",4,0
+"Hypnea musciformis","Q_015",0,16,"A","A T3",5,0
+"Hypnea musciformis","Q_016",0,17,"B","B T4",1,0
+"Hypnea musciformis","Q_017",0,18,"B","B T4",2,0
+"Hypnea musciformis","Q_018",0,19,"B","B T4",3,0
+"Hypnea musciformis","Q_019",0,20,"B","B T4",4,0
+"Hypnea musciformis","Q_020",0,21,"B","B T5",1,0
+"Hypnea musciformis","Q_021",0,22,"B","B T5",2,0
+"Hypnea musciformis","Q_022",0,23,"B","B T5",3,0
+"Hypnea musciformis","Q_023",0,24,"B","B T5",4,0
+"Hypnea musciformis","Q_024",0,25,"B","B T6",1,0
+"Hypnea musciformis","Q_025",0,26,"B","B T6",2,0
+"Hypnea musciformis","Q_026",0,27,"B","B T6",3,0
+"Hypnea musciformis","Q_027",0,28,"B","B T6",4,0
+"Hypnea musciformis","Q_028",0,29,"B","B T7",1,0
+"Hypnea musciformis","Q_029",0,30,"B","B T7",2,0
+"Hypnea musciformis","Q_030",0,31,"B","B T7",3,0
+"Hypnea musciformis","Q_031",0,32,"B","B T7",4,0
+"Hypnea musciformis","Q_032",0,33,"B","B T8",1,0
+"Hypnea musciformis","Q_033",0,34,"B","B T8",2,0
+"Hypnea musciformis","Q_034",0,35,"B","B T8",3,0
+"Hypnea musciformis","Q_035",0,36,"B","B T8",4,0
+"Hypnea musciformis","Q_036",0,37,"B","B T9",1,0
+"Hypnea musciformis","Q_037",0,38,"B","B T9",2,0
+"Hypnea musciformis","Q_038",0,39,"B","B T9",3,0
+"Hypnea musciformis","Q_039",0,40,"B","B T9",4,0
+"Hypnea musciformis","Q_040",0,41,"D","D T10",1,0
+"Hypnea musciformis","Q_041",0,42,"D","D T10",2,0
+"Hypnea musciformis","Q_042",0,43,"D","D T10",3,0
+"Hypnea musciformis","Q_043",0,44,"D","D T10",4,0
+"Hypnea musciformis","Q_044",0,45,"D","D T11",1,0
+"Hypnea musciformis","Q_045",0,46,"D","D T11",2,0
+"Hypnea musciformis","Q_046",0,47,"D","D T11",3,0
+"Hypnea musciformis","Q_047",0,48,"D","D T11",4,0
+"Hypnea musciformis","Q_048",0,49,"D","D T12",1,0
+"Hypnea musciformis","Q_049",0,50,"D","D T12",2,0
+"Hypnea musciformis","Q_050",0,51,"D","D T12",3,0
+"Hypnea musciformis","Q_051",0,52,"D","D T13",1,0
+"Hypnea musciformis","Q_052",0,53,"D","D T13",2,0
+"Hypnea musciformis","Q_053",0,54,"D","D T13",3,0
+"Hypnea musciformis","Q_054",0,55,"D","D T14",1,0
+"Hypnea musciformis","Q_055",0,56,"D","D T14",2,0
+"Hypnea musciformis","Q_056",0,57,"D","D T14",3,0
+"Hypnea musciformis","Q_057",0,58,"C","C T15",1,0
+"Hypnea musciformis","Q_058",0,59,"C","C T15",2,0
+"Hypnea musciformis","Q_059",0,60,"C","C T15",3,0
+"Hypnea musciformis","Q_060",0,61,"C","C T15",4,0
+"Hypnea musciformis","Q_061",0,62,"C","C T16",1,0
+"Hypnea musciformis","Q_062",0,63,"C","C T16",2,0
+"Hypnea musciformis","Q_063",0,64,"C","C T16",3,0
+"Hypnea musciformis","Q_064",0,65,"C","C T16",4,0
+"Hypnea musciformis","Q_065",0,66,"C","C T16",5,0
+"Hypnea musciformis","Q_066",0,67,"C","C T17",1,0
+"Hypnea musciformis","Q_067",0,68,"C","C T17",2,0
+"Hypnea musciformis","Q_068",0,69,"C","C T17",3,0
+"Hypnea musciformis","Q_069",0,70,"C","C T17",4,0
+"Hypnea musciformis","Q_070",0,71,"G","G T18",1,0
+"Hypnea musciformis","Q_071",0,72,"G","G T18",2,0
+"Hypnea musciformis","Q_072",0,73,"G","G T19",1,0
+"Hypnea musciformis","Q_073",0,74,"G","G T19",2,0
+"Hypnea musciformis","Q_074",0,75,"G","G T20",1,0
+"Hypnea musciformis","Q_075",0,76,"G","G T20",2,0
+"Hypnea musciformis","Q_076",0,77,"G","G T20",3,0
+"Hypnea musciformis","Q_077",0,78,"G","G T21",1,0
+"Hypnea musciformis","Q_078",0,79,"G","G T21",2,0
+"Hypnea musciformis","Q_079",0,80,"G","G T21",3,0
+"Hypnea musciformis","Q_080",0,81,"E","E T22",1,0
+"Hypnea musciformis","Q_081",0,82,"E","E T22",2,0
+"Hypnea musciformis","Q_082",0,83,"E","E T22",3,0
+"Hypnea musciformis","Q_083",0,84,"E","E T22",4,0
+"Hypnea musciformis","Q_084",0,85,"E","E T23",1,0
+"Hypnea musciformis","Q_085",0,86,"E","E T23",2,0
+"Hypnea musciformis","Q_086",0,87,"E","E T23",3,0
+"Hypnea musciformis","Q_087",0,88,"E","E T23",4,0
+"Hypnea musciformis","Q_088",8,89,"E","E T24",1,12.5
+"Hypnea musciformis","Q_089",0,90,"E","E T24",2,0
+"Hypnea musciformis","Q_090",0,91,"E","E T24",3,0
+"Hypnea musciformis","Q_091",0,92,"E","E T25",1,0
+"Hypnea musciformis","Q_092",0,93,"E","E T25",2,0
+"Hypnea musciformis","Q_093",0,94,"E","E T25",3,0
+"Hypnea musciformis","Q_094",0,95,"E","E T26",1,0
+"Hypnea musciformis","Q_095",0,96,"E","E T26",2,0
+"Hypnea musciformis","Q_096",0,97,"E","E T26",3,0
+"Hypnea musciformis","Q_097",0,98,"E","E T27",1,0
+"Hypnea musciformis","Q_098",0,99,"E","E T27",2,0
+"Hypnea musciformis","Q_099",0,100,"E","E T27",3,0
+"Hypnea musciformis","Q_100",0,101,"E","E T27",4,0
+"Hypnea musciformis","Q_101",0,102,"F","F T28",1,0
+"Hypnea musciformis","Q_102",0,103,"F","F T28",2,0
+"Hypnea musciformis","Q_103",0,104,"F","F T28",3,0
+"Hypnea musciformis","Q_104",0,105,"F","F T29",1,0
+"Hypnea musciformis","Q_105",0,106,"F","F T29",2,0
+"Hypnea musciformis","Q_106",0,107,"F","F T29",3,0
+"Hypnea musciformis","Q_107",0,108,"F","F T29",4,0
+"Hypnea musciformis","Q_108",0,109,"F","F T29",5,0
+"Hypnea musciformis","Q_109",0,110,"F","F T29",6,0
+"Hypnea musciformis","Q_110",0,111,"F","F T29",7,0
+"Porphyra sp","Q_001",0.4,2,"A","A T1",1,0.625
+"Porphyra sp","Q_002",0.1,3,"A","A T1",2,0.15625
+"Porphyra sp","Q_003",0.1,4,"A","A T1",3,0.15625
+"Porphyra sp","Q_004",0.2,5,"A","A T1",4,0.3125
+"Porphyra sp","Q_005",0,6,"A","A T1",5,0
+"Porphyra sp","Q_006",1,7,"A","A T2",1,1.5625
+"Porphyra sp","Q_007",1.5,8,"A","A T2",2,2.34375
+"Porphyra sp","Q_008",0.1,9,"A","A T2",3,0.15625
+"Porphyra sp","Q_009",0.1,10,"A","A T2",4,0.15625
+"Porphyra sp","Q_010",0,11,"A","A T2",5,0
+"Porphyra sp","Q_011",0.25,12,"A","A T3",1,0.390625
+"Porphyra sp","Q_012",1.5,13,"A","A T3",2,2.34375
+"Porphyra sp","Q_013",1,14,"A","A T3",3,1.5625
+"Porphyra sp","Q_014",0.1,15,"A","A T3",4,0.15625
+"Porphyra sp","Q_015",0,16,"A","A T3",5,0
+"Porphyra sp","Q_016",0,17,"B","B T4",1,0
+"Porphyra sp","Q_017",0,18,"B","B T4",2,0
+"Porphyra sp","Q_018",0.25,19,"B","B T4",3,0.390625
+"Porphyra sp","Q_019",0,20,"B","B T4",4,0
+"Porphyra sp","Q_020",0,21,"B","B T5",1,0
+"Porphyra sp","Q_021",0,22,"B","B T5",2,0
+"Porphyra sp","Q_022",0,23,"B","B T5",3,0
+"Porphyra sp","Q_023",0,24,"B","B T5",4,0
+"Porphyra sp","Q_024",0,25,"B","B T6",1,0
+"Porphyra sp","Q_025",0,26,"B","B T6",2,0
+"Porphyra sp","Q_026",0,27,"B","B T6",3,0
+"Porphyra sp","Q_027",0,28,"B","B T6",4,0
+"Porphyra sp","Q_028",0,29,"B","B T7",1,0
+"Porphyra sp","Q_029",0,30,"B","B T7",2,0
+"Porphyra sp","Q_030",0,31,"B","B T7",3,0
+"Porphyra sp","Q_031",0,32,"B","B T7",4,0
+"Porphyra sp","Q_032",0.25,33,"B","B T8",1,0.390625
+"Porphyra sp","Q_033",0,34,"B","B T8",2,0
+"Porphyra sp","Q_034",0,35,"B","B T8",3,0
+"Porphyra sp","Q_035",0,36,"B","B T8",4,0
+"Porphyra sp","Q_036",0,37,"B","B T9",1,0
+"Porphyra sp","Q_037",0.5,38,"B","B T9",2,0.78125
+"Porphyra sp","Q_038",0,39,"B","B T9",3,0
+"Porphyra sp","Q_039",0,40,"B","B T9",4,0
+"Porphyra sp","Q_040",0,41,"D","D T10",1,0
+"Porphyra sp","Q_041",0,42,"D","D T10",2,0
+"Porphyra sp","Q_042",0,43,"D","D T10",3,0
+"Porphyra sp","Q_043",0,44,"D","D T10",4,0
+"Porphyra sp","Q_044",0.25,45,"D","D T11",1,0.390625
+"Porphyra sp","Q_045",0,46,"D","D T11",2,0
+"Porphyra sp","Q_046",0,47,"D","D T11",3,0
+"Porphyra sp","Q_047",0,48,"D","D T11",4,0
+"Porphyra sp","Q_048",0.5,49,"D","D T12",1,0.78125
+"Porphyra sp","Q_049",0,50,"D","D T12",2,0
+"Porphyra sp","Q_050",0,51,"D","D T12",3,0
+"Porphyra sp","Q_051",0,52,"D","D T13",1,0
+"Porphyra sp","Q_052",0.5,53,"D","D T13",2,0.78125
+"Porphyra sp","Q_053",0,54,"D","D T13",3,0
+"Porphyra sp","Q_054",0,55,"D","D T14",1,0
+"Porphyra sp","Q_055",0,56,"D","D T14",2,0
+"Porphyra sp","Q_056",0,57,"D","D T14",3,0
+"Porphyra sp","Q_057",0,58,"C","C T15",1,0
+"Porphyra sp","Q_058",0,59,"C","C T15",2,0
+"Porphyra sp","Q_059",0,60,"C","C T15",3,0
+"Porphyra sp","Q_060",0,61,"C","C T15",4,0
+"Porphyra sp","Q_061",0,62,"C","C T16",1,0
+"Porphyra sp","Q_062",0,63,"C","C T16",2,0
+"Porphyra sp","Q_063",0,64,"C","C T16",3,0
+"Porphyra sp","Q_064",0,65,"C","C T16",4,0
+"Porphyra sp","Q_065",0,66,"C","C T16",5,0
+"Porphyra sp","Q_066",0,67,"C","C T17",1,0
+"Porphyra sp","Q_067",0,68,"C","C T17",2,0
+"Porphyra sp","Q_068",0,69,"C","C T17",3,0
+"Porphyra sp","Q_069",0,70,"C","C T17",4,0
+"Porphyra sp","Q_070",0,71,"G","G T18",1,0
+"Porphyra sp","Q_071",0,72,"G","G T18",2,0
+"Porphyra sp","Q_072",0,73,"G","G T19",1,0
+"Porphyra sp","Q_073",0,74,"G","G T19",2,0
+"Porphyra sp","Q_074",4,75,"G","G T20",1,6.25
+"Porphyra sp","Q_075",0,76,"G","G T20",2,0
+"Porphyra sp","Q_076",0,77,"G","G T20",3,0
+"Porphyra sp","Q_077",0,78,"G","G T21",1,0
+"Porphyra sp","Q_078",0,79,"G","G T21",2,0
+"Porphyra sp","Q_079",0,80,"G","G T21",3,0
+"Porphyra sp","Q_080",0,81,"E","E T22",1,0
+"Porphyra sp","Q_081",0,82,"E","E T22",2,0
+"Porphyra sp","Q_082",0.5,83,"E","E T22",3,0.78125
+"Porphyra sp","Q_083",0,84,"E","E T22",4,0
+"Porphyra sp","Q_084",0,85,"E","E T23",1,0
+"Porphyra sp","Q_085",0,86,"E","E T23",2,0
+"Porphyra sp","Q_086",0,87,"E","E T23",3,0
+"Porphyra sp","Q_087",1,88,"E","E T23",4,1.5625
+"Porphyra sp","Q_088",0,89,"E","E T24",1,0
+"Porphyra sp","Q_089",2,90,"E","E T24",2,3.125
+"Porphyra sp","Q_090",0,91,"E","E T24",3,0
+"Porphyra sp","Q_091",0.2,92,"E","E T25",1,0.3125
+"Porphyra sp","Q_092",4,93,"E","E T25",2,6.25
+"Porphyra sp","Q_093",0,94,"E","E T25",3,0
+"Porphyra sp","Q_094",0,95,"E","E T26",1,0
+"Porphyra sp","Q_095",0.4,96,"E","E T26",2,0.625
+"Porphyra sp","Q_096",14,97,"E","E T26",3,21.875
+"Porphyra sp","Q_097",2,98,"E","E T27",1,3.125
+"Porphyra sp","Q_098",0.4,99,"E","E T27",2,0.625
+"Porphyra sp","Q_099",0.8,100,"E","E T27",3,1.25
+"Porphyra sp","Q_100",0,101,"E","E T27",4,0
+"Porphyra sp","Q_101",25,102,"F","F T28",1,39.0625
+"Porphyra sp","Q_102",0,103,"F","F T28",2,0
+"Porphyra sp","Q_103",0,104,"F","F T28",3,0
+"Porphyra sp","Q_104",20,105,"F","F T29",1,31.25
+"Porphyra sp","Q_105",3,106,"F","F T29",2,4.6875
+"Porphyra sp","Q_106",0,107,"F","F T29",3,0
+"Porphyra sp","Q_107",5,108,"F","F T29",4,7.8125
+"Porphyra sp","Q_108",0,109,"F","F T29",5,0
+"Porphyra sp","Q_109",0,110,"F","F T29",6,0
+"Porphyra sp","Q_110",0,111,"F","F T29",7,0
+"Tedania ignis (Esponja laranja)","Q_001",0,2,"A","A T1",1,0
+"Tedania ignis (Esponja laranja)","Q_002",0,3,"A","A T1",2,0
+"Tedania ignis (Esponja laranja)","Q_003",0,4,"A","A T1",3,0
+"Tedania ignis (Esponja laranja)","Q_004",0,5,"A","A T1",4,0
+"Tedania ignis (Esponja laranja)","Q_005",0,6,"A","A T1",5,0
+"Tedania ignis (Esponja laranja)","Q_006",0,7,"A","A T2",1,0
+"Tedania ignis (Esponja laranja)","Q_007",0,8,"A","A T2",2,0
+"Tedania ignis (Esponja laranja)","Q_008",0,9,"A","A T2",3,0
+"Tedania ignis (Esponja laranja)","Q_009",0,10,"A","A T2",4,0
+"Tedania ignis (Esponja laranja)","Q_010",0,11,"A","A T2",5,0
+"Tedania ignis (Esponja laranja)","Q_011",0,12,"A","A T3",1,0
+"Tedania ignis (Esponja laranja)","Q_012",0,13,"A","A T3",2,0
+"Tedania ignis (Esponja laranja)","Q_013",0,14,"A","A T3",3,0
+"Tedania ignis (Esponja laranja)","Q_014",0,15,"A","A T3",4,0
+"Tedania ignis (Esponja laranja)","Q_015",0,16,"A","A T3",5,0
+"Tedania ignis (Esponja laranja)","Q_016",0,17,"B","B T4",1,0
+"Tedania ignis (Esponja laranja)","Q_017",0,18,"B","B T4",2,0
+"Tedania ignis (Esponja laranja)","Q_018",0,19,"B","B T4",3,0
+"Tedania ignis (Esponja laranja)","Q_019",0,20,"B","B T4",4,0
+"Tedania ignis (Esponja laranja)","Q_020",0,21,"B","B T5",1,0
+"Tedania ignis (Esponja laranja)","Q_021",0,22,"B","B T5",2,0
+"Tedania ignis (Esponja laranja)","Q_022",0,23,"B","B T5",3,0
+"Tedania ignis (Esponja laranja)","Q_023",0,24,"B","B T5",4,0
+"Tedania ignis (Esponja laranja)","Q_024",0,25,"B","B T6",1,0
+"Tedania ignis (Esponja laranja)","Q_025",0,26,"B","B T6",2,0
+"Tedania ignis (Esponja laranja)","Q_026",0,27,"B","B T6",3,0
+"Tedania ignis (Esponja laranja)","Q_027",0,28,"B","B T6",4,0
+"Tedania ignis (Esponja laranja)","Q_028",0,29,"B","B T7",1,0
+"Tedania ignis (Esponja laranja)","Q_029",0,30,"B","B T7",2,0
+"Tedania ignis (Esponja laranja)","Q_030",0,31,"B","B T7",3,0
+"Tedania ignis (Esponja laranja)","Q_031",0,32,"B","B T7",4,0
+"Tedania ignis (Esponja laranja)","Q_032",0,33,"B","B T8",1,0
+"Tedania ignis (Esponja laranja)","Q_033",0,34,"B","B T8",2,0
+"Tedania ignis (Esponja laranja)","Q_034",0,35,"B","B T8",3,0
+"Tedania ignis (Esponja laranja)","Q_035",0,36,"B","B T8",4,0
+"Tedania ignis (Esponja laranja)","Q_036",0,37,"B","B T9",1,0
+"Tedania ignis (Esponja laranja)","Q_037",0,38,"B","B T9",2,0
+"Tedania ignis (Esponja laranja)","Q_038",0,39,"B","B T9",3,0
+"Tedania ignis (Esponja laranja)","Q_039",0,40,"B","B T9",4,0
+"Tedania ignis (Esponja laranja)","Q_040",0,41,"D","D T10",1,0
+"Tedania ignis (Esponja laranja)","Q_041",0,42,"D","D T10",2,0
+"Tedania ignis (Esponja laranja)","Q_042",0,43,"D","D T10",3,0
+"Tedania ignis (Esponja laranja)","Q_043",0,44,"D","D T10",4,0
+"Tedania ignis (Esponja laranja)","Q_044",0,45,"D","D T11",1,0
+"Tedania ignis (Esponja laranja)","Q_045",0,46,"D","D T11",2,0
+"Tedania ignis (Esponja laranja)","Q_046",0,47,"D","D T11",3,0
+"Tedania ignis (Esponja laranja)","Q_047",0,48,"D","D T11",4,0
+"Tedania ignis (Esponja laranja)","Q_048",0,49,"D","D T12",1,0
+"Tedania ignis (Esponja laranja)","Q_049",0,50,"D","D T12",2,0
+"Tedania ignis (Esponja laranja)","Q_050",0,51,"D","D T12",3,0
+"Tedania ignis (Esponja laranja)","Q_051",0,52,"D","D T13",1,0
+"Tedania ignis (Esponja laranja)","Q_052",0,53,"D","D T13",2,0
+"Tedania ignis (Esponja laranja)","Q_053",0,54,"D","D T13",3,0
+"Tedania ignis (Esponja laranja)","Q_054",0,55,"D","D T14",1,0
+"Tedania ignis (Esponja laranja)","Q_055",0,56,"D","D T14",2,0
+"Tedania ignis (Esponja laranja)","Q_056",0,57,"D","D T14",3,0
+"Tedania ignis (Esponja laranja)","Q_057",0,58,"C","C T15",1,0
+"Tedania ignis (Esponja laranja)","Q_058",0,59,"C","C T15",2,0
+"Tedania ignis (Esponja laranja)","Q_059",0,60,"C","C T15",3,0
+"Tedania ignis (Esponja laranja)","Q_060",0,61,"C","C T15",4,0
+"Tedania ignis (Esponja laranja)","Q_061",0,62,"C","C T16",1,0
+"Tedania ignis (Esponja laranja)","Q_062",0,63,"C","C T16",2,0
+"Tedania ignis (Esponja laranja)","Q_063",0,64,"C","C T16",3,0
+"Tedania ignis (Esponja laranja)","Q_064",0,65,"C","C T16",4,0
+"Tedania ignis (Esponja laranja)","Q_065",0,66,"C","C T16",5,0
+"Tedania ignis (Esponja laranja)","Q_066",0,67,"C","C T17",1,0
+"Tedania ignis (Esponja laranja)","Q_067",0,68,"C","C T17",2,0
+"Tedania ignis (Esponja laranja)","Q_068",0,69,"C","C T17",3,0
+"Tedania ignis (Esponja laranja)","Q_069",4,70,"C","C T17",4,6.25
+"Tedania ignis (Esponja laranja)","Q_070",0,71,"G","G T18",1,0
+"Tedania ignis (Esponja laranja)","Q_071",2,72,"G","G T18",2,3.125
+"Tedania ignis (Esponja laranja)","Q_072",0,73,"G","G T19",1,0
+"Tedania ignis (Esponja laranja)","Q_073",0,74,"G","G T19",2,0
+"Tedania ignis (Esponja laranja)","Q_074",0,75,"G","G T20",1,0
+"Tedania ignis (Esponja laranja)","Q_075",0,76,"G","G T20",2,0
+"Tedania ignis (Esponja laranja)","Q_076",0,77,"G","G T20",3,0
+"Tedania ignis (Esponja laranja)","Q_077",0,78,"G","G T21",1,0
+"Tedania ignis (Esponja laranja)","Q_078",0,79,"G","G T21",2,0
+"Tedania ignis (Esponja laranja)","Q_079",0,80,"G","G T21",3,0
+"Tedania ignis (Esponja laranja)","Q_080",0,81,"E","E T22",1,0
+"Tedania ignis (Esponja laranja)","Q_081",0,82,"E","E T22",2,0
+"Tedania ignis (Esponja laranja)","Q_082",0,83,"E","E T22",3,0
+"Tedania ignis (Esponja laranja)","Q_083",0,84,"E","E T22",4,0
+"Tedania ignis (Esponja laranja)","Q_084",0,85,"E","E T23",1,0
+"Tedania ignis (Esponja laranja)","Q_085",0,86,"E","E T23",2,0
+"Tedania ignis (Esponja laranja)","Q_086",0,87,"E","E T23",3,0
+"Tedania ignis (Esponja laranja)","Q_087",0,88,"E","E T23",4,0
+"Tedania ignis (Esponja laranja)","Q_088",0,89,"E","E T24",1,0
+"Tedania ignis (Esponja laranja)","Q_089",0,90,"E","E T24",2,0
+"Tedania ignis (Esponja laranja)","Q_090",0,91,"E","E T24",3,0
+"Tedania ignis (Esponja laranja)","Q_091",0,92,"E","E T25",1,0
+"Tedania ignis (Esponja laranja)","Q_092",0,93,"E","E T25",2,0
+"Tedania ignis (Esponja laranja)","Q_093",0,94,"E","E T25",3,0
+"Tedania ignis (Esponja laranja)","Q_094",0,95,"E","E T26",1,0
+"Tedania ignis (Esponja laranja)","Q_095",0,96,"E","E T26",2,0
+"Tedania ignis (Esponja laranja)","Q_096",0,97,"E","E T26",3,0
+"Tedania ignis (Esponja laranja)","Q_097",0,98,"E","E T27",1,0
+"Tedania ignis (Esponja laranja)","Q_098",0,99,"E","E T27",2,0
+"Tedania ignis (Esponja laranja)","Q_099",0,100,"E","E T27",3,0
+"Tedania ignis (Esponja laranja)","Q_100",3,101,"E","E T27",4,4.6875
+"Tedania ignis (Esponja laranja)","Q_101",0,102,"F","F T28",1,0
+"Tedania ignis (Esponja laranja)","Q_102",0,103,"F","F T28",2,0
+"Tedania ignis (Esponja laranja)","Q_103",2,104,"F","F T28",3,3.125
+"Tedania ignis (Esponja laranja)","Q_104",0,105,"F","F T29",1,0
+"Tedania ignis (Esponja laranja)","Q_105",0,106,"F","F T29",2,0
+"Tedania ignis (Esponja laranja)","Q_106",0,107,"F","F T29",3,0
+"Tedania ignis (Esponja laranja)","Q_107",0,108,"F","F T29",4,0
+"Tedania ignis (Esponja laranja)","Q_108",0,109,"F","F T29",5,0
+"Tedania ignis (Esponja laranja)","Q_109",0,110,"F","F T29",6,0
+"Tedania ignis (Esponja laranja)","Q_110",20,111,"F","F T29",7,31.25
+"Bunodossoma caissarum","Q_001",0,2,"A","A T1",1,0
+"Bunodossoma caissarum","Q_002",0,3,"A","A T1",2,0
+"Bunodossoma caissarum","Q_003",0,4,"A","A T1",3,0
+"Bunodossoma caissarum","Q_004",0,5,"A","A T1",4,0
+"Bunodossoma caissarum","Q_005",0,6,"A","A T1",5,0
+"Bunodossoma caissarum","Q_006",0,7,"A","A T2",1,0
+"Bunodossoma caissarum","Q_007",0,8,"A","A T2",2,0
+"Bunodossoma caissarum","Q_008",0,9,"A","A T2",3,0
+"Bunodossoma caissarum","Q_009",0,10,"A","A T2",4,0
+"Bunodossoma caissarum","Q_010",0,11,"A","A T2",5,0
+"Bunodossoma caissarum","Q_011",0,12,"A","A T3",1,0
+"Bunodossoma caissarum","Q_012",0,13,"A","A T3",2,0
+"Bunodossoma caissarum","Q_013",0,14,"A","A T3",3,0
+"Bunodossoma caissarum","Q_014",0,15,"A","A T3",4,0
+"Bunodossoma caissarum","Q_015",0,16,"A","A T3",5,0
+"Bunodossoma caissarum","Q_016",0,17,"B","B T4",1,0
+"Bunodossoma caissarum","Q_017",0,18,"B","B T4",2,0
+"Bunodossoma caissarum","Q_018",0,19,"B","B T4",3,0
+"Bunodossoma caissarum","Q_019",0,20,"B","B T4",4,0
+"Bunodossoma caissarum","Q_020",0,21,"B","B T5",1,0
+"Bunodossoma caissarum","Q_021",0,22,"B","B T5",2,0
+"Bunodossoma caissarum","Q_022",0,23,"B","B T5",3,0
+"Bunodossoma caissarum","Q_023",0,24,"B","B T5",4,0
+"Bunodossoma caissarum","Q_024",0,25,"B","B T6",1,0
+"Bunodossoma caissarum","Q_025",0,26,"B","B T6",2,0
+"Bunodossoma caissarum","Q_026",0,27,"B","B T6",3,0
+"Bunodossoma caissarum","Q_027",0,28,"B","B T6",4,0
+"Bunodossoma caissarum","Q_028",0,29,"B","B T7",1,0
+"Bunodossoma caissarum","Q_029",0,30,"B","B T7",2,0
+"Bunodossoma caissarum","Q_030",0,31,"B","B T7",3,0
+"Bunodossoma caissarum","Q_031",0,32,"B","B T7",4,0
+"Bunodossoma caissarum","Q_032",0,33,"B","B T8",1,0
+"Bunodossoma caissarum","Q_033",0,34,"B","B T8",2,0
+"Bunodossoma caissarum","Q_034",0,35,"B","B T8",3,0
+"Bunodossoma caissarum","Q_035",0,36,"B","B T8",4,0
+"Bunodossoma caissarum","Q_036",0,37,"B","B T9",1,0
+"Bunodossoma caissarum","Q_037",0,38,"B","B T9",2,0
+"Bunodossoma caissarum","Q_038",0,39,"B","B T9",3,0
+"Bunodossoma caissarum","Q_039",0,40,"B","B T9",4,0
+"Bunodossoma caissarum","Q_040",0,41,"D","D T10",1,0
+"Bunodossoma caissarum","Q_041",0,42,"D","D T10",2,0
+"Bunodossoma caissarum","Q_042",0,43,"D","D T10",3,0
+"Bunodossoma caissarum","Q_043",0,44,"D","D T10",4,0
+"Bunodossoma caissarum","Q_044",0,45,"D","D T11",1,0
+"Bunodossoma caissarum","Q_045",0,46,"D","D T11",2,0
+"Bunodossoma caissarum","Q_046",0,47,"D","D T11",3,0
+"Bunodossoma caissarum","Q_047",23,48,"D","D T11",4,35.9375
+"Bunodossoma caissarum","Q_048",0,49,"D","D T12",1,0
+"Bunodossoma caissarum","Q_049",0,50,"D","D T12",2,0
+"Bunodossoma caissarum","Q_050",0,51,"D","D T12",3,0
+"Bunodossoma caissarum","Q_051",0,52,"D","D T13",1,0
+"Bunodossoma caissarum","Q_052",0,53,"D","D T13",2,0
+"Bunodossoma caissarum","Q_053",0,54,"D","D T13",3,0
+"Bunodossoma caissarum","Q_054",0,55,"D","D T14",1,0
+"Bunodossoma caissarum","Q_055",0,56,"D","D T14",2,0
+"Bunodossoma caissarum","Q_056",0,57,"D","D T14",3,0
+"Bunodossoma caissarum","Q_057",0,58,"C","C T15",1,0
+"Bunodossoma caissarum","Q_058",0,59,"C","C T15",2,0
+"Bunodossoma caissarum","Q_059",0,60,"C","C T15",3,0
+"Bunodossoma caissarum","Q_060",0,61,"C","C T15",4,0
+"Bunodossoma caissarum","Q_061",0,62,"C","C T16",1,0
+"Bunodossoma caissarum","Q_062",0,63,"C","C T16",2,0
+"Bunodossoma caissarum","Q_063",0,64,"C","C T16",3,0
+"Bunodossoma caissarum","Q_064",0,65,"C","C T16",4,0
+"Bunodossoma caissarum","Q_065",0,66,"C","C T16",5,0
+"Bunodossoma caissarum","Q_066",0,67,"C","C T17",1,0
+"Bunodossoma caissarum","Q_067",0,68,"C","C T17",2,0
+"Bunodossoma caissarum","Q_068",0,69,"C","C T17",3,0
+"Bunodossoma caissarum","Q_069",0,70,"C","C T17",4,0
+"Bunodossoma caissarum","Q_070",0,71,"G","G T18",1,0
+"Bunodossoma caissarum","Q_071",0,72,"G","G T18",2,0
+"Bunodossoma caissarum","Q_072",0,73,"G","G T19",1,0
+"Bunodossoma caissarum","Q_073",0,74,"G","G T19",2,0
+"Bunodossoma caissarum","Q_074",0,75,"G","G T20",1,0
+"Bunodossoma caissarum","Q_075",0,76,"G","G T20",2,0
+"Bunodossoma caissarum","Q_076",0,77,"G","G T20",3,0
+"Bunodossoma caissarum","Q_077",0,78,"G","G T21",1,0
+"Bunodossoma caissarum","Q_078",0,79,"G","G T21",2,0
+"Bunodossoma caissarum","Q_079",0,80,"G","G T21",3,0
+"Bunodossoma caissarum","Q_080",0,81,"E","E T22",1,0
+"Bunodossoma caissarum","Q_081",0,82,"E","E T22",2,0
+"Bunodossoma caissarum","Q_082",0,83,"E","E T22",3,0
+"Bunodossoma caissarum","Q_083",0,84,"E","E T22",4,0
+"Bunodossoma caissarum","Q_084",0,85,"E","E T23",1,0
+"Bunodossoma caissarum","Q_085",0,86,"E","E T23",2,0
+"Bunodossoma caissarum","Q_086",0,87,"E","E T23",3,0
+"Bunodossoma caissarum","Q_087",0,88,"E","E T23",4,0
+"Bunodossoma caissarum","Q_088",0,89,"E","E T24",1,0
+"Bunodossoma caissarum","Q_089",0,90,"E","E T24",2,0
+"Bunodossoma caissarum","Q_090",0,91,"E","E T24",3,0
+"Bunodossoma caissarum","Q_091",0,92,"E","E T25",1,0
+"Bunodossoma caissarum","Q_092",0,93,"E","E T25",2,0
+"Bunodossoma caissarum","Q_093",0,94,"E","E T25",3,0
+"Bunodossoma caissarum","Q_094",0,95,"E","E T26",1,0
+"Bunodossoma caissarum","Q_095",0,96,"E","E T26",2,0
+"Bunodossoma caissarum","Q_096",0,97,"E","E T26",3,0
+"Bunodossoma caissarum","Q_097",0,98,"E","E T27",1,0
+"Bunodossoma caissarum","Q_098",0,99,"E","E T27",2,0
+"Bunodossoma caissarum","Q_099",0,100,"E","E T27",3,0
+"Bunodossoma caissarum","Q_100",0,101,"E","E T27",4,0
+"Bunodossoma caissarum","Q_101",0,102,"F","F T28",1,0
+"Bunodossoma caissarum","Q_102",0,103,"F","F T28",2,0
+"Bunodossoma caissarum","Q_103",0,104,"F","F T28",3,0
+"Bunodossoma caissarum","Q_104",0,105,"F","F T29",1,0
+"Bunodossoma caissarum","Q_105",0,106,"F","F T29",2,0
+"Bunodossoma caissarum","Q_106",0,107,"F","F T29",3,0
+"Bunodossoma caissarum","Q_107",0,108,"F","F T29",4,0
+"Bunodossoma caissarum","Q_108",0,109,"F","F T29",5,0
+"Bunodossoma caissarum","Q_109",0,110,"F","F T29",6,0
+"Bunodossoma caissarum","Q_110",0,111,"F","F T29",7,0
+"Perna perna","Q_001",0,2,"A","A T1",1,0
+"Perna perna","Q_002",0,3,"A","A T1",2,0
+"Perna perna","Q_003",0,4,"A","A T1",3,0
+"Perna perna","Q_004",0,5,"A","A T1",4,0
+"Perna perna","Q_005",0,6,"A","A T1",5,0
+"Perna perna","Q_006",0,7,"A","A T2",1,0
+"Perna perna","Q_007",0,8,"A","A T2",2,0
+"Perna perna","Q_008",0,9,"A","A T2",3,0
+"Perna perna","Q_009",0,10,"A","A T2",4,0
+"Perna perna","Q_010",0.3,11,"A","A T2",5,0.46875
+"Perna perna","Q_011",0,12,"A","A T3",1,0
+"Perna perna","Q_012",0,13,"A","A T3",2,0
+"Perna perna","Q_013",0,14,"A","A T3",3,0
+"Perna perna","Q_014",0.33,15,"A","A T3",4,0.515625
+"Perna perna","Q_015",0.4,16,"A","A T3",5,0.625
+"Perna perna","Q_016",0,17,"B","B T4",1,0
+"Perna perna","Q_017",0,18,"B","B T4",2,0
+"Perna perna","Q_018",0,19,"B","B T4",3,0
+"Perna perna","Q_019",0.25,20,"B","B T4",4,0.390625
+"Perna perna","Q_020",0,21,"B","B T5",1,0
+"Perna perna","Q_021",0,22,"B","B T5",2,0
+"Perna perna","Q_022",0,23,"B","B T5",3,0
+"Perna perna","Q_023",0.25,24,"B","B T5",4,0.390625
+"Perna perna","Q_024",0,25,"B","B T6",1,0
+"Perna perna","Q_025",0,26,"B","B T6",2,0
+"Perna perna","Q_026",0,27,"B","B T6",3,0
+"Perna perna","Q_027",0,28,"B","B T6",4,0
+"Perna perna","Q_028",0,29,"B","B T7",1,0
+"Perna perna","Q_029",0,30,"B","B T7",2,0
+"Perna perna","Q_030",5.12,31,"B","B T7",3,8
+"Perna perna","Q_031",6.4,32,"B","B T7",4,10
+"Perna perna","Q_032",0,33,"B","B T8",1,0
+"Perna perna","Q_033",0,34,"B","B T8",2,0
+"Perna perna","Q_034",0,35,"B","B T8",3,0
+"Perna perna","Q_035",0,36,"B","B T8",4,0
+"Perna perna","Q_036",0,37,"B","B T9",1,0
+"Perna perna","Q_037",0,38,"B","B T9",2,0
+"Perna perna","Q_038",0,39,"B","B T9",3,0
+"Perna perna","Q_039",0,40,"B","B T9",4,0
+"Perna perna","Q_040",0,41,"D","D T10",1,0
+"Perna perna","Q_041",34,42,"D","D T10",2,53.125
+"Perna perna","Q_042",36.5,43,"D","D T10",3,57.03125
+"Perna perna","Q_043",35,44,"D","D T10",4,54.6875
+"Perna perna","Q_044",0,45,"D","D T11",1,0
+"Perna perna","Q_045",0,46,"D","D T11",2,0
+"Perna perna","Q_046",24.25,47,"D","D T11",3,37.890625
+"Perna perna","Q_047",10,48,"D","D T11",4,15.625
+"Perna perna","Q_048",0,49,"D","D T12",1,0
+"Perna perna","Q_049",11,50,"D","D T12",2,17.1875
+"Perna perna","Q_050",13,51,"D","D T12",3,20.3125
+"Perna perna","Q_051",0,52,"D","D T13",1,0
+"Perna perna","Q_052",0,53,"D","D T13",2,0
+"Perna perna","Q_053",23.75,54,"D","D T13",3,37.109375
+"Perna perna","Q_054",0,55,"D","D T14",1,0
+"Perna perna","Q_055",0,56,"D","D T14",2,0
+"Perna perna","Q_056",3,57,"D","D T14",3,4.6875
+"Perna perna","Q_057",0,58,"C","C T15",1,0
+"Perna perna","Q_058",0,59,"C","C T15",2,0
+"Perna perna","Q_059",0,60,"C","C T15",3,0
+"Perna perna","Q_060",0,61,"C","C T15",4,0
+"Perna perna","Q_061",0,62,"C","C T16",1,0
+"Perna perna","Q_062",0,63,"C","C T16",2,0
+"Perna perna","Q_063",0,64,"C","C T16",3,0
+"Perna perna","Q_064",1,65,"C","C T16",4,1.5625
+"Perna perna","Q_065",0,66,"C","C T16",5,0
+"Perna perna","Q_066",0,67,"C","C T17",1,0
+"Perna perna","Q_067",0,68,"C","C T17",2,0
+"Perna perna","Q_068",0,69,"C","C T17",3,0
+"Perna perna","Q_069",0,70,"C","C T17",4,0
+"Perna perna","Q_070",0,71,"G","G T18",1,0
+"Perna perna","Q_071",0,72,"G","G T18",2,0
+"Perna perna","Q_072",0,73,"G","G T19",1,0
+"Perna perna","Q_073",0,74,"G","G T19",2,0
+"Perna perna","Q_074",0,75,"G","G T20",1,0
+"Perna perna","Q_075",0,76,"G","G T20",2,0
+"Perna perna","Q_076",0,77,"G","G T20",3,0
+"Perna perna","Q_077",0,78,"G","G T21",1,0
+"Perna perna","Q_078",0,79,"G","G T21",2,0
+"Perna perna","Q_079",0,80,"G","G T21",3,0
+"Perna perna","Q_080",0,81,"E","E T22",1,0
+"Perna perna","Q_081",0,82,"E","E T22",2,0
+"Perna perna","Q_082",0,83,"E","E T22",3,0
+"Perna perna","Q_083",0,84,"E","E T22",4,0
+"Perna perna","Q_084",0,85,"E","E T23",1,0
+"Perna perna","Q_085",0,86,"E","E T23",2,0
+"Perna perna","Q_086",0,87,"E","E T23",3,0
+"Perna perna","Q_087",0,88,"E","E T23",4,0
+"Perna perna","Q_088",0,89,"E","E T24",1,0
+"Perna perna","Q_089",0,90,"E","E T24",2,0
+"Perna perna","Q_090",0,91,"E","E T24",3,0
+"Perna perna","Q_091",0.2,92,"E","E T25",1,0.3125
+"Perna perna","Q_092",0,93,"E","E T25",2,0
+"Perna perna","Q_093",0,94,"E","E T25",3,0
+"Perna perna","Q_094",0,95,"E","E T26",1,0
+"Perna perna","Q_095",0,96,"E","E T26",2,0
+"Perna perna","Q_096",0,97,"E","E T26",3,0
+"Perna perna","Q_097",0,98,"E","E T27",1,0
+"Perna perna","Q_098",0,99,"E","E T27",2,0
+"Perna perna","Q_099",0,100,"E","E T27",3,0
+"Perna perna","Q_100",0.2,101,"E","E T27",4,0.3125
+"Perna perna","Q_101",0,102,"F","F T28",1,0
+"Perna perna","Q_102",3,103,"F","F T28",2,4.6875
+"Perna perna","Q_103",1,104,"F","F T28",3,1.5625
+"Perna perna","Q_104",0,105,"F","F T29",1,0
+"Perna perna","Q_105",1,106,"F","F T29",2,1.5625
+"Perna perna","Q_106",2,107,"F","F T29",3,3.125
+"Perna perna","Q_107",0,108,"F","F T29",4,0
+"Perna perna","Q_108",0,109,"F","F T29",5,0
+"Perna perna","Q_109",0,110,"F","F T29",6,0
+"Perna perna","Q_110",0,111,"F","F T29",7,0
+"Isognomon bicolor","Q_001",0,2,"A","A T1",1,0
+"Isognomon bicolor","Q_002",0,3,"A","A T1",2,0
+"Isognomon bicolor","Q_003",0,4,"A","A T1",3,0
+"Isognomon bicolor","Q_004",0,5,"A","A T1",4,0
+"Isognomon bicolor","Q_005",0,6,"A","A T1",5,0
+"Isognomon bicolor","Q_006",0,7,"A","A T2",1,0
+"Isognomon bicolor","Q_007",0,8,"A","A T2",2,0
+"Isognomon bicolor","Q_008",0,9,"A","A T2",3,0
+"Isognomon bicolor","Q_009",0,10,"A","A T2",4,0
+"Isognomon bicolor","Q_010",0,11,"A","A T2",5,0
+"Isognomon bicolor","Q_011",0,12,"A","A T3",1,0
+"Isognomon bicolor","Q_012",0,13,"A","A T3",2,0
+"Isognomon bicolor","Q_013",0,14,"A","A T3",3,0
+"Isognomon bicolor","Q_014",0,15,"A","A T3",4,0
+"Isognomon bicolor","Q_015",0,16,"A","A T3",5,0
+"Isognomon bicolor","Q_016",0,17,"B","B T4",1,0
+"Isognomon bicolor","Q_017",0.25,18,"B","B T4",2,0.390625
+"Isognomon bicolor","Q_018",3.2,19,"B","B T4",3,5
+"Isognomon bicolor","Q_019",3.2,20,"B","B T4",4,5
+"Isognomon bicolor","Q_020",0,21,"B","B T5",1,0
+"Isognomon bicolor","Q_021",0.25,22,"B","B T5",2,0.390625
+"Isognomon bicolor","Q_022",6.4,23,"B","B T5",3,10
+"Isognomon bicolor","Q_023",3.2,24,"B","B T5",4,5
+"Isognomon bicolor","Q_024",0,25,"B","B T6",1,0
+"Isognomon bicolor","Q_025",1,26,"B","B T6",2,1.5625
+"Isognomon bicolor","Q_026",3.2,27,"B","B T6",3,5
+"Isognomon bicolor","Q_027",6.4,28,"B","B T6",4,10
+"Isognomon bicolor","Q_028",1.5625,29,"B","B T7",1,2.44140625
+"Isognomon bicolor","Q_029",25.6,30,"B","B T7",2,40
+"Isognomon bicolor","Q_030",54.4,31,"B","B T7",3,85
+"Isognomon bicolor","Q_031",19.2,32,"B","B T7",4,30
+"Isognomon bicolor","Q_032",1,33,"B","B T8",1,1.5625
+"Isognomon bicolor","Q_033",0,34,"B","B T8",2,0
+"Isognomon bicolor","Q_034",3.2,35,"B","B T8",3,5
+"Isognomon bicolor","Q_035",5.12,36,"B","B T8",4,8
+"Isognomon bicolor","Q_036",0,37,"B","B T9",1,0
+"Isognomon bicolor","Q_037",1,38,"B","B T9",2,1.5625
+"Isognomon bicolor","Q_038",12.8,39,"B","B T9",3,20
+"Isognomon bicolor","Q_039",12.8,40,"B","B T9",4,20
+"Isognomon bicolor","Q_040",0,41,"D","D T10",1,0
+"Isognomon bicolor","Q_041",1,42,"D","D T10",2,1.5625
+"Isognomon bicolor","Q_042",0,43,"D","D T10",3,0
+"Isognomon bicolor","Q_043",3,44,"D","D T10",4,4.6875
+"Isognomon bicolor","Q_044",0,45,"D","D T11",1,0
+"Isognomon bicolor","Q_045",2,46,"D","D T11",2,3.125
+"Isognomon bicolor","Q_046",1,47,"D","D T11",3,1.5625
+"Isognomon bicolor","Q_047",2,48,"D","D T11",4,3.125
+"Isognomon bicolor","Q_048",0,49,"D","D T12",1,0
+"Isognomon bicolor","Q_049",1.5,50,"D","D T12",2,2.34375
+"Isognomon bicolor","Q_050",0,51,"D","D T12",3,0
+"Isognomon bicolor","Q_051",0,52,"D","D T13",1,0
+"Isognomon bicolor","Q_052",2,53,"D","D T13",2,3.125
+"Isognomon bicolor","Q_053",2,54,"D","D T13",3,3.125
+"Isognomon bicolor","Q_054",0,55,"D","D T14",1,0
+"Isognomon bicolor","Q_055",2,56,"D","D T14",2,3.125
+"Isognomon bicolor","Q_056",1,57,"D","D T14",3,1.5625
+"Isognomon bicolor","Q_057",0,58,"C","C T15",1,0
+"Isognomon bicolor","Q_058",0,59,"C","C T15",2,0
+"Isognomon bicolor","Q_059",5,60,"C","C T15",3,7.8125
+"Isognomon bicolor","Q_060",2,61,"C","C T15",4,3.125
+"Isognomon bicolor","Q_061",0,62,"C","C T16",1,0
+"Isognomon bicolor","Q_062",0,63,"C","C T16",2,0
+"Isognomon bicolor","Q_063",4,64,"C","C T16",3,6.25
+"Isognomon bicolor","Q_064",5,65,"C","C T16",4,7.8125
+"Isognomon bicolor","Q_065",0,66,"C","C T16",5,0
+"Isognomon bicolor","Q_066",0,67,"C","C T17",1,0
+"Isognomon bicolor","Q_067",2,68,"C","C T17",2,3.125
+"Isognomon bicolor","Q_068",1,69,"C","C T17",3,1.5625
+"Isognomon bicolor","Q_069",5,70,"C","C T17",4,7.8125
+"Isognomon bicolor","Q_070",0,71,"G","G T18",1,0
+"Isognomon bicolor","Q_071",14,72,"G","G T18",2,21.875
+"Isognomon bicolor","Q_072",0,73,"G","G T19",1,0
+"Isognomon bicolor","Q_073",0,74,"G","G T19",2,0
+"Isognomon bicolor","Q_074",0,75,"G","G T20",1,0
+"Isognomon bicolor","Q_075",0,76,"G","G T20",2,0
+"Isognomon bicolor","Q_076",1,77,"G","G T20",3,1.5625
+"Isognomon bicolor","Q_077",7,78,"G","G T21",1,10.9375
+"Isognomon bicolor","Q_078",0,79,"G","G T21",2,0
+"Isognomon bicolor","Q_079",6,80,"G","G T21",3,9.375
+"Isognomon bicolor","Q_080",5,81,"E","E T22",1,7.8125
+"Isognomon bicolor","Q_081",2.5,82,"E","E T22",2,3.90625
+"Isognomon bicolor","Q_082",1,83,"E","E T22",3,1.5625
+"Isognomon bicolor","Q_083",1.5,84,"E","E T22",4,2.34375
+"Isognomon bicolor","Q_084",3,85,"E","E T23",1,4.6875
+"Isognomon bicolor","Q_085",1.4,86,"E","E T23",2,2.1875
+"Isognomon bicolor","Q_086",2.5,87,"E","E T23",3,3.90625
+"Isognomon bicolor","Q_087",1.5,88,"E","E T23",4,2.34375
+"Isognomon bicolor","Q_088",3,89,"E","E T24",1,4.6875
+"Isognomon bicolor","Q_089",3,90,"E","E T24",2,4.6875
+"Isognomon bicolor","Q_090",1,91,"E","E T24",3,1.5625
+"Isognomon bicolor","Q_091",5,92,"E","E T25",1,7.8125
+"Isognomon bicolor","Q_092",0,93,"E","E T25",2,0
+"Isognomon bicolor","Q_093",5,94,"E","E T25",3,7.8125
+"Isognomon bicolor","Q_094",0,95,"E","E T26",1,0
+"Isognomon bicolor","Q_095",1,96,"E","E T26",2,1.5625
+"Isognomon bicolor","Q_096",0,97,"E","E T26",3,0
+"Isognomon bicolor","Q_097",1,98,"E","E T27",1,1.5625
+"Isognomon bicolor","Q_098",1,99,"E","E T27",2,1.5625
+"Isognomon bicolor","Q_099",0.5,100,"E","E T27",3,0.78125
+"Isognomon bicolor","Q_100",0,101,"E","E T27",4,0
+"Isognomon bicolor","Q_101",0,102,"F","F T28",1,0
+"Isognomon bicolor","Q_102",1,103,"F","F T28",2,1.5625
+"Isognomon bicolor","Q_103",0,104,"F","F T28",3,0
+"Isognomon bicolor","Q_104",0,105,"F","F T29",1,0
+"Isognomon bicolor","Q_105",0,106,"F","F T29",2,0
+"Isognomon bicolor","Q_106",3,107,"F","F T29",3,4.6875
+"Isognomon bicolor","Q_107",0,108,"F","F T29",4,0
+"Isognomon bicolor","Q_108",0,109,"F","F T29",5,0
+"Isognomon bicolor","Q_109",0,110,"F","F T29",6,0
+"Isognomon bicolor","Q_110",0,111,"F","F T29",7,0
+"Mytilaster solisianus","Q_001",1,2,"A","A T1",1,1.5625
+"Mytilaster solisianus","Q_002",5,3,"A","A T1",2,7.8125
+"Mytilaster solisianus","Q_003",13,4,"A","A T1",3,20.3125
+"Mytilaster solisianus","Q_004",30,5,"A","A T1",4,46.875
+"Mytilaster solisianus","Q_005",20,6,"A","A T1",5,31.25
+"Mytilaster solisianus","Q_006",0.1,7,"A","A T2",1,0.15625
+"Mytilaster solisianus","Q_007",35,8,"A","A T2",2,54.6875
+"Mytilaster solisianus","Q_008",24,9,"A","A T2",3,37.5
+"Mytilaster solisianus","Q_009",26,10,"A","A T2",4,40.625
+"Mytilaster solisianus","Q_010",13,11,"A","A T2",5,20.3125
+"Mytilaster solisianus","Q_011",4,12,"A","A T3",1,6.25
+"Mytilaster solisianus","Q_012",33,13,"A","A T3",2,51.5625
+"Mytilaster solisianus","Q_013",24,14,"A","A T3",3,37.5
+"Mytilaster solisianus","Q_014",35,15,"A","A T3",4,54.6875
+"Mytilaster solisianus","Q_015",10,16,"A","A T3",5,15.625
+"Mytilaster solisianus","Q_016",0,17,"B","B T4",1,0
+"Mytilaster solisianus","Q_017",25.6,18,"B","B T4",2,40
+"Mytilaster solisianus","Q_018",48,19,"B","B T4",3,75
+"Mytilaster solisianus","Q_019",16,20,"B","B T4",4,25
+"Mytilaster solisianus","Q_020",3.2,21,"B","B T5",1,5
+"Mytilaster solisianus","Q_021",28.8,22,"B","B T5",2,45
+"Mytilaster solisianus","Q_022",32,23,"B","B T5",3,50
+"Mytilaster solisianus","Q_023",22.4,24,"B","B T5",4,35
+"Mytilaster solisianus","Q_024",3.2,25,"B","B T6",1,5
+"Mytilaster solisianus","Q_025",12.8,26,"B","B T6",2,20
+"Mytilaster solisianus","Q_026",0,27,"B","B T6",3,0
+"Mytilaster solisianus","Q_027",12.8,28,"B","B T6",4,20
+"Mytilaster solisianus","Q_028",0,29,"B","B T7",1,0
+"Mytilaster solisianus","Q_029",0,30,"B","B T7",2,0
+"Mytilaster solisianus","Q_030",0,31,"B","B T7",3,0
+"Mytilaster solisianus","Q_031",0,32,"B","B T7",4,0
+"Mytilaster solisianus","Q_032",25.6,33,"B","B T8",1,40
+"Mytilaster solisianus","Q_033",0,34,"B","B T8",2,0
+"Mytilaster solisianus","Q_034",32,35,"B","B T8",3,50
+"Mytilaster solisianus","Q_035",19.2,36,"B","B T8",4,30
+"Mytilaster solisianus","Q_036",0,37,"B","B T9",1,0
+"Mytilaster solisianus","Q_037",7,38,"B","B T9",2,10.9375
+"Mytilaster solisianus","Q_038",25.6,39,"B","B T9",3,40
+"Mytilaster solisianus","Q_039",19.2,40,"B","B T9",4,30
+"Mytilaster solisianus","Q_040",7,41,"D","D T10",1,10.9375
+"Mytilaster solisianus","Q_041",11,42,"D","D T10",2,17.1875
+"Mytilaster solisianus","Q_042",10,43,"D","D T10",3,15.625
+"Mytilaster solisianus","Q_043",2,44,"D","D T10",4,3.125
+"Mytilaster solisianus","Q_044",0.5,45,"D","D T11",1,0.78125
+"Mytilaster solisianus","Q_045",53,46,"D","D T11",2,82.8125
+"Mytilaster solisianus","Q_046",24.25,47,"D","D T11",3,37.890625
+"Mytilaster solisianus","Q_047",8,48,"D","D T11",4,12.5
+"Mytilaster solisianus","Q_048",3,49,"D","D T12",1,4.6875
+"Mytilaster solisianus","Q_049",35,50,"D","D T12",2,54.6875
+"Mytilaster solisianus","Q_050",44,51,"D","D T12",3,68.75
+"Mytilaster solisianus","Q_051",2,52,"D","D T13",1,3.125
+"Mytilaster solisianus","Q_052",38.5,53,"D","D T13",2,60.15625
+"Mytilaster solisianus","Q_053",24,54,"D","D T13",3,37.5
+"Mytilaster solisianus","Q_054",1,55,"D","D T14",1,1.5625
+"Mytilaster solisianus","Q_055",26,56,"D","D T14",2,40.625
+"Mytilaster solisianus","Q_056",50,57,"D","D T14",3,78.125
+"Mytilaster solisianus","Q_057",0,58,"C","C T15",1,0
+"Mytilaster solisianus","Q_058",1,59,"C","C T15",2,1.5625
+"Mytilaster solisianus","Q_059",30,60,"C","C T15",3,46.875
+"Mytilaster solisianus","Q_060",48,61,"C","C T15",4,75
+"Mytilaster solisianus","Q_061",0,62,"C","C T16",1,0
+"Mytilaster solisianus","Q_062",2,63,"C","C T16",2,3.125
+"Mytilaster solisianus","Q_063",26,64,"C","C T16",3,40.625
+"Mytilaster solisianus","Q_064",44,65,"C","C T16",4,68.75
+"Mytilaster solisianus","Q_065",0,66,"C","C T16",5,0
+"Mytilaster solisianus","Q_066",4,67,"C","C T17",1,6.25
+"Mytilaster solisianus","Q_067",27,68,"C","C T17",2,42.1875
+"Mytilaster solisianus","Q_068",37,69,"C","C T17",3,57.8125
+"Mytilaster solisianus","Q_069",13,70,"C","C T17",4,20.3125
+"Mytilaster solisianus","Q_070",0,71,"G","G T18",1,0
+"Mytilaster solisianus","Q_071",14,72,"G","G T18",2,21.875
+"Mytilaster solisianus","Q_072",0,73,"G","G T19",1,0
+"Mytilaster solisianus","Q_073",15,74,"G","G T19",2,23.4375
+"Mytilaster solisianus","Q_074",9,75,"G","G T20",1,14.0625
+"Mytilaster solisianus","Q_075",25,76,"G","G T20",2,39.0625
+"Mytilaster solisianus","Q_076",0,77,"G","G T20",3,0
+"Mytilaster solisianus","Q_077",16,78,"G","G T21",1,25
+"Mytilaster solisianus","Q_078",38,79,"G","G T21",2,59.375
+"Mytilaster solisianus","Q_079",0,80,"G","G T21",3,0
+"Mytilaster solisianus","Q_080",8,81,"E","E T22",1,12.5
+"Mytilaster solisianus","Q_081",58,82,"E","E T22",2,90.625
+"Mytilaster solisianus","Q_082",50,83,"E","E T22",3,78.125
+"Mytilaster solisianus","Q_083",5,84,"E","E T22",4,7.8125
+"Mytilaster solisianus","Q_084",56,85,"E","E T23",1,87.5
+"Mytilaster solisianus","Q_085",61,86,"E","E T23",2,95.3125
+"Mytilaster solisianus","Q_086",43.5,87,"E","E T23",3,67.96875
+"Mytilaster solisianus","Q_087",52,88,"E","E T23",4,81.25
+"Mytilaster solisianus","Q_088",34,89,"E","E T24",1,53.125
+"Mytilaster solisianus","Q_089",19,90,"E","E T24",2,29.6875
+"Mytilaster solisianus","Q_090",60,91,"E","E T24",3,93.75
+"Mytilaster solisianus","Q_091",35.5,92,"E","E T25",1,55.46875
+"Mytilaster solisianus","Q_092",1,93,"E","E T25",2,1.5625
+"Mytilaster solisianus","Q_093",38,94,"E","E T25",3,59.375
+"Mytilaster solisianus","Q_094",60,95,"E","E T26",1,93.75
+"Mytilaster solisianus","Q_095",25,96,"E","E T26",2,39.0625
+"Mytilaster solisianus","Q_096",0,97,"E","E T26",3,0
+"Mytilaster solisianus","Q_097",32,98,"E","E T27",1,50
+"Mytilaster solisianus","Q_098",46,99,"E","E T27",2,71.875
+"Mytilaster solisianus","Q_099",49,100,"E","E T27",3,76.5625
+"Mytilaster solisianus","Q_100",3.5,101,"E","E T27",4,5.46875
+"Mytilaster solisianus","Q_101",7,102,"F","F T28",1,10.9375
+"Mytilaster solisianus","Q_102",64,103,"F","F T28",2,100
+"Mytilaster solisianus","Q_103",55,104,"F","F T28",3,85.9375
+"Mytilaster solisianus","Q_104",3,105,"F","F T29",1,4.6875
+"Mytilaster solisianus","Q_105",62,106,"F","F T29",2,96.875
+"Mytilaster solisianus","Q_106",17,107,"F","F T29",3,26.5625
+"Mytilaster solisianus","Q_107",0,108,"F","F T29",4,0
+"Mytilaster solisianus","Q_108",36,109,"F","F T29",5,56.25
+"Mytilaster solisianus","Q_109",60,110,"F","F T29",6,93.75
+"Mytilaster solisianus","Q_110",10,111,"F","F T29",7,15.625
+"Vermetidae","Q_001",0,2,"A","A T1",1,0
+"Vermetidae","Q_002",0,3,"A","A T1",2,0
+"Vermetidae","Q_003",0,4,"A","A T1",3,0
+"Vermetidae","Q_004",0,5,"A","A T1",4,0
+"Vermetidae","Q_005",0,6,"A","A T1",5,0
+"Vermetidae","Q_006",0,7,"A","A T2",1,0
+"Vermetidae","Q_007",0,8,"A","A T2",2,0
+"Vermetidae","Q_008",0,9,"A","A T2",3,0
+"Vermetidae","Q_009",0,10,"A","A T2",4,0
+"Vermetidae","Q_010",0,11,"A","A T2",5,0
+"Vermetidae","Q_011",0,12,"A","A T3",1,0
+"Vermetidae","Q_012",0,13,"A","A T3",2,0
+"Vermetidae","Q_013",0,14,"A","A T3",3,0
+"Vermetidae","Q_014",0,15,"A","A T3",4,0
+"Vermetidae","Q_015",0,16,"A","A T3",5,0
+"Vermetidae","Q_016",0,17,"B","B T4",1,0
+"Vermetidae","Q_017",0,18,"B","B T4",2,0
+"Vermetidae","Q_018",0,19,"B","B T4",3,0
+"Vermetidae","Q_019",0,20,"B","B T4",4,0
+"Vermetidae","Q_020",6.4,21,"B","B T5",1,10
+"Vermetidae","Q_021",0,22,"B","B T5",2,0
+"Vermetidae","Q_022",0,23,"B","B T5",3,0
+"Vermetidae","Q_023",0,24,"B","B T5",4,0
+"Vermetidae","Q_024",0,25,"B","B T6",1,0
+"Vermetidae","Q_025",0,26,"B","B T6",2,0
+"Vermetidae","Q_026",38.4,27,"B","B T6",3,60
+"Vermetidae","Q_027",0,28,"B","B T6",4,0
+"Vermetidae","Q_028",0,29,"B","B T7",1,0
+"Vermetidae","Q_029",0,30,"B","B T7",2,0
+"Vermetidae","Q_030",0,31,"B","B T7",3,0
+"Vermetidae","Q_031",0,32,"B","B T7",4,0
+"Vermetidae","Q_032",0,33,"B","B T8",1,0
+"Vermetidae","Q_033",0,34,"B","B T8",2,0
+"Vermetidae","Q_034",0,35,"B","B T8",3,0
+"Vermetidae","Q_035",0,36,"B","B T8",4,0
+"Vermetidae","Q_036",0,37,"B","B T9",1,0
+"Vermetidae","Q_037",0,38,"B","B T9",2,0
+"Vermetidae","Q_038",0,39,"B","B T9",3,0
+"Vermetidae","Q_039",0,40,"B","B T9",4,0
+"Vermetidae","Q_040",0,41,"D","D T10",1,0
+"Vermetidae","Q_041",0,42,"D","D T10",2,0
+"Vermetidae","Q_042",0,43,"D","D T10",3,0
+"Vermetidae","Q_043",0,44,"D","D T10",4,0
+"Vermetidae","Q_044",0,45,"D","D T11",1,0
+"Vermetidae","Q_045",0,46,"D","D T11",2,0
+"Vermetidae","Q_046",0,47,"D","D T11",3,0
+"Vermetidae","Q_047",0,48,"D","D T11",4,0
+"Vermetidae","Q_048",0,49,"D","D T12",1,0
+"Vermetidae","Q_049",0,50,"D","D T12",2,0
+"Vermetidae","Q_050",0,51,"D","D T12",3,0
+"Vermetidae","Q_051",0,52,"D","D T13",1,0
+"Vermetidae","Q_052",0,53,"D","D T13",2,0
+"Vermetidae","Q_053",0,54,"D","D T13",3,0
+"Vermetidae","Q_054",0,55,"D","D T14",1,0
+"Vermetidae","Q_055",0,56,"D","D T14",2,0
+"Vermetidae","Q_056",0,57,"D","D T14",3,0
+"Vermetidae","Q_057",0,58,"C","C T15",1,0
+"Vermetidae","Q_058",0,59,"C","C T15",2,0
+"Vermetidae","Q_059",0,60,"C","C T15",3,0
+"Vermetidae","Q_060",0,61,"C","C T15",4,0
+"Vermetidae","Q_061",0,62,"C","C T16",1,0
+"Vermetidae","Q_062",0,63,"C","C T16",2,0
+"Vermetidae","Q_063",0,64,"C","C T16",3,0
+"Vermetidae","Q_064",0,65,"C","C T16",4,0
+"Vermetidae","Q_065",0,66,"C","C T16",5,0
+"Vermetidae","Q_066",0,67,"C","C T17",1,0
+"Vermetidae","Q_067",0,68,"C","C T17",2,0
+"Vermetidae","Q_068",0,69,"C","C T17",3,0
+"Vermetidae","Q_069",0,70,"C","C T17",4,0
+"Vermetidae","Q_070",0,71,"G","G T18",1,0
+"Vermetidae","Q_071",0,72,"G","G T18",2,0
+"Vermetidae","Q_072",0,73,"G","G T19",1,0
+"Vermetidae","Q_073",0,74,"G","G T19",2,0
+"Vermetidae","Q_074",0,75,"G","G T20",1,0
+"Vermetidae","Q_075",0,76,"G","G T20",2,0
+"Vermetidae","Q_076",0,77,"G","G T20",3,0
+"Vermetidae","Q_077",0,78,"G","G T21",1,0
+"Vermetidae","Q_078",0,79,"G","G T21",2,0
+"Vermetidae","Q_079",0,80,"G","G T21",3,0
+"Vermetidae","Q_080",0,81,"E","E T22",1,0
+"Vermetidae","Q_081",0,82,"E","E T22",2,0
+"Vermetidae","Q_082",0,83,"E","E T22",3,0
+"Vermetidae","Q_083",0,84,"E","E T22",4,0
+"Vermetidae","Q_084",0,85,"E","E T23",1,0
+"Vermetidae","Q_085",0,86,"E","E T23",2,0
+"Vermetidae","Q_086",0,87,"E","E T23",3,0
+"Vermetidae","Q_087",0,88,"E","E T23",4,0
+"Vermetidae","Q_088",0,89,"E","E T24",1,0
+"Vermetidae","Q_089",0,90,"E","E T24",2,0
+"Vermetidae","Q_090",0,91,"E","E T24",3,0
+"Vermetidae","Q_091",0,92,"E","E T25",1,0
+"Vermetidae","Q_092",0,93,"E","E T25",2,0
+"Vermetidae","Q_093",0,94,"E","E T25",3,0
+"Vermetidae","Q_094",0,95,"E","E T26",1,0
+"Vermetidae","Q_095",0,96,"E","E T26",2,0
+"Vermetidae","Q_096",0,97,"E","E T26",3,0
+"Vermetidae","Q_097",0,98,"E","E T27",1,0
+"Vermetidae","Q_098",0,99,"E","E T27",2,0
+"Vermetidae","Q_099",0,100,"E","E T27",3,0
+"Vermetidae","Q_100",0,101,"E","E T27",4,0
+"Vermetidae","Q_101",0,102,"F","F T28",1,0
+"Vermetidae","Q_102",0,103,"F","F T28",2,0
+"Vermetidae","Q_103",0,104,"F","F T28",3,0
+"Vermetidae","Q_104",0,105,"F","F T29",1,0
+"Vermetidae","Q_105",0,106,"F","F T29",2,0
+"Vermetidae","Q_106",0,107,"F","F T29",3,0
+"Vermetidae","Q_107",0,108,"F","F T29",4,0
+"Vermetidae","Q_108",0,109,"F","F T29",5,0
+"Vermetidae","Q_109",0,110,"F","F T29",6,0
+"Vermetidae","Q_110",0,111,"F","F T29",7,0
+"Echinolittorina lineolata","Q_001",0,2,"A","A T1",1,0
+"Echinolittorina lineolata","Q_002",0,3,"A","A T1",2,0
+"Echinolittorina lineolata","Q_003",0.1,4,"A","A T1",3,0.15625
+"Echinolittorina lineolata","Q_004",0.1,5,"A","A T1",4,0.15625
+"Echinolittorina lineolata","Q_005",0,6,"A","A T1",5,0
+"Echinolittorina lineolata","Q_006",0.1,7,"A","A T2",1,0.15625
+"Echinolittorina lineolata","Q_007",0.2,8,"A","A T2",2,0.3125
+"Echinolittorina lineolata","Q_008",0.01,9,"A","A T2",3,0.015625
+"Echinolittorina lineolata","Q_009",0,10,"A","A T2",4,0
+"Echinolittorina lineolata","Q_010",0,11,"A","A T2",5,0
+"Echinolittorina lineolata","Q_011",0.1,12,"A","A T3",1,0.15625
+"Echinolittorina lineolata","Q_012",0.1,13,"A","A T3",2,0.15625
+"Echinolittorina lineolata","Q_013",0,14,"A","A T3",3,0
+"Echinolittorina lineolata","Q_014",0,15,"A","A T3",4,0
+"Echinolittorina lineolata","Q_015",0,16,"A","A T3",5,0
+"Echinolittorina lineolata","Q_016",0,17,"B","B T4",1,0
+"Echinolittorina lineolata","Q_017",0,18,"B","B T4",2,0
+"Echinolittorina lineolata","Q_018",0,19,"B","B T4",3,0
+"Echinolittorina lineolata","Q_019",0,20,"B","B T4",4,0
+"Echinolittorina lineolata","Q_020",0,21,"B","B T5",1,0
+"Echinolittorina lineolata","Q_021",0,22,"B","B T5",2,0
+"Echinolittorina lineolata","Q_022",0,23,"B","B T5",3,0
+"Echinolittorina lineolata","Q_023",0,24,"B","B T5",4,0
+"Echinolittorina lineolata","Q_024",0,25,"B","B T6",1,0
+"Echinolittorina lineolata","Q_025",0,26,"B","B T6",2,0
+"Echinolittorina lineolata","Q_026",0,27,"B","B T6",3,0
+"Echinolittorina lineolata","Q_027",0,28,"B","B T6",4,0
+"Echinolittorina lineolata","Q_028",0,29,"B","B T7",1,0
+"Echinolittorina lineolata","Q_029",0,30,"B","B T7",2,0
+"Echinolittorina lineolata","Q_030",0,31,"B","B T7",3,0
+"Echinolittorina lineolata","Q_031",0,32,"B","B T7",4,0
+"Echinolittorina lineolata","Q_032",0,33,"B","B T8",1,0
+"Echinolittorina lineolata","Q_033",0,34,"B","B T8",2,0
+"Echinolittorina lineolata","Q_034",0,35,"B","B T8",3,0
+"Echinolittorina lineolata","Q_035",0,36,"B","B T8",4,0
+"Echinolittorina lineolata","Q_036",0,37,"B","B T9",1,0
+"Echinolittorina lineolata","Q_037",0,38,"B","B T9",2,0
+"Echinolittorina lineolata","Q_038",0,39,"B","B T9",3,0
+"Echinolittorina lineolata","Q_039",0,40,"B","B T9",4,0
+"Echinolittorina lineolata","Q_040",0,41,"D","D T10",1,0
+"Echinolittorina lineolata","Q_041",0,42,"D","D T10",2,0
+"Echinolittorina lineolata","Q_042",0,43,"D","D T10",3,0
+"Echinolittorina lineolata","Q_043",0,44,"D","D T10",4,0
+"Echinolittorina lineolata","Q_044",0,45,"D","D T11",1,0
+"Echinolittorina lineolata","Q_045",0,46,"D","D T11",2,0
+"Echinolittorina lineolata","Q_046",0,47,"D","D T11",3,0
+"Echinolittorina lineolata","Q_047",0,48,"D","D T11",4,0
+"Echinolittorina lineolata","Q_048",0,49,"D","D T12",1,0
+"Echinolittorina lineolata","Q_049",0,50,"D","D T12",2,0
+"Echinolittorina lineolata","Q_050",0,51,"D","D T12",3,0
+"Echinolittorina lineolata","Q_051",0,52,"D","D T13",1,0
+"Echinolittorina lineolata","Q_052",0,53,"D","D T13",2,0
+"Echinolittorina lineolata","Q_053",0,54,"D","D T13",3,0
+"Echinolittorina lineolata","Q_054",0,55,"D","D T14",1,0
+"Echinolittorina lineolata","Q_055",0,56,"D","D T14",2,0
+"Echinolittorina lineolata","Q_056",0,57,"D","D T14",3,0
+"Echinolittorina lineolata","Q_057",0,58,"C","C T15",1,0
+"Echinolittorina lineolata","Q_058",0,59,"C","C T15",2,0
+"Echinolittorina lineolata","Q_059",0,60,"C","C T15",3,0
+"Echinolittorina lineolata","Q_060",1,61,"C","C T15",4,1.5625
+"Echinolittorina lineolata","Q_061",0,62,"C","C T16",1,0
+"Echinolittorina lineolata","Q_062",0,63,"C","C T16",2,0
+"Echinolittorina lineolata","Q_063",0,64,"C","C T16",3,0
+"Echinolittorina lineolata","Q_064",0,65,"C","C T16",4,0
+"Echinolittorina lineolata","Q_065",0,66,"C","C T16",5,0
+"Echinolittorina lineolata","Q_066",0,67,"C","C T17",1,0
+"Echinolittorina lineolata","Q_067",0,68,"C","C T17",2,0
+"Echinolittorina lineolata","Q_068",0,69,"C","C T17",3,0
+"Echinolittorina lineolata","Q_069",0,70,"C","C T17",4,0
+"Echinolittorina lineolata","Q_070",0,71,"G","G T18",1,0
+"Echinolittorina lineolata","Q_071",0,72,"G","G T18",2,0
+"Echinolittorina lineolata","Q_072",0,73,"G","G T19",1,0
+"Echinolittorina lineolata","Q_073",0,74,"G","G T19",2,0
+"Echinolittorina lineolata","Q_074",0,75,"G","G T20",1,0
+"Echinolittorina lineolata","Q_075",0,76,"G","G T20",2,0
+"Echinolittorina lineolata","Q_076",0,77,"G","G T20",3,0
+"Echinolittorina lineolata","Q_077",0,78,"G","G T21",1,0
+"Echinolittorina lineolata","Q_078",0,79,"G","G T21",2,0
+"Echinolittorina lineolata","Q_079",0,80,"G","G T21",3,0
+"Echinolittorina lineolata","Q_080",0.5,81,"E","E T22",1,0.78125
+"Echinolittorina lineolata","Q_081",0,82,"E","E T22",2,0
+"Echinolittorina lineolata","Q_082",0,83,"E","E T22",3,0
+"Echinolittorina lineolata","Q_083",1.5,84,"E","E T22",4,2.34375
+"Echinolittorina lineolata","Q_084",0,85,"E","E T23",1,0
+"Echinolittorina lineolata","Q_085",0,86,"E","E T23",2,0
+"Echinolittorina lineolata","Q_086",0,87,"E","E T23",3,0
+"Echinolittorina lineolata","Q_087",0,88,"E","E T23",4,0
+"Echinolittorina lineolata","Q_088",0,89,"E","E T24",1,0
+"Echinolittorina lineolata","Q_089",0,90,"E","E T24",2,0
+"Echinolittorina lineolata","Q_090",0,91,"E","E T24",3,0
+"Echinolittorina lineolata","Q_091",0,92,"E","E T25",1,0
+"Echinolittorina lineolata","Q_092",0.2,93,"E","E T25",2,0.3125
+"Echinolittorina lineolata","Q_093",0,94,"E","E T25",3,0
+"Echinolittorina lineolata","Q_094",0,95,"E","E T26",1,0
+"Echinolittorina lineolata","Q_095",0,96,"E","E T26",2,0
+"Echinolittorina lineolata","Q_096",0,97,"E","E T26",3,0
+"Echinolittorina lineolata","Q_097",0,98,"E","E T27",1,0
+"Echinolittorina lineolata","Q_098",0.2,99,"E","E T27",2,0.3125
+"Echinolittorina lineolata","Q_099",0,100,"E","E T27",3,0
+"Echinolittorina lineolata","Q_100",0,101,"E","E T27",4,0
+"Echinolittorina lineolata","Q_101",0,102,"F","F T28",1,0
+"Echinolittorina lineolata","Q_102",0,103,"F","F T28",2,0
+"Echinolittorina lineolata","Q_103",0,104,"F","F T28",3,0
+"Echinolittorina lineolata","Q_104",0,105,"F","F T29",1,0
+"Echinolittorina lineolata","Q_105",0,106,"F","F T29",2,0
+"Echinolittorina lineolata","Q_106",0,107,"F","F T29",3,0
+"Echinolittorina lineolata","Q_107",0,108,"F","F T29",4,0
+"Echinolittorina lineolata","Q_108",0,109,"F","F T29",5,0
+"Echinolittorina lineolata","Q_109",0,110,"F","F T29",6,0
+"Echinolittorina lineolata","Q_110",0,111,"F","F T29",7,0
+"Littoraria flava","Q_001",0,2,"A","A T1",1,0
+"Littoraria flava","Q_002",0,3,"A","A T1",2,0
+"Littoraria flava","Q_003",0,4,"A","A T1",3,0
+"Littoraria flava","Q_004",0,5,"A","A T1",4,0
+"Littoraria flava","Q_005",0,6,"A","A T1",5,0
+"Littoraria flava","Q_006",0,7,"A","A T2",1,0
+"Littoraria flava","Q_007",0.1,8,"A","A T2",2,0.15625
+"Littoraria flava","Q_008",0,9,"A","A T2",3,0
+"Littoraria flava","Q_009",0,10,"A","A T2",4,0
+"Littoraria flava","Q_010",0,11,"A","A T2",5,0
+"Littoraria flava","Q_011",0,12,"A","A T3",1,0
+"Littoraria flava","Q_012",0,13,"A","A T3",2,0
+"Littoraria flava","Q_013",0,14,"A","A T3",3,0
+"Littoraria flava","Q_014",0,15,"A","A T3",4,0
+"Littoraria flava","Q_015",0,16,"A","A T3",5,0
+"Littoraria flava","Q_016",0,17,"B","B T4",1,0
+"Littoraria flava","Q_017",0,18,"B","B T4",2,0
+"Littoraria flava","Q_018",0,19,"B","B T4",3,0
+"Littoraria flava","Q_019",0,20,"B","B T4",4,0
+"Littoraria flava","Q_020",0,21,"B","B T5",1,0
+"Littoraria flava","Q_021",0,22,"B","B T5",2,0
+"Littoraria flava","Q_022",0,23,"B","B T5",3,0
+"Littoraria flava","Q_023",0,24,"B","B T5",4,0
+"Littoraria flava","Q_024",0,25,"B","B T6",1,0
+"Littoraria flava","Q_025",0,26,"B","B T6",2,0
+"Littoraria flava","Q_026",0,27,"B","B T6",3,0
+"Littoraria flava","Q_027",0,28,"B","B T6",4,0
+"Littoraria flava","Q_028",0,29,"B","B T7",1,0
+"Littoraria flava","Q_029",0,30,"B","B T7",2,0
+"Littoraria flava","Q_030",0,31,"B","B T7",3,0
+"Littoraria flava","Q_031",0,32,"B","B T7",4,0
+"Littoraria flava","Q_032",0,33,"B","B T8",1,0
+"Littoraria flava","Q_033",0,34,"B","B T8",2,0
+"Littoraria flava","Q_034",0,35,"B","B T8",3,0
+"Littoraria flava","Q_035",0,36,"B","B T8",4,0
+"Littoraria flava","Q_036",0,37,"B","B T9",1,0
+"Littoraria flava","Q_037",0,38,"B","B T9",2,0
+"Littoraria flava","Q_038",0,39,"B","B T9",3,0
+"Littoraria flava","Q_039",0,40,"B","B T9",4,0
+"Littoraria flava","Q_040",0,41,"D","D T10",1,0
+"Littoraria flava","Q_041",0,42,"D","D T10",2,0
+"Littoraria flava","Q_042",0,43,"D","D T10",3,0
+"Littoraria flava","Q_043",0,44,"D","D T10",4,0
+"Littoraria flava","Q_044",0,45,"D","D T11",1,0
+"Littoraria flava","Q_045",0,46,"D","D T11",2,0
+"Littoraria flava","Q_046",0.5,47,"D","D T11",3,0.78125
+"Littoraria flava","Q_047",1,48,"D","D T11",4,1.5625
+"Littoraria flava","Q_048",0,49,"D","D T12",1,0
+"Littoraria flava","Q_049",0,50,"D","D T12",2,0
+"Littoraria flava","Q_050",1,51,"D","D T12",3,1.5625
+"Littoraria flava","Q_051",0,52,"D","D T13",1,0
+"Littoraria flava","Q_052",0,53,"D","D T13",2,0
+"Littoraria flava","Q_053",0.25,54,"D","D T13",3,0.390625
+"Littoraria flava","Q_054",0,55,"D","D T14",1,0
+"Littoraria flava","Q_055",0,56,"D","D T14",2,0
+"Littoraria flava","Q_056",0,57,"D","D T14",3,0
+"Littoraria flava","Q_057",1,58,"C","C T15",1,1.5625
+"Littoraria flava","Q_058",0,59,"C","C T15",2,0
+"Littoraria flava","Q_059",0,60,"C","C T15",3,0
+"Littoraria flava","Q_060",0,61,"C","C T15",4,0
+"Littoraria flava","Q_061",0.5,62,"C","C T16",1,0.78125
+"Littoraria flava","Q_062",0,63,"C","C T16",2,0
+"Littoraria flava","Q_063",0,64,"C","C T16",3,0
+"Littoraria flava","Q_064",2,65,"C","C T16",4,3.125
+"Littoraria flava","Q_065",0,66,"C","C T16",5,0
+"Littoraria flava","Q_066",0,67,"C","C T17",1,0
+"Littoraria flava","Q_067",0,68,"C","C T17",2,0
+"Littoraria flava","Q_068",0,69,"C","C T17",3,0
+"Littoraria flava","Q_069",0,70,"C","C T17",4,0
+"Littoraria flava","Q_070",0,71,"G","G T18",1,0
+"Littoraria flava","Q_071",0,72,"G","G T18",2,0
+"Littoraria flava","Q_072",0,73,"G","G T19",1,0
+"Littoraria flava","Q_073",0,74,"G","G T19",2,0
+"Littoraria flava","Q_074",0,75,"G","G T20",1,0
+"Littoraria flava","Q_075",0,76,"G","G T20",2,0
+"Littoraria flava","Q_076",0,77,"G","G T20",3,0
+"Littoraria flava","Q_077",0,78,"G","G T21",1,0
+"Littoraria flava","Q_078",0,79,"G","G T21",2,0
+"Littoraria flava","Q_079",0,80,"G","G T21",3,0
+"Littoraria flava","Q_080",0,81,"E","E T22",1,0
+"Littoraria flava","Q_081",0,82,"E","E T22",2,0
+"Littoraria flava","Q_082",0,83,"E","E T22",3,0
+"Littoraria flava","Q_083",0,84,"E","E T22",4,0
+"Littoraria flava","Q_084",0,85,"E","E T23",1,0
+"Littoraria flava","Q_085",0,86,"E","E T23",2,0
+"Littoraria flava","Q_086",0.5,87,"E","E T23",3,0.78125
+"Littoraria flava","Q_087",0,88,"E","E T23",4,0
+"Littoraria flava","Q_088",0,89,"E","E T24",1,0
+"Littoraria flava","Q_089",0,90,"E","E T24",2,0
+"Littoraria flava","Q_090",0,91,"E","E T24",3,0
+"Littoraria flava","Q_091",0,92,"E","E T25",1,0
+"Littoraria flava","Q_092",0,93,"E","E T25",2,0
+"Littoraria flava","Q_093",0.5,94,"E","E T25",3,0.78125
+"Littoraria flava","Q_094",0.5,95,"E","E T26",1,0.78125
+"Littoraria flava","Q_095",0,96,"E","E T26",2,0
+"Littoraria flava","Q_096",0,97,"E","E T26",3,0
+"Littoraria flava","Q_097",0,98,"E","E T27",1,0
+"Littoraria flava","Q_098",0,99,"E","E T27",2,0
+"Littoraria flava","Q_099",0,100,"E","E T27",3,0
+"Littoraria flava","Q_100",0,101,"E","E T27",4,0
+"Littoraria flava","Q_101",0,102,"F","F T28",1,0
+"Littoraria flava","Q_102",0,103,"F","F T28",2,0
+"Littoraria flava","Q_103",0,104,"F","F T28",3,0
+"Littoraria flava","Q_104",0,105,"F","F T29",1,0
+"Littoraria flava","Q_105",0,106,"F","F T29",2,0
+"Littoraria flava","Q_106",0,107,"F","F T29",3,0
+"Littoraria flava","Q_107",0,108,"F","F T29",4,0
+"Littoraria flava","Q_108",0,109,"F","F T29",5,0
+"Littoraria flava","Q_109",0,110,"F","F T29",6,0
+"Littoraria flava","Q_110",0,111,"F","F T29",7,0
+"Phragmatopoma lapidosa","Q_001",0,2,"A","A T1",1,0
+"Phragmatopoma lapidosa","Q_002",0,3,"A","A T1",2,0
+"Phragmatopoma lapidosa","Q_003",0,4,"A","A T1",3,0
+"Phragmatopoma lapidosa","Q_004",0,5,"A","A T1",4,0
+"Phragmatopoma lapidosa","Q_005",0,6,"A","A T1",5,0
+"Phragmatopoma lapidosa","Q_006",0,7,"A","A T2",1,0
+"Phragmatopoma lapidosa","Q_007",0,8,"A","A T2",2,0
+"Phragmatopoma lapidosa","Q_008",0,9,"A","A T2",3,0
+"Phragmatopoma lapidosa","Q_009",0,10,"A","A T2",4,0
+"Phragmatopoma lapidosa","Q_010",0,11,"A","A T2",5,0
+"Phragmatopoma lapidosa","Q_011",0,12,"A","A T3",1,0
+"Phragmatopoma lapidosa","Q_012",0,13,"A","A T3",2,0
+"Phragmatopoma lapidosa","Q_013",0,14,"A","A T3",3,0
+"Phragmatopoma lapidosa","Q_014",0,15,"A","A T3",4,0
+"Phragmatopoma lapidosa","Q_015",0,16,"A","A T3",5,0
+"Phragmatopoma lapidosa","Q_016",0,17,"B","B T4",1,0
+"Phragmatopoma lapidosa","Q_017",0,18,"B","B T4",2,0
+"Phragmatopoma lapidosa","Q_018",0,19,"B","B T4",3,0
+"Phragmatopoma lapidosa","Q_019",0,20,"B","B T4",4,0
+"Phragmatopoma lapidosa","Q_020",0,21,"B","B T5",1,0
+"Phragmatopoma lapidosa","Q_021",0,22,"B","B T5",2,0
+"Phragmatopoma lapidosa","Q_022",0,23,"B","B T5",3,0
+"Phragmatopoma lapidosa","Q_023",0,24,"B","B T5",4,0
+"Phragmatopoma lapidosa","Q_024",0,25,"B","B T6",1,0
+"Phragmatopoma lapidosa","Q_025",0,26,"B","B T6",2,0
+"Phragmatopoma lapidosa","Q_026",0,27,"B","B T6",3,0
+"Phragmatopoma lapidosa","Q_027",0,28,"B","B T6",4,0
+"Phragmatopoma lapidosa","Q_028",0,29,"B","B T7",1,0
+"Phragmatopoma lapidosa","Q_029",0,30,"B","B T7",2,0
+"Phragmatopoma lapidosa","Q_030",0,31,"B","B T7",3,0
+"Phragmatopoma lapidosa","Q_031",0,32,"B","B T7",4,0
+"Phragmatopoma lapidosa","Q_032",0,33,"B","B T8",1,0
+"Phragmatopoma lapidosa","Q_033",0,34,"B","B T8",2,0
+"Phragmatopoma lapidosa","Q_034",0,35,"B","B T8",3,0
+"Phragmatopoma lapidosa","Q_035",0,36,"B","B T8",4,0
+"Phragmatopoma lapidosa","Q_036",0,37,"B","B T9",1,0
+"Phragmatopoma lapidosa","Q_037",0,38,"B","B T9",2,0
+"Phragmatopoma lapidosa","Q_038",0,39,"B","B T9",3,0
+"Phragmatopoma lapidosa","Q_039",0,40,"B","B T9",4,0
+"Phragmatopoma lapidosa","Q_040",0,41,"D","D T10",1,0
+"Phragmatopoma lapidosa","Q_041",0,42,"D","D T10",2,0
+"Phragmatopoma lapidosa","Q_042",0,43,"D","D T10",3,0
+"Phragmatopoma lapidosa","Q_043",0,44,"D","D T10",4,0
+"Phragmatopoma lapidosa","Q_044",0,45,"D","D T11",1,0
+"Phragmatopoma lapidosa","Q_045",0,46,"D","D T11",2,0
+"Phragmatopoma lapidosa","Q_046",0,47,"D","D T11",3,0
+"Phragmatopoma lapidosa","Q_047",0,48,"D","D T11",4,0
+"Phragmatopoma lapidosa","Q_048",0,49,"D","D T12",1,0
+"Phragmatopoma lapidosa","Q_049",0,50,"D","D T12",2,0
+"Phragmatopoma lapidosa","Q_050",0,51,"D","D T12",3,0
+"Phragmatopoma lapidosa","Q_051",0,52,"D","D T13",1,0
+"Phragmatopoma lapidosa","Q_052",0,53,"D","D T13",2,0
+"Phragmatopoma lapidosa","Q_053",0,54,"D","D T13",3,0
+"Phragmatopoma lapidosa","Q_054",0,55,"D","D T14",1,0
+"Phragmatopoma lapidosa","Q_055",0,56,"D","D T14",2,0
+"Phragmatopoma lapidosa","Q_056",0,57,"D","D T14",3,0
+"Phragmatopoma lapidosa","Q_057",0,58,"C","C T15",1,0
+"Phragmatopoma lapidosa","Q_058",0,59,"C","C T15",2,0
+"Phragmatopoma lapidosa","Q_059",0,60,"C","C T15",3,0
+"Phragmatopoma lapidosa","Q_060",0,61,"C","C T15",4,0
+"Phragmatopoma lapidosa","Q_061",0,62,"C","C T16",1,0
+"Phragmatopoma lapidosa","Q_062",0,63,"C","C T16",2,0
+"Phragmatopoma lapidosa","Q_063",0,64,"C","C T16",3,0
+"Phragmatopoma lapidosa","Q_064",0,65,"C","C T16",4,0
+"Phragmatopoma lapidosa","Q_065",4,66,"C","C T16",5,6.25
+"Phragmatopoma lapidosa","Q_066",0,67,"C","C T17",1,0
+"Phragmatopoma lapidosa","Q_067",0,68,"C","C T17",2,0
+"Phragmatopoma lapidosa","Q_068",0,69,"C","C T17",3,0
+"Phragmatopoma lapidosa","Q_069",0,70,"C","C T17",4,0
+"Phragmatopoma lapidosa","Q_070",0,71,"G","G T18",1,0
+"Phragmatopoma lapidosa","Q_071",0,72,"G","G T18",2,0
+"Phragmatopoma lapidosa","Q_072",0,73,"G","G T19",1,0
+"Phragmatopoma lapidosa","Q_073",0,74,"G","G T19",2,0
+"Phragmatopoma lapidosa","Q_074",0,75,"G","G T20",1,0
+"Phragmatopoma lapidosa","Q_075",0,76,"G","G T20",2,0
+"Phragmatopoma lapidosa","Q_076",0,77,"G","G T20",3,0
+"Phragmatopoma lapidosa","Q_077",0,78,"G","G T21",1,0
+"Phragmatopoma lapidosa","Q_078",0,79,"G","G T21",2,0
+"Phragmatopoma lapidosa","Q_079",0,80,"G","G T21",3,0
+"Phragmatopoma lapidosa","Q_080",0,81,"E","E T22",1,0
+"Phragmatopoma lapidosa","Q_081",0,82,"E","E T22",2,0
+"Phragmatopoma lapidosa","Q_082",14,83,"E","E T22",3,21.875
+"Phragmatopoma lapidosa","Q_083",0,84,"E","E T22",4,0
+"Phragmatopoma lapidosa","Q_084",0,85,"E","E T23",1,0
+"Phragmatopoma lapidosa","Q_085",0,86,"E","E T23",2,0
+"Phragmatopoma lapidosa","Q_086",0,87,"E","E T23",3,0
+"Phragmatopoma lapidosa","Q_087",0,88,"E","E T23",4,0
+"Phragmatopoma lapidosa","Q_088",26,89,"E","E T24",1,40.625
+"Phragmatopoma lapidosa","Q_089",0,90,"E","E T24",2,0
+"Phragmatopoma lapidosa","Q_090",0,91,"E","E T24",3,0
+"Phragmatopoma lapidosa","Q_091",18,92,"E","E T25",1,28.125
+"Phragmatopoma lapidosa","Q_092",0,93,"E","E T25",2,0
+"Phragmatopoma lapidosa","Q_093",0,94,"E","E T25",3,0
+"Phragmatopoma lapidosa","Q_094",0,95,"E","E T26",1,0
+"Phragmatopoma lapidosa","Q_095",30,96,"E","E T26",2,46.875
+"Phragmatopoma lapidosa","Q_096",0,97,"E","E T26",3,0
+"Phragmatopoma lapidosa","Q_097",0,98,"E","E T27",1,0
+"Phragmatopoma lapidosa","Q_098",0,99,"E","E T27",2,0
+"Phragmatopoma lapidosa","Q_099",14,100,"E","E T27",3,21.875
+"Phragmatopoma lapidosa","Q_100",58,101,"E","E T27",4,90.625
+"Phragmatopoma lapidosa","Q_101",0,102,"F","F T28",1,0
+"Phragmatopoma lapidosa","Q_102",0,103,"F","F T28",2,0
+"Phragmatopoma lapidosa","Q_103",4,104,"F","F T28",3,6.25
+"Phragmatopoma lapidosa","Q_104",0,105,"F","F T29",1,0
+"Phragmatopoma lapidosa","Q_105",0,106,"F","F T29",2,0
+"Phragmatopoma lapidosa","Q_106",0,107,"F","F T29",3,0
+"Phragmatopoma lapidosa","Q_107",0,108,"F","F T29",4,0
+"Phragmatopoma lapidosa","Q_108",0,109,"F","F T29",5,0
+"Phragmatopoma lapidosa","Q_109",63,110,"F","F T29",6,98.4375
+"Phragmatopoma lapidosa","Q_110",0,111,"F","F T29",7,0
+"Serpulidae","Q_001",0,2,"A","A T1",1,0
+"Serpulidae","Q_002",0,3,"A","A T1",2,0
+"Serpulidae","Q_003",0,4,"A","A T1",3,0
+"Serpulidae","Q_004",0,5,"A","A T1",4,0
+"Serpulidae","Q_005",0,6,"A","A T1",5,0
+"Serpulidae","Q_006",0,7,"A","A T2",1,0
+"Serpulidae","Q_007",0,8,"A","A T2",2,0
+"Serpulidae","Q_008",0,9,"A","A T2",3,0
+"Serpulidae","Q_009",0,10,"A","A T2",4,0
+"Serpulidae","Q_010",0,11,"A","A T2",5,0
+"Serpulidae","Q_011",0,12,"A","A T3",1,0
+"Serpulidae","Q_012",0,13,"A","A T3",2,0
+"Serpulidae","Q_013",0,14,"A","A T3",3,0
+"Serpulidae","Q_014",0,15,"A","A T3",4,0
+"Serpulidae","Q_015",0,16,"A","A T3",5,0
+"Serpulidae","Q_016",0,17,"B","B T4",1,0
+"Serpulidae","Q_017",0,18,"B","B T4",2,0
+"Serpulidae","Q_018",0,19,"B","B T4",3,0
+"Serpulidae","Q_019",0,20,"B","B T4",4,0
+"Serpulidae","Q_020",0,21,"B","B T5",1,0
+"Serpulidae","Q_021",0,22,"B","B T5",2,0
+"Serpulidae","Q_022",0,23,"B","B T5",3,0
+"Serpulidae","Q_023",0,24,"B","B T5",4,0
+"Serpulidae","Q_024",0,25,"B","B T6",1,0
+"Serpulidae","Q_025",0,26,"B","B T6",2,0
+"Serpulidae","Q_026",0,27,"B","B T6",3,0
+"Serpulidae","Q_027",0,28,"B","B T6",4,0
+"Serpulidae","Q_028",0,29,"B","B T7",1,0
+"Serpulidae","Q_029",0,30,"B","B T7",2,0
+"Serpulidae","Q_030",0,31,"B","B T7",3,0
+"Serpulidae","Q_031",0,32,"B","B T7",4,0
+"Serpulidae","Q_032",0,33,"B","B T8",1,0
+"Serpulidae","Q_033",0,34,"B","B T8",2,0
+"Serpulidae","Q_034",0,35,"B","B T8",3,0
+"Serpulidae","Q_035",0,36,"B","B T8",4,0
+"Serpulidae","Q_036",0,37,"B","B T9",1,0
+"Serpulidae","Q_037",0,38,"B","B T9",2,0
+"Serpulidae","Q_038",0,39,"B","B T9",3,0
+"Serpulidae","Q_039",0,40,"B","B T9",4,0
+"Serpulidae","Q_040",0,41,"D","D T10",1,0
+"Serpulidae","Q_041",0,42,"D","D T10",2,0
+"Serpulidae","Q_042",0,43,"D","D T10",3,0
+"Serpulidae","Q_043",0,44,"D","D T10",4,0
+"Serpulidae","Q_044",0,45,"D","D T11",1,0
+"Serpulidae","Q_045",0,46,"D","D T11",2,0
+"Serpulidae","Q_046",0,47,"D","D T11",3,0
+"Serpulidae","Q_047",0,48,"D","D T11",4,0
+"Serpulidae","Q_048",0,49,"D","D T12",1,0
+"Serpulidae","Q_049",0,50,"D","D T12",2,0
+"Serpulidae","Q_050",0,51,"D","D T12",3,0
+"Serpulidae","Q_051",0,52,"D","D T13",1,0
+"Serpulidae","Q_052",0,53,"D","D T13",2,0
+"Serpulidae","Q_053",0,54,"D","D T13",3,0
+"Serpulidae","Q_054",0,55,"D","D T14",1,0
+"Serpulidae","Q_055",0,56,"D","D T14",2,0
+"Serpulidae","Q_056",0,57,"D","D T14",3,0
+"Serpulidae","Q_057",0,58,"C","C T15",1,0
+"Serpulidae","Q_058",0,59,"C","C T15",2,0
+"Serpulidae","Q_059",0,60,"C","C T15",3,0
+"Serpulidae","Q_060",0,61,"C","C T15",4,0
+"Serpulidae","Q_061",0,62,"C","C T16",1,0
+"Serpulidae","Q_062",0,63,"C","C T16",2,0
+"Serpulidae","Q_063",0,64,"C","C T16",3,0
+"Serpulidae","Q_064",0,65,"C","C T16",4,0
+"Serpulidae","Q_065",0,66,"C","C T16",5,0
+"Serpulidae","Q_066",0,67,"C","C T17",1,0
+"Serpulidae","Q_067",0,68,"C","C T17",2,0
+"Serpulidae","Q_068",0,69,"C","C T17",3,0
+"Serpulidae","Q_069",40,70,"C","C T17",4,62.5
+"Serpulidae","Q_070",0,71,"G","G T18",1,0
+"Serpulidae","Q_071",0,72,"G","G T18",2,0
+"Serpulidae","Q_072",0,73,"G","G T19",1,0
+"Serpulidae","Q_073",0,74,"G","G T19",2,0
+"Serpulidae","Q_074",0,75,"G","G T20",1,0
+"Serpulidae","Q_075",0,76,"G","G T20",2,0
+"Serpulidae","Q_076",0,77,"G","G T20",3,0
+"Serpulidae","Q_077",0,78,"G","G T21",1,0
+"Serpulidae","Q_078",0,79,"G","G T21",2,0
+"Serpulidae","Q_079",0,80,"G","G T21",3,0
+"Serpulidae","Q_080",0,81,"E","E T22",1,0
+"Serpulidae","Q_081",0,82,"E","E T22",2,0
+"Serpulidae","Q_082",0,83,"E","E T22",3,0
+"Serpulidae","Q_083",0,84,"E","E T22",4,0
+"Serpulidae","Q_084",0,85,"E","E T23",1,0
+"Serpulidae","Q_085",0,86,"E","E T23",2,0
+"Serpulidae","Q_086",0,87,"E","E T23",3,0
+"Serpulidae","Q_087",0,88,"E","E T23",4,0
+"Serpulidae","Q_088",0,89,"E","E T24",1,0
+"Serpulidae","Q_089",0,90,"E","E T24",2,0
+"Serpulidae","Q_090",0,91,"E","E T24",3,0
+"Serpulidae","Q_091",0,92,"E","E T25",1,0
+"Serpulidae","Q_092",0,93,"E","E T25",2,0
+"Serpulidae","Q_093",5,94,"E","E T25",3,7.8125
+"Serpulidae","Q_094",0,95,"E","E T26",1,0
+"Serpulidae","Q_095",0,96,"E","E T26",2,0
+"Serpulidae","Q_096",0,97,"E","E T26",3,0
+"Serpulidae","Q_097",0,98,"E","E T27",1,0
+"Serpulidae","Q_098",0,99,"E","E T27",2,0
+"Serpulidae","Q_099",0,100,"E","E T27",3,0
+"Serpulidae","Q_100",0,101,"E","E T27",4,0
+"Serpulidae","Q_101",0,102,"F","F T28",1,0
+"Serpulidae","Q_102",0,103,"F","F T28",2,0
+"Serpulidae","Q_103",0,104,"F","F T28",3,0
+"Serpulidae","Q_104",0,105,"F","F T29",1,0
+"Serpulidae","Q_105",0,106,"F","F T29",2,0
+"Serpulidae","Q_106",0,107,"F","F T29",3,0
+"Serpulidae","Q_107",0,108,"F","F T29",4,0
+"Serpulidae","Q_108",0,109,"F","F T29",5,0
+"Serpulidae","Q_109",0,110,"F","F T29",6,0
+"Serpulidae","Q_110",0,111,"F","F T29",7,0
+"Chthamalus bisinuatus","Q_001",22,2,"A","A T1",1,34.375
+"Chthamalus bisinuatus","Q_002",10,3,"A","A T1",2,15.625
+"Chthamalus bisinuatus","Q_003",0,4,"A","A T1",3,0
+"Chthamalus bisinuatus","Q_004",0,5,"A","A T1",4,0
+"Chthamalus bisinuatus","Q_005",0,6,"A","A T1",5,0
+"Chthamalus bisinuatus","Q_006",20,7,"A","A T2",1,31.25
+"Chthamalus bisinuatus","Q_007",0.1,8,"A","A T2",2,0.15625
+"Chthamalus bisinuatus","Q_008",0,9,"A","A T2",3,0
+"Chthamalus bisinuatus","Q_009",0.1,10,"A","A T2",4,0.15625
+"Chthamalus bisinuatus","Q_010",0,11,"A","A T2",5,0
+"Chthamalus bisinuatus","Q_011",30,12,"A","A T3",1,46.875
+"Chthamalus bisinuatus","Q_012",0.1,13,"A","A T3",2,0.15625
+"Chthamalus bisinuatus","Q_013",0,14,"A","A T3",3,0
+"Chthamalus bisinuatus","Q_014",0,15,"A","A T3",4,0
+"Chthamalus bisinuatus","Q_015",0,16,"A","A T3",5,0
+"Chthamalus bisinuatus","Q_016",19.2,17,"B","B T4",1,30
+"Chthamalus bisinuatus","Q_017",0,18,"B","B T4",2,0
+"Chthamalus bisinuatus","Q_018",0,19,"B","B T4",3,0
+"Chthamalus bisinuatus","Q_019",0,20,"B","B T4",4,0
+"Chthamalus bisinuatus","Q_020",0,21,"B","B T5",1,0
+"Chthamalus bisinuatus","Q_021",0,22,"B","B T5",2,0
+"Chthamalus bisinuatus","Q_022",0,23,"B","B T5",3,0
+"Chthamalus bisinuatus","Q_023",0,24,"B","B T5",4,0
+"Chthamalus bisinuatus","Q_024",3.2,25,"B","B T6",1,5
+"Chthamalus bisinuatus","Q_025",3.2,26,"B","B T6",2,5
+"Chthamalus bisinuatus","Q_026",0.5,27,"B","B T6",3,0.78125
+"Chthamalus bisinuatus","Q_027",0,28,"B","B T6",4,0
+"Chthamalus bisinuatus","Q_028",6.4,29,"B","B T7",1,10
+"Chthamalus bisinuatus","Q_029",1.5625,30,"B","B T7",2,2.44140625
+"Chthamalus bisinuatus","Q_030",0,31,"B","B T7",3,0
+"Chthamalus bisinuatus","Q_031",0,32,"B","B T7",4,0
+"Chthamalus bisinuatus","Q_032",28.8,33,"B","B T8",1,45
+"Chthamalus bisinuatus","Q_033",9.6,34,"B","B T8",2,15
+"Chthamalus bisinuatus","Q_034",0.5,35,"B","B T8",3,0.78125
+"Chthamalus bisinuatus","Q_035",0.5,36,"B","B T8",4,0.78125
+"Chthamalus bisinuatus","Q_036",19.2,37,"B","B T9",1,30
+"Chthamalus bisinuatus","Q_037",2.56,38,"B","B T9",2,4
+"Chthamalus bisinuatus","Q_038",1,39,"B","B T9",3,1.5625
+"Chthamalus bisinuatus","Q_039",0.5,40,"B","B T9",4,0.78125
+"Chthamalus bisinuatus","Q_040",37,41,"D","D T10",1,57.8125
+"Chthamalus bisinuatus","Q_041",5,42,"D","D T10",2,7.8125
+"Chthamalus bisinuatus","Q_042",0,43,"D","D T10",3,0
+"Chthamalus bisinuatus","Q_043",0,44,"D","D T10",4,0
+"Chthamalus bisinuatus","Q_044",28.5,45,"D","D T11",1,44.53125
+"Chthamalus bisinuatus","Q_045",0,46,"D","D T11",2,0
+"Chthamalus bisinuatus","Q_046",0,47,"D","D T11",3,0
+"Chthamalus bisinuatus","Q_047",0,48,"D","D T11",4,0
+"Chthamalus bisinuatus","Q_048",54.5,49,"D","D T12",1,85.15625
+"Chthamalus bisinuatus","Q_049",0.5,50,"D","D T12",2,0.78125
+"Chthamalus bisinuatus","Q_050",0,51,"D","D T12",3,0
+"Chthamalus bisinuatus","Q_051",53,52,"D","D T13",1,82.8125
+"Chthamalus bisinuatus","Q_052",0,53,"D","D T13",2,0
+"Chthamalus bisinuatus","Q_053",0,54,"D","D T13",3,0
+"Chthamalus bisinuatus","Q_054",56,55,"D","D T14",1,87.5
+"Chthamalus bisinuatus","Q_055",0,56,"D","D T14",2,0
+"Chthamalus bisinuatus","Q_056",0,57,"D","D T14",3,0
+"Chthamalus bisinuatus","Q_057",10,58,"C","C T15",1,15.625
+"Chthamalus bisinuatus","Q_058",15,59,"C","C T15",2,23.4375
+"Chthamalus bisinuatus","Q_059",4,60,"C","C T15",3,6.25
+"Chthamalus bisinuatus","Q_060",10,61,"C","C T15",4,15.625
+"Chthamalus bisinuatus","Q_061",0,62,"C","C T16",1,0
+"Chthamalus bisinuatus","Q_062",43,63,"C","C T16",2,67.1875
+"Chthamalus bisinuatus","Q_063",5,64,"C","C T16",3,7.8125
+"Chthamalus bisinuatus","Q_064",8,65,"C","C T16",4,12.5
+"Chthamalus bisinuatus","Q_065",9,66,"C","C T16",5,14.0625
+"Chthamalus bisinuatus","Q_066",50,67,"C","C T17",1,78.125
+"Chthamalus bisinuatus","Q_067",18,68,"C","C T17",2,28.125
+"Chthamalus bisinuatus","Q_068",19,69,"C","C T17",3,29.6875
+"Chthamalus bisinuatus","Q_069",0,70,"C","C T17",4,0
+"Chthamalus bisinuatus","Q_070",2,71,"G","G T18",1,3.125
+"Chthamalus bisinuatus","Q_071",0,72,"G","G T18",2,0
+"Chthamalus bisinuatus","Q_072",2,73,"G","G T19",1,3.125
+"Chthamalus bisinuatus","Q_073",0,74,"G","G T19",2,0
+"Chthamalus bisinuatus","Q_074",2,75,"G","G T20",1,3.125
+"Chthamalus bisinuatus","Q_075",0,76,"G","G T20",2,0
+"Chthamalus bisinuatus","Q_076",0,77,"G","G T20",3,0
+"Chthamalus bisinuatus","Q_077",1,78,"G","G T21",1,1.5625
+"Chthamalus bisinuatus","Q_078",0,79,"G","G T21",2,0
+"Chthamalus bisinuatus","Q_079",0,80,"G","G T21",3,0
+"Chthamalus bisinuatus","Q_080",10,81,"E","E T22",1,15.625
+"Chthamalus bisinuatus","Q_081",2,82,"E","E T22",2,3.125
+"Chthamalus bisinuatus","Q_082",0,83,"E","E T22",3,0
+"Chthamalus bisinuatus","Q_083",11,84,"E","E T22",4,17.1875
+"Chthamalus bisinuatus","Q_084",0.5,85,"E","E T23",1,0.78125
+"Chthamalus bisinuatus","Q_085",0.25,86,"E","E T23",2,0.390625
+"Chthamalus bisinuatus","Q_086",1,87,"E","E T23",3,1.5625
+"Chthamalus bisinuatus","Q_087",0,88,"E","E T23",4,0
+"Chthamalus bisinuatus","Q_088",0,89,"E","E T24",1,0
+"Chthamalus bisinuatus","Q_089",20,90,"E","E T24",2,31.25
+"Chthamalus bisinuatus","Q_090",0.5,91,"E","E T24",3,0.78125
+"Chthamalus bisinuatus","Q_091",0,92,"E","E T25",1,0
+"Chthamalus bisinuatus","Q_092",31,93,"E","E T25",2,48.4375
+"Chthamalus bisinuatus","Q_093",0,94,"E","E T25",3,0
+"Chthamalus bisinuatus","Q_094",1,95,"E","E T26",1,1.5625
+"Chthamalus bisinuatus","Q_095",2,96,"E","E T26",2,3.125
+"Chthamalus bisinuatus","Q_096",35,97,"E","E T26",3,54.6875
+"Chthamalus bisinuatus","Q_097",5,98,"E","E T27",1,7.8125
+"Chthamalus bisinuatus","Q_098",7,99,"E","E T27",2,10.9375
+"Chthamalus bisinuatus","Q_099",0,100,"E","E T27",3,0
+"Chthamalus bisinuatus","Q_100",0,101,"E","E T27",4,0
+"Chthamalus bisinuatus","Q_101",0,102,"F","F T28",1,0
+"Chthamalus bisinuatus","Q_102",0,103,"F","F T28",2,0
+"Chthamalus bisinuatus","Q_103",0,104,"F","F T28",3,0
+"Chthamalus bisinuatus","Q_104",22,105,"F","F T29",1,34.375
+"Chthamalus bisinuatus","Q_105",2,106,"F","F T29",2,3.125
+"Chthamalus bisinuatus","Q_106",0,107,"F","F T29",3,0
+"Chthamalus bisinuatus","Q_107",29,108,"F","F T29",4,45.3125
+"Chthamalus bisinuatus","Q_108",0,109,"F","F T29",5,0
+"Chthamalus bisinuatus","Q_109",16,110,"F","F T29",6,25
+"Chthamalus bisinuatus","Q_110",0,111,"F","F T29",7,0
+"Tetraclita stalactifera","Q_001",13,2,"A","A T1",1,20.3125
+"Tetraclita stalactifera","Q_002",0,3,"A","A T1",2,0
+"Tetraclita stalactifera","Q_003",0,4,"A","A T1",3,0
+"Tetraclita stalactifera","Q_004",0,5,"A","A T1",4,0
+"Tetraclita stalactifera","Q_005",0,6,"A","A T1",5,0
+"Tetraclita stalactifera","Q_006",0.1,7,"A","A T2",1,0.15625
+"Tetraclita stalactifera","Q_007",0,8,"A","A T2",2,0
+"Tetraclita stalactifera","Q_008",0,9,"A","A T2",3,0
+"Tetraclita stalactifera","Q_009",0,10,"A","A T2",4,0
+"Tetraclita stalactifera","Q_010",0,11,"A","A T2",5,0
+"Tetraclita stalactifera","Q_011",4,12,"A","A T3",1,6.25
+"Tetraclita stalactifera","Q_012",0,13,"A","A T3",2,0
+"Tetraclita stalactifera","Q_013",0,14,"A","A T3",3,0
+"Tetraclita stalactifera","Q_014",0,15,"A","A T3",4,0
+"Tetraclita stalactifera","Q_015",0,16,"A","A T3",5,0
+"Tetraclita stalactifera","Q_016",0,17,"B","B T4",1,0
+"Tetraclita stalactifera","Q_017",0,18,"B","B T4",2,0
+"Tetraclita stalactifera","Q_018",0,19,"B","B T4",3,0
+"Tetraclita stalactifera","Q_019",0,20,"B","B T4",4,0
+"Tetraclita stalactifera","Q_020",0,21,"B","B T5",1,0
+"Tetraclita stalactifera","Q_021",0,22,"B","B T5",2,0
+"Tetraclita stalactifera","Q_022",0,23,"B","B T5",3,0
+"Tetraclita stalactifera","Q_023",0,24,"B","B T5",4,0
+"Tetraclita stalactifera","Q_024",0,25,"B","B T6",1,0
+"Tetraclita stalactifera","Q_025",0,26,"B","B T6",2,0
+"Tetraclita stalactifera","Q_026",0,27,"B","B T6",3,0
+"Tetraclita stalactifera","Q_027",0,28,"B","B T6",4,0
+"Tetraclita stalactifera","Q_028",0,29,"B","B T7",1,0
+"Tetraclita stalactifera","Q_029",0,30,"B","B T7",2,0
+"Tetraclita stalactifera","Q_030",0,31,"B","B T7",3,0
+"Tetraclita stalactifera","Q_031",0,32,"B","B T7",4,0
+"Tetraclita stalactifera","Q_032",0,33,"B","B T8",1,0
+"Tetraclita stalactifera","Q_033",0,34,"B","B T8",2,0
+"Tetraclita stalactifera","Q_034",0,35,"B","B T8",3,0
+"Tetraclita stalactifera","Q_035",0,36,"B","B T8",4,0
+"Tetraclita stalactifera","Q_036",0,37,"B","B T9",1,0
+"Tetraclita stalactifera","Q_037",0,38,"B","B T9",2,0
+"Tetraclita stalactifera","Q_038",0,39,"B","B T9",3,0
+"Tetraclita stalactifera","Q_039",0,40,"B","B T9",4,0
+"Tetraclita stalactifera","Q_040",0,41,"D","D T10",1,0
+"Tetraclita stalactifera","Q_041",0,42,"D","D T10",2,0
+"Tetraclita stalactifera","Q_042",0.5,43,"D","D T10",3,0.78125
+"Tetraclita stalactifera","Q_043",0,44,"D","D T10",4,0
+"Tetraclita stalactifera","Q_044",0,45,"D","D T11",1,0
+"Tetraclita stalactifera","Q_045",0,46,"D","D T11",2,0
+"Tetraclita stalactifera","Q_046",0,47,"D","D T11",3,0
+"Tetraclita stalactifera","Q_047",0,48,"D","D T11",4,0
+"Tetraclita stalactifera","Q_048",0,49,"D","D T12",1,0
+"Tetraclita stalactifera","Q_049",0,50,"D","D T12",2,0
+"Tetraclita stalactifera","Q_050",0,51,"D","D T12",3,0
+"Tetraclita stalactifera","Q_051",0,52,"D","D T13",1,0
+"Tetraclita stalactifera","Q_052",0,53,"D","D T13",2,0
+"Tetraclita stalactifera","Q_053",3,54,"D","D T13",3,4.6875
+"Tetraclita stalactifera","Q_054",0,55,"D","D T14",1,0
+"Tetraclita stalactifera","Q_055",0,56,"D","D T14",2,0
+"Tetraclita stalactifera","Q_056",0,57,"D","D T14",3,0
+"Tetraclita stalactifera","Q_057",0,58,"C","C T15",1,0
+"Tetraclita stalactifera","Q_058",0,59,"C","C T15",2,0
+"Tetraclita stalactifera","Q_059",3,60,"C","C T15",3,4.6875
+"Tetraclita stalactifera","Q_060",2,61,"C","C T15",4,3.125
+"Tetraclita stalactifera","Q_061",0,62,"C","C T16",1,0
+"Tetraclita stalactifera","Q_062",0,63,"C","C T16",2,0
+"Tetraclita stalactifera","Q_063",3,64,"C","C T16",3,4.6875
+"Tetraclita stalactifera","Q_064",0,65,"C","C T16",4,0
+"Tetraclita stalactifera","Q_065",0,66,"C","C T16",5,0
+"Tetraclita stalactifera","Q_066",0,67,"C","C T17",1,0
+"Tetraclita stalactifera","Q_067",5,68,"C","C T17",2,7.8125
+"Tetraclita stalactifera","Q_068",3,69,"C","C T17",3,4.6875
+"Tetraclita stalactifera","Q_069",1,70,"C","C T17",4,1.5625
+"Tetraclita stalactifera","Q_070",0,71,"G","G T18",1,0
+"Tetraclita stalactifera","Q_071",14,72,"G","G T18",2,21.875
+"Tetraclita stalactifera","Q_072",4,73,"G","G T19",1,6.25
+"Tetraclita stalactifera","Q_073",4,74,"G","G T19",2,6.25
+"Tetraclita stalactifera","Q_074",5,75,"G","G T20",1,7.8125
+"Tetraclita stalactifera","Q_075",9,76,"G","G T20",2,14.0625
+"Tetraclita stalactifera","Q_076",1,77,"G","G T20",3,1.5625
+"Tetraclita stalactifera","Q_077",0,78,"G","G T21",1,0
+"Tetraclita stalactifera","Q_078",0,79,"G","G T21",2,0
+"Tetraclita stalactifera","Q_079",0,80,"G","G T21",3,0
+"Tetraclita stalactifera","Q_080",3,81,"E","E T22",1,4.6875
+"Tetraclita stalactifera","Q_081",0.2,82,"E","E T22",2,0.3125
+"Tetraclita stalactifera","Q_082",0,83,"E","E T22",3,0
+"Tetraclita stalactifera","Q_083",2,84,"E","E T22",4,3.125
+"Tetraclita stalactifera","Q_084",1,85,"E","E T23",1,1.5625
+"Tetraclita stalactifera","Q_085",0.25,86,"E","E T23",2,0.390625
+"Tetraclita stalactifera","Q_086",0,87,"E","E T23",3,0
+"Tetraclita stalactifera","Q_087",0.5,88,"E","E T23",4,0.78125
+"Tetraclita stalactifera","Q_088",0.5,89,"E","E T24",1,0.78125
+"Tetraclita stalactifera","Q_089",0,90,"E","E T24",2,0
+"Tetraclita stalactifera","Q_090",0,91,"E","E T24",3,0
+"Tetraclita stalactifera","Q_091",2.5,92,"E","E T25",1,3.90625
+"Tetraclita stalactifera","Q_092",0,93,"E","E T25",2,0
+"Tetraclita stalactifera","Q_093",0,94,"E","E T25",3,0
+"Tetraclita stalactifera","Q_094",0,95,"E","E T26",1,0
+"Tetraclita stalactifera","Q_095",0,96,"E","E T26",2,0
+"Tetraclita stalactifera","Q_096",0,97,"E","E T26",3,0
+"Tetraclita stalactifera","Q_097",0.5,98,"E","E T27",1,0.78125
+"Tetraclita stalactifera","Q_098",6,99,"E","E T27",2,9.375
+"Tetraclita stalactifera","Q_099",0.6,100,"E","E T27",3,0.9375
+"Tetraclita stalactifera","Q_100",0,101,"E","E T27",4,0
+"Tetraclita stalactifera","Q_101",1,102,"F","F T28",1,1.5625
+"Tetraclita stalactifera","Q_102",2,103,"F","F T28",2,3.125
+"Tetraclita stalactifera","Q_103",0,104,"F","F T28",3,0
+"Tetraclita stalactifera","Q_104",1,105,"F","F T29",1,1.5625
+"Tetraclita stalactifera","Q_105",0,106,"F","F T29",2,0
+"Tetraclita stalactifera","Q_106",0,107,"F","F T29",3,0
+"Tetraclita stalactifera","Q_107",0,108,"F","F T29",4,0
+"Tetraclita stalactifera","Q_108",13,109,"F","F T29",5,20.3125
+"Tetraclita stalactifera","Q_109",9,110,"F","F T29",6,14.0625
+"Tetraclita stalactifera","Q_110",3,111,"F","F T29",7,4.6875
+"Lottia subrugosa","Q_001",0,2,"A","A T1",1,0
+"Lottia subrugosa","Q_002",0.1,3,"A","A T1",2,0.15625
+"Lottia subrugosa","Q_003",0.4,4,"A","A T1",3,0.625
+"Lottia subrugosa","Q_004",0.2,5,"A","A T1",4,0.3125
+"Lottia subrugosa","Q_005",0,6,"A","A T1",5,0
+"Lottia subrugosa","Q_006",0.1,7,"A","A T2",1,0.15625
+"Lottia subrugosa","Q_007",0.4,8,"A","A T2",2,0.625
+"Lottia subrugosa","Q_008",0.6,9,"A","A T2",3,0.9375
+"Lottia subrugosa","Q_009",0.2,10,"A","A T2",4,0.3125
+"Lottia subrugosa","Q_010",0.2,11,"A","A T2",5,0.3125
+"Lottia subrugosa","Q_011",0,12,"A","A T3",1,0
+"Lottia subrugosa","Q_012",1.5,13,"A","A T3",2,2.34375
+"Lottia subrugosa","Q_013",1.5,14,"A","A T3",3,2.34375
+"Lottia subrugosa","Q_014",0.5,15,"A","A T3",4,0.78125
+"Lottia subrugosa","Q_015",0,16,"A","A T3",5,0
+"Lottia subrugosa","Q_016",0,17,"B","B T4",1,0
+"Lottia subrugosa","Q_017",2,18,"B","B T4",2,3.125
+"Lottia subrugosa","Q_018",0.25,19,"B","B T4",3,0.390625
+"Lottia subrugosa","Q_019",0.25,20,"B","B T4",4,0.390625
+"Lottia subrugosa","Q_020",0,21,"B","B T5",1,0
+"Lottia subrugosa","Q_021",0.17,22,"B","B T5",2,0.265625
+"Lottia subrugosa","Q_022",0,23,"B","B T5",3,0
+"Lottia subrugosa","Q_023",0,24,"B","B T5",4,0
+"Lottia subrugosa","Q_024",0,25,"B","B T6",1,0
+"Lottia subrugosa","Q_025",0,26,"B","B T6",2,0
+"Lottia subrugosa","Q_026",0,27,"B","B T6",3,0
+"Lottia subrugosa","Q_027",0,28,"B","B T6",4,0
+"Lottia subrugosa","Q_028",0,29,"B","B T7",1,0
+"Lottia subrugosa","Q_029",0,30,"B","B T7",2,0
+"Lottia subrugosa","Q_030",0,31,"B","B T7",3,0
+"Lottia subrugosa","Q_031",0,32,"B","B T7",4,0
+"Lottia subrugosa","Q_032",1,33,"B","B T8",1,1.5625
+"Lottia subrugosa","Q_033",0,34,"B","B T8",2,0
+"Lottia subrugosa","Q_034",0,35,"B","B T8",3,0
+"Lottia subrugosa","Q_035",1,36,"B","B T8",4,1.5625
+"Lottia subrugosa","Q_036",0,37,"B","B T9",1,0
+"Lottia subrugosa","Q_037",2,38,"B","B T9",2,3.125
+"Lottia subrugosa","Q_038",0.25,39,"B","B T9",3,0.390625
+"Lottia subrugosa","Q_039",0.25,40,"B","B T9",4,0.390625
+"Lottia subrugosa","Q_040",0,41,"D","D T10",1,0
+"Lottia subrugosa","Q_041",0,42,"D","D T10",2,0
+"Lottia subrugosa","Q_042",0,43,"D","D T10",3,0
+"Lottia subrugosa","Q_043",0,44,"D","D T10",4,0
+"Lottia subrugosa","Q_044",0,45,"D","D T11",1,0
+"Lottia subrugosa","Q_045",0,46,"D","D T11",2,0
+"Lottia subrugosa","Q_046",0,47,"D","D T11",3,0
+"Lottia subrugosa","Q_047",0,48,"D","D T11",4,0
+"Lottia subrugosa","Q_048",0,49,"D","D T12",1,0
+"Lottia subrugosa","Q_049",0,50,"D","D T12",2,0
+"Lottia subrugosa","Q_050",0,51,"D","D T12",3,0
+"Lottia subrugosa","Q_051",0,52,"D","D T13",1,0
+"Lottia subrugosa","Q_052",0,53,"D","D T13",2,0
+"Lottia subrugosa","Q_053",0,54,"D","D T13",3,0
+"Lottia subrugosa","Q_054",0.1,55,"D","D T14",1,0.15625
+"Lottia subrugosa","Q_055",0,56,"D","D T14",2,0
+"Lottia subrugosa","Q_056",0,57,"D","D T14",3,0
+"Lottia subrugosa","Q_057",0,58,"C","C T15",1,0
+"Lottia subrugosa","Q_058",0,59,"C","C T15",2,0
+"Lottia subrugosa","Q_059",4,60,"C","C T15",3,6.25
+"Lottia subrugosa","Q_060",0,61,"C","C T15",4,0
+"Lottia subrugosa","Q_061",0,62,"C","C T16",1,0
+"Lottia subrugosa","Q_062",0,63,"C","C T16",2,0
+"Lottia subrugosa","Q_063",2,64,"C","C T16",3,3.125
+"Lottia subrugosa","Q_064",2,65,"C","C T16",4,3.125
+"Lottia subrugosa","Q_065",0,66,"C","C T16",5,0
+"Lottia subrugosa","Q_066",0,67,"C","C T17",1,0
+"Lottia subrugosa","Q_067",0,68,"C","C T17",2,0
+"Lottia subrugosa","Q_068",0,69,"C","C T17",3,0
+"Lottia subrugosa","Q_069",4,70,"C","C T17",4,6.25
+"Lottia subrugosa","Q_070",1,71,"G","G T18",1,1.5625
+"Lottia subrugosa","Q_071",2,72,"G","G T18",2,3.125
+"Lottia subrugosa","Q_072",2,73,"G","G T19",1,3.125
+"Lottia subrugosa","Q_073",0,74,"G","G T19",2,0
+"Lottia subrugosa","Q_074",4,75,"G","G T20",1,6.25
+"Lottia subrugosa","Q_075",0.5,76,"G","G T20",2,0.78125
+"Lottia subrugosa","Q_076",0.5,77,"G","G T20",3,0.78125
+"Lottia subrugosa","Q_077",0.25,78,"G","G T21",1,0.390625
+"Lottia subrugosa","Q_078",1,79,"G","G T21",2,1.5625
+"Lottia subrugosa","Q_079",5,80,"G","G T21",3,7.8125
+"Lottia subrugosa","Q_080",0.5,81,"E","E T22",1,0.78125
+"Lottia subrugosa","Q_081",0.1,82,"E","E T22",2,0.15625
+"Lottia subrugosa","Q_082",0,83,"E","E T22",3,0
+"Lottia subrugosa","Q_083",0,84,"E","E T22",4,0
+"Lottia subrugosa","Q_084",0,85,"E","E T23",1,0
+"Lottia subrugosa","Q_085",0,86,"E","E T23",2,0
+"Lottia subrugosa","Q_086",0,87,"E","E T23",3,0
+"Lottia subrugosa","Q_087",0,88,"E","E T23",4,0
+"Lottia subrugosa","Q_088",0.5,89,"E","E T24",1,0.78125
+"Lottia subrugosa","Q_089",1.5,90,"E","E T24",2,2.34375
+"Lottia subrugosa","Q_090",0.5,91,"E","E T24",3,0.78125
+"Lottia subrugosa","Q_091",0,92,"E","E T25",1,0
+"Lottia subrugosa","Q_092",0,93,"E","E T25",2,0
+"Lottia subrugosa","Q_093",2,94,"E","E T25",3,3.125
+"Lottia subrugosa","Q_094",0.5,95,"E","E T26",1,0.78125
+"Lottia subrugosa","Q_095",0,96,"E","E T26",2,0
+"Lottia subrugosa","Q_096",0,97,"E","E T26",3,0
+"Lottia subrugosa","Q_097",4,98,"E","E T27",1,6.25
+"Lottia subrugosa","Q_098",0,99,"E","E T27",2,0
+"Lottia subrugosa","Q_099",0,100,"E","E T27",3,0
+"Lottia subrugosa","Q_100",0,101,"E","E T27",4,0
+"Lottia subrugosa","Q_101",8,102,"F","F T28",1,12.5
+"Lottia subrugosa","Q_102",0,103,"F","F T28",2,0
+"Lottia subrugosa","Q_103",0,104,"F","F T28",3,0
+"Lottia subrugosa","Q_104",4,105,"F","F T29",1,6.25
+"Lottia subrugosa","Q_105",0,106,"F","F T29",2,0
+"Lottia subrugosa","Q_106",4,107,"F","F T29",3,6.25
+"Lottia subrugosa","Q_107",1,108,"F","F T29",4,1.5625
+"Lottia subrugosa","Q_108",15,109,"F","F T29",5,23.4375
+"Lottia subrugosa","Q_109",0,110,"F","F T29",6,0
+"Lottia subrugosa","Q_110",0,111,"F","F T29",7,0
+"Gelidiella acerosa","Q_001",0,2,"A","A T1",1,0
+"Gelidiella acerosa","Q_002",0,3,"A","A T1",2,0
+"Gelidiella acerosa","Q_003",0,4,"A","A T1",3,0
+"Gelidiella acerosa","Q_004",0,5,"A","A T1",4,0
+"Gelidiella acerosa","Q_005",0,6,"A","A T1",5,0
+"Gelidiella acerosa","Q_006",0,7,"A","A T2",1,0
+"Gelidiella acerosa","Q_007",0,8,"A","A T2",2,0
+"Gelidiella acerosa","Q_008",0,9,"A","A T2",3,0
+"Gelidiella acerosa","Q_009",0,10,"A","A T2",4,0
+"Gelidiella acerosa","Q_010",0,11,"A","A T2",5,0
+"Gelidiella acerosa","Q_011",0,12,"A","A T3",1,0
+"Gelidiella acerosa","Q_012",0,13,"A","A T3",2,0
+"Gelidiella acerosa","Q_013",0,14,"A","A T3",3,0
+"Gelidiella acerosa","Q_014",0,15,"A","A T3",4,0
+"Gelidiella acerosa","Q_015",0,16,"A","A T3",5,0
+"Gelidiella acerosa","Q_016",0,17,"B","B T4",1,0
+"Gelidiella acerosa","Q_017",0,18,"B","B T4",2,0
+"Gelidiella acerosa","Q_018",0,19,"B","B T4",3,0
+"Gelidiella acerosa","Q_019",0,20,"B","B T4",4,0
+"Gelidiella acerosa","Q_020",0,21,"B","B T5",1,0
+"Gelidiella acerosa","Q_021",0,22,"B","B T5",2,0
+"Gelidiella acerosa","Q_022",0,23,"B","B T5",3,0
+"Gelidiella acerosa","Q_023",0,24,"B","B T5",4,0
+"Gelidiella acerosa","Q_024",0,25,"B","B T6",1,0
+"Gelidiella acerosa","Q_025",0,26,"B","B T6",2,0
+"Gelidiella acerosa","Q_026",0,27,"B","B T6",3,0
+"Gelidiella acerosa","Q_027",0,28,"B","B T6",4,0
+"Gelidiella acerosa","Q_028",0,29,"B","B T7",1,0
+"Gelidiella acerosa","Q_029",0,30,"B","B T7",2,0
+"Gelidiella acerosa","Q_030",0,31,"B","B T7",3,0
+"Gelidiella acerosa","Q_031",0,32,"B","B T7",4,0
+"Gelidiella acerosa","Q_032",0,33,"B","B T8",1,0
+"Gelidiella acerosa","Q_033",0,34,"B","B T8",2,0
+"Gelidiella acerosa","Q_034",0,35,"B","B T8",3,0
+"Gelidiella acerosa","Q_035",2.56,36,"B","B T8",4,4
+"Gelidiella acerosa","Q_036",0,37,"B","B T9",1,0
+"Gelidiella acerosa","Q_037",0,38,"B","B T9",2,0
+"Gelidiella acerosa","Q_038",0,39,"B","B T9",3,0
+"Gelidiella acerosa","Q_039",0,40,"B","B T9",4,0
+"Gelidiella acerosa","Q_040",0,41,"D","D T10",1,0
+"Gelidiella acerosa","Q_041",0,42,"D","D T10",2,0
+"Gelidiella acerosa","Q_042",0,43,"D","D T10",3,0
+"Gelidiella acerosa","Q_043",0,44,"D","D T10",4,0
+"Gelidiella acerosa","Q_044",0,45,"D","D T11",1,0
+"Gelidiella acerosa","Q_045",0,46,"D","D T11",2,0
+"Gelidiella acerosa","Q_046",0,47,"D","D T11",3,0
+"Gelidiella acerosa","Q_047",0,48,"D","D T11",4,0
+"Gelidiella acerosa","Q_048",0,49,"D","D T12",1,0
+"Gelidiella acerosa","Q_049",0,50,"D","D T12",2,0
+"Gelidiella acerosa","Q_050",0,51,"D","D T12",3,0
+"Gelidiella acerosa","Q_051",0,52,"D","D T13",1,0
+"Gelidiella acerosa","Q_052",0,53,"D","D T13",2,0
+"Gelidiella acerosa","Q_053",0,54,"D","D T13",3,0
+"Gelidiella acerosa","Q_054",0,55,"D","D T14",1,0
+"Gelidiella acerosa","Q_055",0,56,"D","D T14",2,0
+"Gelidiella acerosa","Q_056",0,57,"D","D T14",3,0
+"Gelidiella acerosa","Q_057",0,58,"C","C T15",1,0
+"Gelidiella acerosa","Q_058",0,59,"C","C T15",2,0
+"Gelidiella acerosa","Q_059",0,60,"C","C T15",3,0
+"Gelidiella acerosa","Q_060",0,61,"C","C T15",4,0
+"Gelidiella acerosa","Q_061",0,62,"C","C T16",1,0
+"Gelidiella acerosa","Q_062",0,63,"C","C T16",2,0
+"Gelidiella acerosa","Q_063",0,64,"C","C T16",3,0
+"Gelidiella acerosa","Q_064",0,65,"C","C T16",4,0
+"Gelidiella acerosa","Q_065",0,66,"C","C T16",5,0
+"Gelidiella acerosa","Q_066",0,67,"C","C T17",1,0
+"Gelidiella acerosa","Q_067",0,68,"C","C T17",2,0
+"Gelidiella acerosa","Q_068",0,69,"C","C T17",3,0
+"Gelidiella acerosa","Q_069",0,70,"C","C T17",4,0
+"Gelidiella acerosa","Q_070",0,71,"G","G T18",1,0
+"Gelidiella acerosa","Q_071",0,72,"G","G T18",2,0
+"Gelidiella acerosa","Q_072",0,73,"G","G T19",1,0
+"Gelidiella acerosa","Q_073",0,74,"G","G T19",2,0
+"Gelidiella acerosa","Q_074",0,75,"G","G T20",1,0
+"Gelidiella acerosa","Q_075",0,76,"G","G T20",2,0
+"Gelidiella acerosa","Q_076",0,77,"G","G T20",3,0
+"Gelidiella acerosa","Q_077",0,78,"G","G T21",1,0
+"Gelidiella acerosa","Q_078",0,79,"G","G T21",2,0
+"Gelidiella acerosa","Q_079",0,80,"G","G T21",3,0
+"Gelidiella acerosa","Q_080",0,81,"E","E T22",1,0
+"Gelidiella acerosa","Q_081",0,82,"E","E T22",2,0
+"Gelidiella acerosa","Q_082",0,83,"E","E T22",3,0
+"Gelidiella acerosa","Q_083",0,84,"E","E T22",4,0
+"Gelidiella acerosa","Q_084",0,85,"E","E T23",1,0
+"Gelidiella acerosa","Q_085",0,86,"E","E T23",2,0
+"Gelidiella acerosa","Q_086",0,87,"E","E T23",3,0
+"Gelidiella acerosa","Q_087",0,88,"E","E T23",4,0
+"Gelidiella acerosa","Q_088",0,89,"E","E T24",1,0
+"Gelidiella acerosa","Q_089",0,90,"E","E T24",2,0
+"Gelidiella acerosa","Q_090",0,91,"E","E T24",3,0
+"Gelidiella acerosa","Q_091",0,92,"E","E T25",1,0
+"Gelidiella acerosa","Q_092",0,93,"E","E T25",2,0
+"Gelidiella acerosa","Q_093",0,94,"E","E T25",3,0
+"Gelidiella acerosa","Q_094",0,95,"E","E T26",1,0
+"Gelidiella acerosa","Q_095",0,96,"E","E T26",2,0
+"Gelidiella acerosa","Q_096",0,97,"E","E T26",3,0
+"Gelidiella acerosa","Q_097",0,98,"E","E T27",1,0
+"Gelidiella acerosa","Q_098",0,99,"E","E T27",2,0
+"Gelidiella acerosa","Q_099",0,100,"E","E T27",3,0
+"Gelidiella acerosa","Q_100",0,101,"E","E T27",4,0
+"Gelidiella acerosa","Q_101",0,102,"F","F T28",1,0
+"Gelidiella acerosa","Q_102",6,103,"F","F T28",2,9.375
+"Gelidiella acerosa","Q_103",7,104,"F","F T28",3,10.9375
+"Gelidiella acerosa","Q_104",0,105,"F","F T29",1,0
+"Gelidiella acerosa","Q_105",0,106,"F","F T29",2,0
+"Gelidiella acerosa","Q_106",7,107,"F","F T29",3,10.9375
+"Gelidiella acerosa","Q_107",0,108,"F","F T29",4,0
+"Gelidiella acerosa","Q_108",3,109,"F","F T29",5,4.6875
+"Gelidiella acerosa","Q_109",7,110,"F","F T29",6,10.9375
+"Gelidiella acerosa","Q_110",4,111,"F","F T29",7,6.25
+"Polyplacophora","Q_001",0,2,"A","A T1",1,0
+"Polyplacophora","Q_002",0,3,"A","A T1",2,0
+"Polyplacophora","Q_003",0,4,"A","A T1",3,0
+"Polyplacophora","Q_004",0,5,"A","A T1",4,0
+"Polyplacophora","Q_005",0,6,"A","A T1",5,0
+"Polyplacophora","Q_006",0,7,"A","A T2",1,0
+"Polyplacophora","Q_007",0,8,"A","A T2",2,0
+"Polyplacophora","Q_008",0,9,"A","A T2",3,0
+"Polyplacophora","Q_009",0,10,"A","A T2",4,0
+"Polyplacophora","Q_010",0,11,"A","A T2",5,0
+"Polyplacophora","Q_011",0,12,"A","A T3",1,0
+"Polyplacophora","Q_012",0,13,"A","A T3",2,0
+"Polyplacophora","Q_013",0,14,"A","A T3",3,0
+"Polyplacophora","Q_014",0,15,"A","A T3",4,0
+"Polyplacophora","Q_015",0,16,"A","A T3",5,0
+"Polyplacophora","Q_016",0,17,"B","B T4",1,0
+"Polyplacophora","Q_017",0,18,"B","B T4",2,0
+"Polyplacophora","Q_018",0,19,"B","B T4",3,0
+"Polyplacophora","Q_019",0,20,"B","B T4",4,0
+"Polyplacophora","Q_020",0,21,"B","B T5",1,0
+"Polyplacophora","Q_021",0,22,"B","B T5",2,0
+"Polyplacophora","Q_022",0,23,"B","B T5",3,0
+"Polyplacophora","Q_023",0,24,"B","B T5",4,0
+"Polyplacophora","Q_024",0,25,"B","B T6",1,0
+"Polyplacophora","Q_025",0,26,"B","B T6",2,0
+"Polyplacophora","Q_026",0,27,"B","B T6",3,0
+"Polyplacophora","Q_027",0,28,"B","B T6",4,0
+"Polyplacophora","Q_028",0,29,"B","B T7",1,0
+"Polyplacophora","Q_029",0,30,"B","B T7",2,0
+"Polyplacophora","Q_030",0,31,"B","B T7",3,0
+"Polyplacophora","Q_031",0,32,"B","B T7",4,0
+"Polyplacophora","Q_032",0,33,"B","B T8",1,0
+"Polyplacophora","Q_033",0,34,"B","B T8",2,0
+"Polyplacophora","Q_034",0,35,"B","B T8",3,0
+"Polyplacophora","Q_035",0,36,"B","B T8",4,0
+"Polyplacophora","Q_036",0,37,"B","B T9",1,0
+"Polyplacophora","Q_037",0,38,"B","B T9",2,0
+"Polyplacophora","Q_038",0,39,"B","B T9",3,0
+"Polyplacophora","Q_039",0,40,"B","B T9",4,0
+"Polyplacophora","Q_040",0,41,"D","D T10",1,0
+"Polyplacophora","Q_041",0,42,"D","D T10",2,0
+"Polyplacophora","Q_042",0,43,"D","D T10",3,0
+"Polyplacophora","Q_043",0,44,"D","D T10",4,0
+"Polyplacophora","Q_044",0,45,"D","D T11",1,0
+"Polyplacophora","Q_045",0,46,"D","D T11",2,0
+"Polyplacophora","Q_046",0,47,"D","D T11",3,0
+"Polyplacophora","Q_047",0,48,"D","D T11",4,0
+"Polyplacophora","Q_048",0,49,"D","D T12",1,0
+"Polyplacophora","Q_049",0,50,"D","D T12",2,0
+"Polyplacophora","Q_050",0,51,"D","D T12",3,0
+"Polyplacophora","Q_051",0,52,"D","D T13",1,0
+"Polyplacophora","Q_052",0,53,"D","D T13",2,0
+"Polyplacophora","Q_053",0,54,"D","D T13",3,0
+"Polyplacophora","Q_054",0,55,"D","D T14",1,0
+"Polyplacophora","Q_055",0,56,"D","D T14",2,0
+"Polyplacophora","Q_056",0,57,"D","D T14",3,0
+"Polyplacophora","Q_057",0,58,"C","C T15",1,0
+"Polyplacophora","Q_058",0,59,"C","C T15",2,0
+"Polyplacophora","Q_059",0,60,"C","C T15",3,0
+"Polyplacophora","Q_060",0,61,"C","C T15",4,0
+"Polyplacophora","Q_061",0,62,"C","C T16",1,0
+"Polyplacophora","Q_062",0,63,"C","C T16",2,0
+"Polyplacophora","Q_063",0,64,"C","C T16",3,0
+"Polyplacophora","Q_064",0,65,"C","C T16",4,0
+"Polyplacophora","Q_065",0,66,"C","C T16",5,0
+"Polyplacophora","Q_066",0,67,"C","C T17",1,0
+"Polyplacophora","Q_067",0,68,"C","C T17",2,0
+"Polyplacophora","Q_068",0,69,"C","C T17",3,0
+"Polyplacophora","Q_069",0,70,"C","C T17",4,0
+"Polyplacophora","Q_070",0,71,"G","G T18",1,0
+"Polyplacophora","Q_071",0,72,"G","G T18",2,0
+"Polyplacophora","Q_072",0,73,"G","G T19",1,0
+"Polyplacophora","Q_073",0,74,"G","G T19",2,0
+"Polyplacophora","Q_074",0,75,"G","G T20",1,0
+"Polyplacophora","Q_075",0,76,"G","G T20",2,0
+"Polyplacophora","Q_076",0,77,"G","G T20",3,0
+"Polyplacophora","Q_077",0,78,"G","G T21",1,0
+"Polyplacophora","Q_078",0,79,"G","G T21",2,0
+"Polyplacophora","Q_079",0,80,"G","G T21",3,0
+"Polyplacophora","Q_080",0,81,"E","E T22",1,0
+"Polyplacophora","Q_081",0,82,"E","E T22",2,0
+"Polyplacophora","Q_082",0,83,"E","E T22",3,0
+"Polyplacophora","Q_083",0,84,"E","E T22",4,0
+"Polyplacophora","Q_084",0,85,"E","E T23",1,0
+"Polyplacophora","Q_085",0,86,"E","E T23",2,0
+"Polyplacophora","Q_086",0,87,"E","E T23",3,0
+"Polyplacophora","Q_087",0,88,"E","E T23",4,0
+"Polyplacophora","Q_088",0,89,"E","E T24",1,0
+"Polyplacophora","Q_089",0,90,"E","E T24",2,0
+"Polyplacophora","Q_090",0,91,"E","E T24",3,0
+"Polyplacophora","Q_091",0,92,"E","E T25",1,0
+"Polyplacophora","Q_092",0,93,"E","E T25",2,0
+"Polyplacophora","Q_093",0,94,"E","E T25",3,0
+"Polyplacophora","Q_094",0,95,"E","E T26",1,0
+"Polyplacophora","Q_095",0,96,"E","E T26",2,0
+"Polyplacophora","Q_096",0,97,"E","E T26",3,0
+"Polyplacophora","Q_097",0,98,"E","E T27",1,0
+"Polyplacophora","Q_098",0,99,"E","E T27",2,0
+"Polyplacophora","Q_099",0,100,"E","E T27",3,0
+"Polyplacophora","Q_100",0,101,"E","E T27",4,0
+"Polyplacophora","Q_101",0,102,"F","F T28",1,0
+"Polyplacophora","Q_102",0,103,"F","F T28",2,0
+"Polyplacophora","Q_103",0,104,"F","F T28",3,0
+"Polyplacophora","Q_104",0,105,"F","F T29",1,0
+"Polyplacophora","Q_105",0,106,"F","F T29",2,0
+"Polyplacophora","Q_106",0,107,"F","F T29",3,0
+"Polyplacophora","Q_107",0,108,"F","F T29",4,0
+"Polyplacophora","Q_108",0,109,"F","F T29",5,0
+"Polyplacophora","Q_109",0,110,"F","F T29",6,0
+"Polyplacophora","Q_110",0,111,"F","F T29",7,0
+"Turf de Bostrychia","Q_001",0,2,"A","A T1",1,0
+"Turf de Bostrychia","Q_002",0,3,"A","A T1",2,0
+"Turf de Bostrychia","Q_003",0,4,"A","A T1",3,0
+"Turf de Bostrychia","Q_004",0,5,"A","A T1",4,0
+"Turf de Bostrychia","Q_005",0,6,"A","A T1",5,0
+"Turf de Bostrychia","Q_006",0,7,"A","A T2",1,0
+"Turf de Bostrychia","Q_007",0,8,"A","A T2",2,0
+"Turf de Bostrychia","Q_008",0,9,"A","A T2",3,0
+"Turf de Bostrychia","Q_009",0,10,"A","A T2",4,0
+"Turf de Bostrychia","Q_010",0,11,"A","A T2",5,0
+"Turf de Bostrychia","Q_011",0,12,"A","A T3",1,0
+"Turf de Bostrychia","Q_012",0,13,"A","A T3",2,0
+"Turf de Bostrychia","Q_013",0,14,"A","A T3",3,0
+"Turf de Bostrychia","Q_014",0,15,"A","A T3",4,0
+"Turf de Bostrychia","Q_015",0,16,"A","A T3",5,0
+"Turf de Bostrychia","Q_016",0,17,"B","B T4",1,0
+"Turf de Bostrychia","Q_017",0,18,"B","B T4",2,0
+"Turf de Bostrychia","Q_018",0.25,19,"B","B T4",3,0.390625
+"Turf de Bostrychia","Q_019",12.8,20,"B","B T4",4,20
+"Turf de Bostrychia","Q_020",0,21,"B","B T5",1,0
+"Turf de Bostrychia","Q_021",0.5,22,"B","B T5",2,0.78125
+"Turf de Bostrychia","Q_022",0,23,"B","B T5",3,0
+"Turf de Bostrychia","Q_023",0,24,"B","B T5",4,0
+"Turf de Bostrychia","Q_024",0,25,"B","B T6",1,0
+"Turf de Bostrychia","Q_025",0,26,"B","B T6",2,0
+"Turf de Bostrychia","Q_026",0,27,"B","B T6",3,0
+"Turf de Bostrychia","Q_027",0,28,"B","B T6",4,0
+"Turf de Bostrychia","Q_028",0,29,"B","B T7",1,0
+"Turf de Bostrychia","Q_029",0,30,"B","B T7",2,0
+"Turf de Bostrychia","Q_030",0,31,"B","B T7",3,0
+"Turf de Bostrychia","Q_031",0,32,"B","B T7",4,0
+"Turf de Bostrychia","Q_032",0,33,"B","B T8",1,0
+"Turf de Bostrychia","Q_033",0,34,"B","B T8",2,0
+"Turf de Bostrychia","Q_034",0,35,"B","B T8",3,0
+"Turf de Bostrychia","Q_035",0,36,"B","B T8",4,0
+"Turf de Bostrychia","Q_036",0,37,"B","B T9",1,0
+"Turf de Bostrychia","Q_037",0,38,"B","B T9",2,0
+"Turf de Bostrychia","Q_038",0,39,"B","B T9",3,0
+"Turf de Bostrychia","Q_039",0,40,"B","B T9",4,0
+"Turf de Bostrychia","Q_040",0,41,"D","D T10",1,0
+"Turf de Bostrychia","Q_041",0,42,"D","D T10",2,0
+"Turf de Bostrychia","Q_042",0,43,"D","D T10",3,0
+"Turf de Bostrychia","Q_043",0,44,"D","D T10",4,0
+"Turf de Bostrychia","Q_044",0,45,"D","D T11",1,0
+"Turf de Bostrychia","Q_045",0,46,"D","D T11",2,0
+"Turf de Bostrychia","Q_046",0,47,"D","D T11",3,0
+"Turf de Bostrychia","Q_047",0,48,"D","D T11",4,0
+"Turf de Bostrychia","Q_048",0,49,"D","D T12",1,0
+"Turf de Bostrychia","Q_049",0,50,"D","D T12",2,0
+"Turf de Bostrychia","Q_050",0,51,"D","D T12",3,0
+"Turf de Bostrychia","Q_051",0,52,"D","D T13",1,0
+"Turf de Bostrychia","Q_052",0,53,"D","D T13",2,0
+"Turf de Bostrychia","Q_053",0,54,"D","D T13",3,0
+"Turf de Bostrychia","Q_054",0,55,"D","D T14",1,0
+"Turf de Bostrychia","Q_055",0,56,"D","D T14",2,0
+"Turf de Bostrychia","Q_056",0,57,"D","D T14",3,0
+"Turf de Bostrychia","Q_057",0,58,"C","C T15",1,0
+"Turf de Bostrychia","Q_058",0,59,"C","C T15",2,0
+"Turf de Bostrychia","Q_059",0,60,"C","C T15",3,0
+"Turf de Bostrychia","Q_060",0,61,"C","C T15",4,0
+"Turf de Bostrychia","Q_061",0,62,"C","C T16",1,0
+"Turf de Bostrychia","Q_062",0,63,"C","C T16",2,0
+"Turf de Bostrychia","Q_063",0,64,"C","C T16",3,0
+"Turf de Bostrychia","Q_064",0,65,"C","C T16",4,0
+"Turf de Bostrychia","Q_065",0,66,"C","C T16",5,0
+"Turf de Bostrychia","Q_066",0,67,"C","C T17",1,0
+"Turf de Bostrychia","Q_067",0,68,"C","C T17",2,0
+"Turf de Bostrychia","Q_068",0,69,"C","C T17",3,0
+"Turf de Bostrychia","Q_069",0,70,"C","C T17",4,0
+"Turf de Bostrychia","Q_070",0,71,"G","G T18",1,0
+"Turf de Bostrychia","Q_071",1,72,"G","G T18",2,1.5625
+"Turf de Bostrychia","Q_072",0,73,"G","G T19",1,0
+"Turf de Bostrychia","Q_073",0,74,"G","G T19",2,0
+"Turf de Bostrychia","Q_074",0,75,"G","G T20",1,0
+"Turf de Bostrychia","Q_075",0,76,"G","G T20",2,0
+"Turf de Bostrychia","Q_076",0,77,"G","G T20",3,0
+"Turf de Bostrychia","Q_077",0,78,"G","G T21",1,0
+"Turf de Bostrychia","Q_078",0,79,"G","G T21",2,0
+"Turf de Bostrychia","Q_079",0,80,"G","G T21",3,0
+"Turf de Bostrychia","Q_080",0,81,"E","E T22",1,0
+"Turf de Bostrychia","Q_081",0,82,"E","E T22",2,0
+"Turf de Bostrychia","Q_082",0,83,"E","E T22",3,0
+"Turf de Bostrychia","Q_083",0,84,"E","E T22",4,0
+"Turf de Bostrychia","Q_084",0,85,"E","E T23",1,0
+"Turf de Bostrychia","Q_085",0,86,"E","E T23",2,0
+"Turf de Bostrychia","Q_086",0,87,"E","E T23",3,0
+"Turf de Bostrychia","Q_087",0,88,"E","E T23",4,0
+"Turf de Bostrychia","Q_088",0,89,"E","E T24",1,0
+"Turf de Bostrychia","Q_089",0,90,"E","E T24",2,0
+"Turf de Bostrychia","Q_090",0,91,"E","E T24",3,0
+"Turf de Bostrychia","Q_091",0,92,"E","E T25",1,0
+"Turf de Bostrychia","Q_092",0,93,"E","E T25",2,0
+"Turf de Bostrychia","Q_093",0,94,"E","E T25",3,0
+"Turf de Bostrychia","Q_094",0,95,"E","E T26",1,0
+"Turf de Bostrychia","Q_095",0,96,"E","E T26",2,0
+"Turf de Bostrychia","Q_096",0,97,"E","E T26",3,0
+"Turf de Bostrychia","Q_097",0,98,"E","E T27",1,0
+"Turf de Bostrychia","Q_098",0,99,"E","E T27",2,0
+"Turf de Bostrychia","Q_099",0,100,"E","E T27",3,0
+"Turf de Bostrychia","Q_100",0,101,"E","E T27",4,0
+"Turf de Bostrychia","Q_101",8,102,"F","F T28",1,12.5
+"Turf de Bostrychia","Q_102",0,103,"F","F T28",2,0
+"Turf de Bostrychia","Q_103",0,104,"F","F T28",3,0
+"Turf de Bostrychia","Q_104",0,105,"F","F T29",1,0
+"Turf de Bostrychia","Q_105",17,106,"F","F T29",2,26.5625
+"Turf de Bostrychia","Q_106",0,107,"F","F T29",3,0
+"Turf de Bostrychia","Q_107",0,108,"F","F T29",4,0
+"Turf de Bostrychia","Q_108",2,109,"F","F T29",5,3.125
+"Turf de Bostrychia","Q_109",6,110,"F","F T29",6,9.375
+"Turf de Bostrychia","Q_110",3,111,"F","F T29",7,4.6875
+"Crassostrea rhizophorae","Q_001",0,2,"A","A T1",1,0
+"Crassostrea rhizophorae","Q_002",0,3,"A","A T1",2,0
+"Crassostrea rhizophorae","Q_003",0,4,"A","A T1",3,0
+"Crassostrea rhizophorae","Q_004",2,5,"A","A T1",4,3.125
+"Crassostrea rhizophorae","Q_005",1,6,"A","A T1",5,1.5625
+"Crassostrea rhizophorae","Q_006",0.3,7,"A","A T2",1,0.46875
+"Crassostrea rhizophorae","Q_007",0.5,8,"A","A T2",2,0.78125
+"Crassostrea rhizophorae","Q_008",0,9,"A","A T2",3,0
+"Crassostrea rhizophorae","Q_009",1,10,"A","A T2",4,1.5625
+"Crassostrea rhizophorae","Q_010",2,11,"A","A T2",5,3.125
+"Crassostrea rhizophorae","Q_011",0,12,"A","A T3",1,0
+"Crassostrea rhizophorae","Q_012",6,13,"A","A T3",2,9.375
+"Crassostrea rhizophorae","Q_013",2,14,"A","A T3",3,3.125
+"Crassostrea rhizophorae","Q_014",3,15,"A","A T3",4,4.6875
+"Crassostrea rhizophorae","Q_015",0.5,16,"A","A T3",5,0.78125
+"Crassostrea rhizophorae","Q_016",0,17,"B","B T4",1,0
+"Crassostrea rhizophorae","Q_017",0,18,"B","B T4",2,0
+"Crassostrea rhizophorae","Q_018",0,19,"B","B T4",3,0
+"Crassostrea rhizophorae","Q_019",0,20,"B","B T4",4,0
+"Crassostrea rhizophorae","Q_020",0,21,"B","B T5",1,0
+"Crassostrea rhizophorae","Q_021",0,22,"B","B T5",2,0
+"Crassostrea rhizophorae","Q_022",0,23,"B","B T5",3,0
+"Crassostrea rhizophorae","Q_023",0,24,"B","B T5",4,0
+"Crassostrea rhizophorae","Q_024",0,25,"B","B T6",1,0
+"Crassostrea rhizophorae","Q_025",0,26,"B","B T6",2,0
+"Crassostrea rhizophorae","Q_026",0,27,"B","B T6",3,0
+"Crassostrea rhizophorae","Q_027",0,28,"B","B T6",4,0
+"Crassostrea rhizophorae","Q_028",0,29,"B","B T7",1,0
+"Crassostrea rhizophorae","Q_029",0,30,"B","B T7",2,0
+"Crassostrea rhizophorae","Q_030",0,31,"B","B T7",3,0
+"Crassostrea rhizophorae","Q_031",0,32,"B","B T7",4,0
+"Crassostrea rhizophorae","Q_032",0,33,"B","B T8",1,0
+"Crassostrea rhizophorae","Q_033",0,34,"B","B T8",2,0
+"Crassostrea rhizophorae","Q_034",0,35,"B","B T8",3,0
+"Crassostrea rhizophorae","Q_035",0,36,"B","B T8",4,0
+"Crassostrea rhizophorae","Q_036",0,37,"B","B T9",1,0
+"Crassostrea rhizophorae","Q_037",0,38,"B","B T9",2,0
+"Crassostrea rhizophorae","Q_038",0,39,"B","B T9",3,0
+"Crassostrea rhizophorae","Q_039",0,40,"B","B T9",4,0
+"Crassostrea rhizophorae","Q_040",0,41,"D","D T10",1,0
+"Crassostrea rhizophorae","Q_041",0,42,"D","D T10",2,0
+"Crassostrea rhizophorae","Q_042",0,43,"D","D T10",3,0
+"Crassostrea rhizophorae","Q_043",0,44,"D","D T10",4,0
+"Crassostrea rhizophorae","Q_044",0,45,"D","D T11",1,0
+"Crassostrea rhizophorae","Q_045",0,46,"D","D T11",2,0
+"Crassostrea rhizophorae","Q_046",0,47,"D","D T11",3,0
+"Crassostrea rhizophorae","Q_047",0,48,"D","D T11",4,0
+"Crassostrea rhizophorae","Q_048",0,49,"D","D T12",1,0
+"Crassostrea rhizophorae","Q_049",0,50,"D","D T12",2,0
+"Crassostrea rhizophorae","Q_050",0,51,"D","D T12",3,0
+"Crassostrea rhizophorae","Q_051",0,52,"D","D T13",1,0
+"Crassostrea rhizophorae","Q_052",0,53,"D","D T13",2,0
+"Crassostrea rhizophorae","Q_053",0,54,"D","D T13",3,0
+"Crassostrea rhizophorae","Q_054",0,55,"D","D T14",1,0
+"Crassostrea rhizophorae","Q_055",0,56,"D","D T14",2,0
+"Crassostrea rhizophorae","Q_056",0,57,"D","D T14",3,0
+"Crassostrea rhizophorae","Q_057",0,58,"C","C T15",1,0
+"Crassostrea rhizophorae","Q_058",0,59,"C","C T15",2,0
+"Crassostrea rhizophorae","Q_059",0,60,"C","C T15",3,0
+"Crassostrea rhizophorae","Q_060",0,61,"C","C T15",4,0
+"Crassostrea rhizophorae","Q_061",0,62,"C","C T16",1,0
+"Crassostrea rhizophorae","Q_062",0,63,"C","C T16",2,0
+"Crassostrea rhizophorae","Q_063",0,64,"C","C T16",3,0
+"Crassostrea rhizophorae","Q_064",0,65,"C","C T16",4,0
+"Crassostrea rhizophorae","Q_065",0,66,"C","C T16",5,0
+"Crassostrea rhizophorae","Q_066",0,67,"C","C T17",1,0
+"Crassostrea rhizophorae","Q_067",0,68,"C","C T17",2,0
+"Crassostrea rhizophorae","Q_068",0,69,"C","C T17",3,0
+"Crassostrea rhizophorae","Q_069",0,70,"C","C T17",4,0
+"Crassostrea rhizophorae","Q_070",0,71,"G","G T18",1,0
+"Crassostrea rhizophorae","Q_071",0,72,"G","G T18",2,0
+"Crassostrea rhizophorae","Q_072",0,73,"G","G T19",1,0
+"Crassostrea rhizophorae","Q_073",0,74,"G","G T19",2,0
+"Crassostrea rhizophorae","Q_074",0,75,"G","G T20",1,0
+"Crassostrea rhizophorae","Q_075",0,76,"G","G T20",2,0
+"Crassostrea rhizophorae","Q_076",0,77,"G","G T20",3,0
+"Crassostrea rhizophorae","Q_077",0,78,"G","G T21",1,0
+"Crassostrea rhizophorae","Q_078",0,79,"G","G T21",2,0
+"Crassostrea rhizophorae","Q_079",0,80,"G","G T21",3,0
+"Crassostrea rhizophorae","Q_080",0,81,"E","E T22",1,0
+"Crassostrea rhizophorae","Q_081",0,82,"E","E T22",2,0
+"Crassostrea rhizophorae","Q_082",0,83,"E","E T22",3,0
+"Crassostrea rhizophorae","Q_083",0,84,"E","E T22",4,0
+"Crassostrea rhizophorae","Q_084",0.5,85,"E","E T23",1,0.78125
+"Crassostrea rhizophorae","Q_085",0.6,86,"E","E T23",2,0.9375
+"Crassostrea rhizophorae","Q_086",1,87,"E","E T23",3,1.5625
+"Crassostrea rhizophorae","Q_087",0,88,"E","E T23",4,0
+"Crassostrea rhizophorae","Q_088",1,89,"E","E T24",1,1.5625
+"Crassostrea rhizophorae","Q_089",0,90,"E","E T24",2,0
+"Crassostrea rhizophorae","Q_090",1,91,"E","E T24",3,1.5625
+"Crassostrea rhizophorae","Q_091",2,92,"E","E T25",1,3.125
+"Crassostrea rhizophorae","Q_092",0,93,"E","E T25",2,0
+"Crassostrea rhizophorae","Q_093",2,94,"E","E T25",3,3.125
+"Crassostrea rhizophorae","Q_094",0,95,"E","E T26",1,0
+"Crassostrea rhizophorae","Q_095",2,96,"E","E T26",2,3.125
+"Crassostrea rhizophorae","Q_096",0,97,"E","E T26",3,0
+"Crassostrea rhizophorae","Q_097",0,98,"E","E T27",1,0
+"Crassostrea rhizophorae","Q_098",0,99,"E","E T27",2,0
+"Crassostrea rhizophorae","Q_099",0,100,"E","E T27",3,0
+"Crassostrea rhizophorae","Q_100",0,101,"E","E T27",4,0
+"Crassostrea rhizophorae","Q_101",0,102,"F","F T28",1,0
+"Crassostrea rhizophorae","Q_102",0,103,"F","F T28",2,0
+"Crassostrea rhizophorae","Q_103",0,104,"F","F T28",3,0
+"Crassostrea rhizophorae","Q_104",0,105,"F","F T29",1,0
+"Crassostrea rhizophorae","Q_105",0,106,"F","F T29",2,0
+"Crassostrea rhizophorae","Q_106",0,107,"F","F T29",3,0
+"Crassostrea rhizophorae","Q_107",0,108,"F","F T29",4,0
+"Crassostrea rhizophorae","Q_108",0,109,"F","F T29",5,0
+"Crassostrea rhizophorae","Q_109",0,110,"F","F T29",6,0
+"Crassostrea rhizophorae","Q_110",0,111,"F","F T29",7,0
