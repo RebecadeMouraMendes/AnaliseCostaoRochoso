@@ -19,7 +19,7 @@ Terceiro passo - Ctrl + Enter roda todo o script
 
 ### ANALISES ECOLOGICAS — vegan
 
-vegan::specnumber() — calcula a riqueza de táxons.
+vegan::specnumber() — calcula a riqueza de táxons.<br>
 vegan::diversity() — calcula os índices de diversidade de Shannon e Simpson.
 vegan::vegdist() — calcula a dissimilaridade de Bray-Curtis.
 vegan::wcmdscale() — realiza a Análise de Coordenadas Principais (PCoA).
