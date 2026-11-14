@@ -1,4 +1,4 @@
-# AnaliseCostaoRochoso
+# Analise Costão Rochoso
 
 - Instale o R Studio: https://posit.co/downloads
   
