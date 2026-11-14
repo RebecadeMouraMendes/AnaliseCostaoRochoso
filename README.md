@@ -7,6 +7,7 @@
 <br>
 <img width="938" height="189" alt="Captura de tela de 2026-11-14 19-18-59" src="https://github.com/user-attachments/assets/4b32da43-3898-460b-b27c-fe112cd1d728" />
 <br>
+
 ```
 install.packages( 
   c("readxl", "dplyr", "tidyr", "ggplot2", "vegan", "stringr", "ggh4x","colorspace", "ggrepel"),
@@ -14,6 +15,14 @@ install.packages(
   repos = "https://cloud.r-project.org" 
 )
 ```
+
+- Instale o script e a planilha aqui
+<br>
+<img width="230" height="63" alt="WhatsApp Image 2026-11-14 at 19 22 40" src="https://github.com/user-attachments/assets/d3f543c2-f805-4974-afe5-8a98dff2b72f" />
+<br>
+<img width="731" height="65" alt="Captura de tela de 2026-11-14 19-22-13" src="https://github.com/user-attachments/assets/145bbee3-5a4b-4111-bb37-0b8b6f2be652" />
+<br>
+
 - Coloque o endereço da planilha na linha 14:
 
 ```arquivo <- "endereco da planilha"```
