@@ -18,9 +18,9 @@ install.packages(
 
 - Instale o script e a planilha aqui
 <br>
-<img width="230" height="63" alt="WhatsApp Image 2026-11-14 at 19 22 40" src="https://github.com/user-attachments/assets/d3f543c2-f805-4974-afe5-8a98dff2b72f" />
-<br>
 <img width="731" height="65" alt="Captura de tela de 2026-11-14 19-22-13" src="https://github.com/user-attachments/assets/145bbee3-5a4b-4111-bb37-0b8b6f2be652" />
+<br>
+<img width="230" height="63" alt="WhatsApp Image 2026-11-14 at 19 22 40" src="https://github.com/user-attachments/assets/d3f543c2-f805-4974-afe5-8a98dff2b72f" />
 <br>
 
 - Coloque o endereço da planilha na linha 14:
