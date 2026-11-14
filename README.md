@@ -22,7 +22,7 @@ install.packages(
 <br>
 <img width="230" height="63" alt="WhatsApp Image 2026-11-14 at 19 22 40" src="https://github.com/user-attachments/assets/d3f543c2-f805-4974-afe5-8a98dff2b72f" />
 <br>
-
+<br>
 - Coloque o endereço da planilha na linha 14:
 
 ```arquivo <- "endereco da planilha"```
