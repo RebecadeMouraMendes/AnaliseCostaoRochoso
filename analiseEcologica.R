@@ -20,8 +20,8 @@ subdivisoes_por_quadrado <- 64
 
 
 #importacao da ficha bruta
-# read_excel() do pacote readxl importa a planilha Excel para o R.
-# Aqui, col_names = FALSE impede que o R use a primeira linha como cabeçalho.
+# read_excel() do pacote readxl importa a planilha Excel para o R
+# Aqui, col_names = FALSE impede que o R use a primeira linha como cabeçalho
 brutos <- readxl::read_excel(
   arquivo, sheet = aba, col_names = FALSE
 )
@@ -43,8 +43,8 @@ if (anyNA(grupo_col)) {
   stop("Nao foi possivel identificar o grupo em algum nome de transecto.")
 }
 
-# numera os quadrados pela ordem em que aparecem dentro de cada transecto.
-# assim, cada transecto pode ter uma quantidade diferente de quadrados.
+# numera os quadrados pela ordem em que aparecem dentro de cada transecto
+# assim, cada transecto pode ter uma quantidade diferente de quadrados
 quadrado_col <- ave(
   seq_along(transecto_col),
   transecto_col,
@@ -79,7 +79,7 @@ valores <- valores[manter, , drop = FALSE]
 
 if (length(taxa) == 0) stop("Nenhum taxon foi encontrado na aba Ficha.")
 if (anyDuplicated(taxa)) {
-  warning("Ha nomes de taxa repetidos")
+  warning("Ha nomes de taxon repetidos")
 }
 
 # converte todas os valores para numero
@@ -99,27 +99,27 @@ colnames(valores) <- meta$amostra
 valores$taxon <- taxa
 
 # cobertura percentual
-# group_by() organiza os dados em grupos para que os cálculos seguintes sejam feitos dentro deles.
-# pivot_longer() transforma as colunas dos fotoquadrados em linhas, deixando uma linha por taxon e amostra.
+# group_by() organiza os dados em grupos para que os cálculos seguintes sejam feitos dentro deles
+# pivot_longer() transforma as colunas dos fotoquadrados em linhas, deixando uma linha por taxon e amostra
 longos <- valores %>%
   tidyr::pivot_longer(
     cols = -taxon,
     names_to = "amostra",
     values_to = "subdivisoes"
   ) %>%
-  # left_join() acrescenta os metadados de cada amostra, relacionando as tabelas pela coluna "amostra".
+  # left_join() acrescenta os metadados de cada amostra, relacionando as tabelas pela coluna "amostra"
   dplyr::left_join(meta, by = "amostra") %>%
-  # mutate() cria a coluna de cobertura percentual e converte quadrado para número.
+  # mutate() cria a coluna de cobertura percentual e converte quadrado para número
   dplyr::mutate(
     cobertura_pct = 100 * subdivisoes / subdivisoes_por_quadrado,
     quadrado = as.integer(quadrado)
   )
 
-# a soma pode ultrapassar 64 quando ha sobreposicao entre organismos.
+# a soma pode ultrapassar 64 quando ha sobreposicao entre organismos
 verificacao <- longos %>%
-  # group_by() separa os registros de cada fotoquadrado dentro de seu grupo e transecto.
+  # group_by() separa os registros de cada fotoquadrado dentro de seu grupo e transecto
   group_by(grupo, transecto, amostra, quadrado) %>%
-  # summarise() resume cada grupo somando as subdivisões registradas para os taxa.
+  # summarise() resume cada grupo somando as subdivisões registradas para os taxons
   summarise(total_subdivisoes_taxa = sum(subdivisoes), .groups = "drop")
 
 write.csv(longos, file.path(resultado, "dados_longos.csv"), row.names = FALSE)
@@ -128,9 +128,9 @@ write.csv(verificacao, file.path(resultado, "verificacao_subdivisoes.csv"), row.
 
 # cobertura media
 cobertura_taxon <- longos %>%
-  # group_by() reúne todas as observações do mesmo taxon.
+  # group_by() reúne todas as observações do mesmo taxon
   group_by(taxon) %>%
-  # summarise() calcula uma única cobertura média para cada taxon.
+  # summarise() calcula uma única cobertura média para cada taxon
   summarise(cobertura_media_pct = mean(cobertura_pct), .groups = "drop")
 
 fig_cobertura <- ggplot(cobertura_taxon,
@@ -149,9 +149,9 @@ ggsave(file.path(resultado, "01_cobertura_media_taxon.png"),
 
 #frequencia por taxon
 frequencia <- longos %>%
-  # group_by() reúne os registros de cada taxon.
+  # group_by() reúne os registros de cada taxon
   group_by(taxon) %>%
-  # summarise() calcula em quantos fotoquadrados o taxon ocorreu e transforma isso em porcentagem.
+  # summarise() calcula em quantos fotoquadrados o taxon ocorreu e transforma isso em porcentagem
   summarise(frequencia_pct = 100 * mean(subdivisoes > 0), .groups = "drop")
 
 fig_frequencia <- ggplot(frequencia,
@@ -171,9 +171,9 @@ ggsave(file.path(resultado, "02_frequencia_taxon.png"),
 
 # diversidade alfa por fotoquadrado
 mat_quadrados <- longos %>%
-  # select() mantém apenas as colunas necessárias para montar a matriz: amostra, taxon e cobertura.
+  # select() mantém apenas as colunas necessárias para montar a matriz com amostra, taxon e cobertura
   select(amostra, taxon, cobertura_pct) %>%
-  # pivot_wider() transforma os taxa em colunas e deixa cada fotoquadrado em uma linha.
+  # pivot_wider() transforma os taxa em colunas e deixa cada fotoquadrado em uma linha
   tidyr::pivot_wider(names_from = taxon, values_from = cobertura_pct) %>%
   as.data.frame()
 
@@ -183,13 +183,13 @@ mat_quadrados[] <- lapply(mat_quadrados, as.numeric)
 mat_quadrados <- as.matrix(mat_quadrados[meta$amostra, , drop = FALSE])
 
 alpha <- meta %>%
-  # mutate() adiciona os índices ecológicos calculados para cada fotoquadrado.
+  # mutate() adiciona os índices ecológicos calculados para cada fotoquadrado
   mutate(
-    # specnumber() conta quantos taxa têm ocorrência em cada fotoquadrado (riqueza).
+    # specnumber() conta quantos taxa têm ocorrência em cada fotoquadrado (riqueza)
     riqueza = vegan::specnumber(mat_quadrados),
-    # diversity(index = "shannon") calcula o índice de diversidade de Shannon para cada fotoquadrado.
+    # diversity(index = "shannon") calcula o índice de diversidade de Shannon para cada fotoquadrado
     shannon = vegan::diversity(mat_quadrados, index = "shannon"),
-    # diversity(index = "simpson") calcula o índice de Simpson (1 - D) para cada fotoquadrado.
+    # diversity(index = "simpson") calcula o índice de Simpson (1 - D) para cada fotoquadrado
     simpson_1_menos_D = vegan::diversity(mat_quadrados, index = "simpson"),
     equitabilidade = ifelse(riqueza > 1, shannon / log(riqueza), NA_real_)
   )
@@ -197,11 +197,11 @@ alpha <- meta %>%
 write.csv(alpha, file.path(resultado, "indices_alfa_por_fotoquadrado.csv"),
           row.names = FALSE)
 
-# media dos Qs de cada transecto. Transectos podem ter n de Q diferente.
+# media dos quadrados de cada transecto
 alpha_transecto <- alpha %>%
-  # group_by() reúne os fotoquadrados pertencentes ao mesmo grupo e transecto.
+  # group_by() reúne os fotoquadrados pertencentes ao mesmo grupo e transecto
   group_by(grupo, transecto) %>%
-  # summarise() calcula a média dos índices entre os fotoquadrados de cada transecto.
+  # summarise() calcula a média dos índices entre os fotoquadrados de cada transecto
   summarise(
     riqueza_media = mean(riqueza),
     shannon_medio = mean(shannon),
@@ -223,15 +223,15 @@ ggsave(file.path(resultado, "03_shannon_por_grupo.png"),
 
 # composicao media por transecto e PCoA
 media_transecto <- longos %>%
-  # group_by() separa os dados por grupo, transecto e taxon.
+  # group_by() separa os dados por grupo, transecto e taxon
   group_by(grupo, transecto, taxon) %>%
-  # summarise() calcula a cobertura média de cada taxon em cada transecto.
+  # summarise() calcula a cobertura média de cada taxon em cada transecto
   summarise(cobertura_media = mean(cobertura_pct), .groups = "drop")
 
 mat_transectos <- media_transecto %>%
-  # select() mantém as três colunas necessárias para criar a matriz dos transectos.
+  # select() mantém as três colunas necessárias para criar a matriz dos transectos
   select(transecto, taxon, cobertura_media) %>%
-  # pivot_wider() coloca cada taxon em uma coluna e cada transecto em uma linha.
+  # pivot_wider() coloca cada taxon em uma coluna e cada transecto em uma linha
   pivot_wider(names_from = taxon, values_from = cobertura_media) %>%
   as.data.frame()
 
@@ -241,16 +241,15 @@ mat_transectos[] <- lapply(mat_transectos, as.numeric)
 mat_transectos <- as.matrix(mat_transectos)
 
 setor_transecto <- meta %>%
-  # distinct() manteria apenas uma linha para cada combinação única de transecto e grupo.
-  # (Nesta versão do arquivo, a função usada é distinct() e remove repetições dessas combinações.)
+  # distinct() manteria apenas uma linha para cada combinação única de transecto e grupo
   distinct(transecto, grupo) %>%
-  # slice() seleciona as linhas nas posições indicadas por match(), alinhando-as à ordem da matriz.
+  # slice() seleciona as linhas nas posições indicadas por match(), alinhando-as à ordem da matriz
   slice(match(rownames(mat_transectos), transecto))
 
 if (nrow(mat_transectos) >= 3 && all(rowSums(mat_transectos) > 0)) {
-  # vegdist() calcula a dissimilaridade de Bray-Curtis entre os transectos, com base nas coberturas dos taxa.
+  # vegdist() calcula a dissimilaridade de Bray-Curtis entre os transectos, com base nas coberturas dos taxa
   dist_bray <- vegan::vegdist(mat_transectos, method = "bray")
-  # wcmdscale() realiza a PCoA a partir das distâncias; k = 2 solicita dois eixos principais.
+  # wcmdscale() realiza a PCoA a partir das distâncias; k = 2 solicita dois eixos principais
   ord <- vegan::wcmdscale(dist_bray, k = 2, eig = TRUE, add = "lingoes")
   
   pontos <- data.frame(
@@ -281,9 +280,9 @@ vertical <- longos %>%
   summarise(cobertura_pct = mean(cobertura_pct), .groups = "drop")
 
 vertical_media <- vertical %>%
-  # group_by() reúne a mesma posição de quadrado e taxon dentro de cada grupo.
+  # group_by() reúne a mesma posição de quadrado e taxon dentro de cada grupo
   group_by(grupo, quadrado, taxon) %>%
-  # summarise() calcula a cobertura média entre transectos e conta quantos transectos contribuíram.
+  # summarise() calcula a cobertura média entre transectos e conta quantos transectos contribuíram
   summarise(
     cobertura_media = mean(cobertura_pct),
     n_transectos = n_distinct(transecto),
@@ -292,46 +291,46 @@ vertical_media <- vertical %>%
 
 # prepara os dados
 vertical_mapa <- vertical_media %>%
-  # mutate() transforma o quadrado em categoria e organiza os taxa.
+  # mutate() transforma o quadrado em categoria e organiza os taxons
   mutate(
     quadrado = factor(quadrado, levels = sort(unique(quadrado))),
     taxon = factor(taxon, levels = sort(unique(as.character(taxon))))
   ) %>%
-  # group_by() mantém separadas as combinações de grupo e quadrado existentes.
+  # group_by() mantém separadas as combinações de grupo e quadrado existentes
   group_by(grupo, quadrado) %>%
-  # complete() inclui os taxa sem registro em cada quadrado observado.
+  # complete() inclui os taxa sem registro em cada quadrado observado
   tidyr::complete(
     taxon,
     fill = list(cobertura_media = 0)
   ) %>%
   ungroup()
 
-# constrói a distribuição vertical.
+# constrói a distribuição vertical
 fig_vertical <- ggplot(
   vertical_mapa,
   aes(x = quadrado, y = taxon, fill = cobertura_media)
 ) +
-  # geom_tile() cria uma célula para cada combinação de taxon e quadrado.
+  # geom_tile() cria uma célula para cada combinação de taxon e quadrado
   geom_tile(color = "white", linewidth = 0.3) +
   
-  # scale_fill_viridis_c() representa a cobertura por uma escala contínua de cores.
+  # scale_fill_viridis_c() representa a cobertura por uma escala contínua de cores
   scale_fill_viridis_c(
     option = "H",
     name = "Cobertura\nmédia (%)"
   ) +
   
-  # facet_wrap2() separa os resultados por grupo e mostra os eixos em todos os painéis.
+  # facet_wrap2() separa os resultados por grupo e mostra os eixos em todos os painéis
   ggh4x::facet_wrap2(
     ~ grupo,
     axes = "all"
   ) +
   
-  # scale_x_discrete() apresenta os nomes dos quadrados no eixo horizontal.
+  # scale_x_discrete() apresenta os nomes dos quadrados no eixo horizontal
   scale_x_discrete(
     labels = function(x) paste0("Q", x)
   ) +
   
-  # labs() define o título e os nomes dos eixos.
+  # labs() define o título e os nomes dos eixos
   labs(
     title = "Distribuição vertical dos táxons",
     subtitle = "Cobertura média em cada posição dos transectos",
@@ -339,10 +338,10 @@ fig_vertical <- ggplot(
     y = "Táxon"
   ) +
   
-  # theme_minimal() aplica um fundo simples ao gráfico.
+  # theme_minimal() aplica um fundo simples ao gráfico
   theme_minimal() +
   
-  # theme() ajusta os textos, os painéis e os espaços da figura.
+  # theme() ajusta os textos, os painéis e os espaços da figura
   theme(
     panel.spacing = unit(1, "cm"),
     axis.text.y = element_text(
@@ -363,7 +362,7 @@ fig_vertical <- ggplot(
     )
   )
 
-# salva o mapa de calor em alta resolução.
+# salva o mapa de calor em alta resolução
 ggsave(
   file.path(resultado, "05_distribuicao_vertical.png"),
   fig_vertical,
@@ -373,22 +372,22 @@ ggsave(
 )
 
 
-# calcula diferencas apenas para pares consecutivos existentes em cada transecto.
+# calcula diferencas apenas para pares consecutivos existentes em cada transecto
 diferencas <- vertical %>%
-  # arrange() ordena os registros para que os quadrados fiquem na sequência correta dentro de cada transecto.
+  # arrange() ordena os registros para que os quadrados fiquem na sequência correta dentro de cada transecto
   arrange(grupo, transecto, taxon, quadrado) %>%
-  # group_by() garante que lead() compare quadrados do mesmo grupo, transecto e taxon.
+  # group_by() garante que lead() compare quadrados do mesmo grupo, transecto e taxon
   group_by(grupo, transecto, taxon) %>%
-  # mutate() cria colunas com o quadrado seguinte, sua cobertura e a diferença entre as coberturas.
+  # mutate() cria colunas com o quadrado seguinte, sua cobertura e a diferença entre as coberturas
   mutate(
     Q_anterior = quadrado,
-    # lead() pega o valor da linha seguinte; aqui identifica o próximo quadrado do transecto.
+    # lead() pega o valor da linha seguinte; aqui identifica o próximo quadrado do transecto
     Q_seguinte = lead(quadrado),
-    # lead() também busca a cobertura do próximo quadrado para permitir a comparação.
+    # lead() também busca a cobertura do próximo quadrado para permitir a comparação
     cobertura_seguinte = lead(cobertura_pct),
     diferenca = cobertura_pct - cobertura_seguinte
   ) %>%
-  # filter() manteria apenas linhas que atendem a uma condição; neste caso, seleciona pares de Q consecutivos.
+  # filter() seleciona pares de quadrados consecutivos 
   filter(!is.na(Q_seguinte), Q_seguinte == Q_anterior + 1) %>%
   ungroup()
 
@@ -429,14 +428,14 @@ write.csv(riqueza_grupo, file.path(resultado, "riqueza_por_grupo.csv"),
 
 
 # dendrograma de similaridade entre transectos
-# calcula a distancia de Bray-Curtis independentemente da PCoA.
+# calcula a distancia de Bray-Curtis independentemente da PCoA
 if (nrow(mat_transectos) >= 2 && all(rowSums(mat_transectos) > 0)) {
   # calcular dissimilaridade de Bray-Curtis
-  # vegdist() calcula novamente Bray-Curtis, agora para construir o dendrograma dos transectos.
+  # vegdist() calcula novamente Bray-Curtis, agora para construir o dendrograma dos transectos
   dist_bray_dend <- vegan::vegdist(mat_transectos, method = "bray")
   # agrupamento hierarquico UPGMA
-  # as.dist() garante que o resultado seja tratado como objeto de distâncias.
-  # hclust() faz o agrupamento hierárquico; method = "average" corresponde ao UPGMA.
+  # as.dist() garante que o resultado seja tratado como objeto de distâncias
+  # hclust() faz o agrupamento hierárquico; method = "average" corresponde ao UPGMA
   agrupamento <- hclust(as.dist(dist_bray_dend), method = "average")
   # converter a altura do dendrograma em similaridade (%)
   altura_similaridade <- (1 - agrupamento$height) * 100
@@ -618,8 +617,8 @@ if (nrow(mat_presenca) >= 3) {
   ) +
     geom_point(size = 3) +
     
-    # geom_text_repel() afasta os nomes sem alterar as coordenadas dos pontos.
-    # geom_text_repel() afasta os rótulos para evitar sobreposição.
+    # geom_text_repel() afasta os nomes sem alterar as coordenadas dos pontos
+    # geom_text_repel() afasta os rótulos para evitar sobreposição
     ggrepel::geom_text_repel(
       aes(label = paste0(transecto, " Q", quadrado)),
       show.legend = FALSE,
