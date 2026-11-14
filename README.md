@@ -4,7 +4,7 @@ Primeiro passo - Instale as bibliotecas
 
 ```
 install.packages( 
-  c("readxl", "dplyr", "tidyr", "ggplot2", "vegan"), 
+  c("readxl", "dplyr", "tidyr", "ggplot2", "vegan", "stringr", "ggh4x","colorspace", "ggrepel"),
   dependencies = TRUE, 
   repos = "https://cloud.r-project.org" 
 )
