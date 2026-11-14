@@ -1,7 +1,12 @@
 # AnaliseCostaoRochoso
 
-Primeiro passo - Instale as bibliotecas
+- Instale o R Studio: https://posit.co/downloads
+  
+- Instale as bibliotecas no console
 
+<br>
+<img width="938" height="189" alt="Captura de tela de 2026-11-14 19-18-59" src="https://github.com/user-attachments/assets/4b32da43-3898-460b-b27c-fe112cd1d728" />
+<br>
 ```
 install.packages( 
   c("readxl", "dplyr", "tidyr", "ggplot2", "vegan", "stringr", "ggh4x","colorspace", "ggrepel"),
@@ -9,11 +14,13 @@ install.packages(
   repos = "https://cloud.r-project.org" 
 )
 ```
-Segundo passo - Coloque o endereço da planilha nessa linha
+- Coloque o endereço da planilha na linha 14:
 
 ```arquivo <- "endereco da planilha"```
 
-Terceiro passo - Ctrl + Enter roda todo o script
+- Ctrl + A e depois Ctrl + Enter roda todo o script
+
+- Vai ser criado a pasta resultado_costao no downloads, suas figuras estarão lá
 
 ## Funções importantes e seus pacotes 
 
