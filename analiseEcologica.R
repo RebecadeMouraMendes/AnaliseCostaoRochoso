@@ -11,7 +11,7 @@ if (length(faltantes) > 0) {
 invisible(lapply(pacotes, library, character.only = TRUE))
 
 #acha o arquivo e cria a pasta dos resultados
-arquivo <- "/home/becca/Downloads/planilha_costao.xlsx"
+arquivo <- "/home/extremarlab/Downloads/planilha_costao.xlsx"
 resultado <- file.path(dirname(arquivo), "resultado_costao")
 dir.create(resultado, recursive = TRUE, showWarnings = FALSE)
 
@@ -567,23 +567,43 @@ if (nrow(mat_quadrados) >= 2 && all(rowSums(mat_quadrados) > 0)) {
   )
 }
 
-# PCoA utilizando Jaccard (presença e ausência)
 
-# transforma a cobertura em presença (1) ou ausência (0) de cada taxon.
-mat_presenca <- (mat_quadrados > 0) * 1
+# PCoA utilizando Jaccard por transecto
 
-# remove fotoquadrados sem nenhum taxon registrado.
-manter <- rowSums(mat_presenca) > 0
-mat_presenca <- mat_presenca[manter, , drop = FALSE]
+# transforma a cobertura média em presença (1) ou ausência (0).
+# se o taxon apresentou cobertura maior que zero em pelo menos
+# um fotoquadrado do transecto, será considerado presente.
+if (anyNA(mat_transectos)) {
+  stop("Existem valores ausentes na matriz de transectos.")
+}
 
-# calcula a dissimilaridade de Jaccard entre os fotoquadrados.
+mat_presenca_transectos <- (mat_transectos > 0) * 1
+
+# remove transectos sem nenhum taxon registrado.
+manter <- rowSums(mat_presenca_transectos) > 0
+
+mat_presenca_transectos <- mat_presenca_transectos[
+  manter, , drop = FALSE
+]
+
+# recupera os grupos correspondentes aos transectos,
+# mantendo a mesma ordem da matriz.
+meta_jaccard <- data.frame(
+  transecto = rownames(mat_presenca_transectos)
+) %>%
+  left_join(
+    meta %>% distinct(transecto, grupo),
+    by = "transecto"
+  )
+
+# calcula a dissimilaridade de Jaccard entre os transectos.
 dist_jaccard <- vegan::vegdist(
-  mat_presenca,
+  mat_presenca_transectos,
   method = "jaccard",
   binary = TRUE
 )
 
-if (nrow(mat_presenca) >= 3) {
+if (nrow(mat_presenca_transectos) >= 3) {
   
   # realiza a PCoA utilizando as distâncias de Jaccard.
   ord_jaccard <- vegan::wcmdscale(
@@ -593,66 +613,55 @@ if (nrow(mat_presenca) >= 3) {
     add = "lingoes"
   )
   
-  # recupera os metadados dos fotoquadrados na mesma ordem da matriz.
-  meta_jaccard <- meta[
-    match(rownames(mat_presenca), meta$amostra),
-  ]
-  
-  # organiza as coordenadas dos fotoquadrados e seus metadados.
+  # organiza as coordenadas dos transectos e seus grupos.
   pontos_jaccard <- data.frame(
-    amostra = rownames(mat_presenca),
+    transecto = rownames(mat_presenca_transectos),
     PCoA1 = ord_jaccard$points[, 1],
     PCoA2 = ord_jaccard$points[, 2]
   ) %>%
-    left_join(meta_jaccard, by = "amostra")
+    left_join(meta_jaccard, by = "transecto")
   
-  # calcula a porcentagem de variação representada pelos dois eixos.
+  # calcula a porcentagem de variação representada pelos eixos.
   variacao_jaccard <- 100 * ord_jaccard$eig[1:2] /
     sum(ord_jaccard$eig[ord_jaccard$eig > 0])
   
-  # constrói o gráfico de ordenação dos fotoquadrados.
+  # constrói o gráfico de ordenação dos transectos.
   fig_pcoa_jaccard <- ggplot(
     pontos_jaccard,
     aes(PCoA1, PCoA2, color = grupo)
   ) +
     geom_point(size = 3) +
     
-    # geom_text_repel() afasta os nomes sem alterar as coordenadas dos pontos
-    # geom_text_repel() afasta os rótulos para evitar sobreposição
+    # identifica cada ponto pelo nome do transecto.
     ggrepel::geom_text_repel(
-      aes(label = paste0(transecto, " Q", quadrado)),
+      aes(label = transecto),
       show.legend = FALSE,
-      size = 2.8,
+      size = 3,
       max.overlaps = Inf,
-      box.padding = 0.8,
-      point.padding = 0.6,
-      force = 5,
-      force_pull = 0.5,
-      direction = "both",
-      max.iter = 10000,
-      max.time = 5,
-      min.segment.length = 0,
-      segment.color = "grey50",
-      segment.size = 0.3,
       seed = 123
-    )+
+    ) +
     
     theme_minimal() +
     labs(
       title = "PCoA - Jaccard",
-      subtitle = "Composição dos táxons por presença e ausência",
+      subtitle = "Composição dos táxons por presença e ausência entre transectos",
       x = sprintf("PCoA1 (%.1f%%)", variacao_jaccard[1]),
       y = sprintf("PCoA2 (%.1f%%)", variacao_jaccard[2]),
       color = "Grupo"
     )
+  
   # salva o gráfico de PCoA de Jaccard.
   ggsave(
-    file.path(resultado, "09_PCoA_Jaccard.png"),
+    file.path(resultado, "09_PCoA_Jaccard_transectos.png"),
     fig_pcoa_jaccard,
-    width = 18,
-    height = 14,
+    width = 12,
+    height = 10,
     dpi = 300
   )
+  
+} else {
+  message("PCoA de Jaccard nao calculada: sao necessarios pelo menos 3 transectos com taxa registrados.")
 }
+
 
 cat("\nTodas as analises foram feitas!")
